@@ -1,0 +1,27 @@
+{
+  "compId": 2,
+  "child": [
+    {
+      "compId": 3,
+      "type": "Label",
+      "props": {
+        "bold": true,
+        "color": "#ffffff",
+        "text": ">>直接领取<<",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fontSize": 40,
+        "centerX": 0,
+        "centerY": 0,
+        "var": "btn_getAward"
+      }
+    }
+  ],
+  "type": "View",
+  "props": {
+    "width": 256,
+    "height": 40
+  },
+  "loadList": [],
+  "loadList3D": []
+}

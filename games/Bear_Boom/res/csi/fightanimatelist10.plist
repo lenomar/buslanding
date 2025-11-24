@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect/merge/merge1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{879,1},{130,136}}</string>
+				<key>offset</key>
+				<string>{-2,5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,765},{250,246}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,511},{250,242}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{483,233},{227,220}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{697,1},{180,194}}</string>
+				<key>offset</key>
+				<string>{1,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{486,1},{225,209}}</string>
+				<key>offset</key>
+				<string>{4,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{254,257},{243,227}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{495,763},{247,232}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{249,765},{249,244}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,511},{252,250}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{253,254}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/merge9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,257},{252,251}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>effect/merge/slm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,1},{228,230}}</string>
+				<key>offset</key>
+				<string>{2,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>fightanimatelist10.png</string>
+			<key>realTextureFileName</key>
+			<string>fightanimatelist10.png</string>
+			<key>size</key>
+			<string>{1016,1016}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1016</integer>
+			<key>height</key>
+			<integer>1016</integer>
+		</dict>
+	</dict>
+</plist>

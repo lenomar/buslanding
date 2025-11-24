@@ -1,0 +1,107 @@
+{
+  "share": {
+    "key": "share",
+    "value": 3,
+    "remark": "假分享成功时间（秒）"
+  },
+  "todayshartimes": {
+    "key": "todayshartimes",
+    "value": 0,
+    "remark": "玩家可分享次数"
+  },
+  "defaultgold": {
+    "key": "defaultgold",
+    "value": 800,
+    "remark": "默认金币（个数）"
+  },
+  "bannerSwitchTime": {
+    "key": "bannerSwitchTime",
+    "value": 4,
+    "remark": "【前端】banner曝光间隔"
+  },
+  "bannerSwitchCount": {
+    "key": "bannerSwitchCount",
+    "value": 5,
+    "remark": "【前端】banner单次拉取数量"
+  },
+  "newUserShowChaping": {
+    "key": "newUserShowChaping",
+    "value": 0,
+    "remark": "【前端】新手插屏（1弹插屏；0不弹插屏）"
+  },
+  "loadingShowBanner": {
+    "key": "loadingShowBanner",
+    "value": 1,
+    "remark": "【前端】loading显示banner（1显示；0不显示）"
+  },
+  "bannerFirstSwitchCount": {
+    "key": "bannerFirstSwitchCount",
+    "value": 2,
+    "remark": "【前端】进入游戏首次拉取banner数量"
+  },
+  "bxCheckPoint": {
+    "key": "bxCheckPoint",
+    "value": "1-20",
+    "remark": "【前端】游戏中弹宝箱关卡控制"
+  },
+  "switchGameTopTime": {
+    "key": "switchGameTopTime",
+    "value": 40,
+    "remark": "【前端】游戏中弹顶部位置banner间隔（单位：秒）"
+  },
+  "switchGameTopHideTime": {
+    "key": "switchGameTopHideTime",
+    "value": 500,
+    "remark": "【前端】游戏中弹顶部位置banner每次展示时间（单位：毫秒）"
+  },
+  "defaultpower": {
+    "key": "defaultpower",
+    "value": 10,
+    "remark": "【前端】默认体力(个数）"
+  },
+  "powermax": {
+    "key": "powermax",
+    "value": 10,
+    "remark": "【前端】体力上限（个数）"
+  },
+  "powerrecoverytime": {
+    "key": "powerrecoverytime",
+    "value": 1200,
+    "remark": "【前端】体力恢复时间（秒）"
+  },
+  "powerrecoverynum": {
+    "key": "powerrecoverynum",
+    "value": 1,
+    "remark": "【前端】每次恢复体力（个数）"
+  },
+  "freepowernum": {
+    "key": "freepowernum",
+    "value": 2,
+    "remark": "【前端】每次成功看视频/分享，获得体力个数"
+  },
+  "offlinemintime": {
+    "key": "offlinemintime",
+    "value": 600,
+    "remark": "【前端】开始算离线收益时间（秒）"
+  },
+  "offlinemaxtime": {
+    "key": "offlinemaxtime",
+    "value": 3600,
+    "remark": "【前端】离线最长时间（秒）"
+  },
+  "homepagebanner": {
+    "key": "homepagebanner",
+    "value": 1,
+    "remark": "【前端】主界面底部显示banner还是格子（填的banner的显示，1奇数关卡显示，2偶数关卡显示。）"
+  },
+  "unlockinterval": {
+    "key": "unlockinterval",
+    "value": 15,
+    "remark": "【解锁】车辆解锁后间隔XX秒再显示下一个解锁（单位：秒）"
+  },
+  "fullscreentime": {
+    "key": "fullscreentime",
+    "value": 0.1,
+    "remark": "【前端】登录全屏“开始游戏”按钮延迟时间（单位：秒）"
+  }
+}

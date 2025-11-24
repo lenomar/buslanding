@@ -1,0 +1,317 @@
+{
+  "title": "Basketball_Crazy",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/452.jpg",
+      "name": "Alex Smith",
+      "rating": 5,
+      "comment": "This game is absolutely insane, in the best possible way! The fast-paced action and over-the-top dunks make every match a thrill. The special moves are incredibly fun to pull off, and the variety of characters keeps things exciting. I can't stop playing it!",
+      "date": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/89.jpg",
+      "name": "Sarah Chen",
+      "rating": 4,
+      "comment": "Basketball_Crazy is super fun, but I wish there were more diverse game modes. The core gameplay is solid, but after a while, it could use more challenges or special events to keep me coming back. Still, great for quick, intense matches.",
+      "date": "2023-09-22"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Michael Brown",
+      "rating": 5,
+      "comment": "Pure arcade basketball bliss! The controls are perfectly responsive, and the exaggerated physics make for some truly hilarious and satisfying moments. It's easy to jump in and start playing, but there's enough depth to master your favorite character. A definite highlight for arcade sports fans.",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/765.jpg",
+      "name": "Jessica Davis",
+      "rating": 2,
+      "comment": "The game is okay, but the ads are a huge problem. They interrupt the flow constantly, making it frustrating to play for any extended period. It feels like I spend more time watching ads than actually playing. Needs a major ad frequency reduction.",
+      "date": "2023-04-15"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/200.jpg",
+      "name": "David Wilson",
+      "rating": 5,
+      "comment": "Absolutely addictive! Basketball_Crazy delivers on its name with wild dunks and epic shots. The character designs are fantastic, and unlocking new abilities keeps me hooked. It's challenging enough to be engaging, but always a blast to play. My go-to mobile game for a quick pick-me-up!",
+      "date": "2024-11-28"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Emily Green",
+      "rating": 4,
+      "comment": "Simple to understand, but mastering the special moves takes some practice. It’s great for quick bursts of fun. My younger siblings love it, and it's surprisingly competitive for a casual game. A good balance of accessibility and challenge for all ages.",
+      "date": "2025-02-05"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Chris Taylor",
+      "rating": 1,
+      "comment": "This game gets incredibly repetitive very fast. There's not enough variety in gameplay or objectives to keep it interesting after the first few matches. It feels like a shallow experience that hasn't evolved beyond its initial concept. Disappointing lack of content.",
+      "date": "2023-07-01"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/912.jpg",
+      "name": "Olivia Moore",
+      "rating": 5,
+      "comment": "Truly brilliant game design! The unique abilities of each character add so much strategic depth to the matches. It makes you think about team composition and timing your special moves perfectly. The visuals are vibrant, and the action is always exciting. A must-play for competitive players!",
+      "date": "2024-06-18"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/55.jpg",
+      "name": "Liam Clark",
+      "rating": 4,
+      "comment": "The art style and over-the-top animations are fantastic. Every dunk feels powerful, and the character designs are really cool. It's a visually appealing game that also delivers a smooth and exciting gameplay experience. Just wish there were more courts to play on.",
+      "date": "2023-11-03"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/140.jpg",
+      "name": "Sophia Hall",
+      "rating": 3,
+      "comment": "It's an okay basketball game, but it doesn't really stand out. It fills the time, but there's nothing particularly innovative or memorable about it compared to other arcade sports titles. A decent distraction, but don't expect it to blow you away.",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/732.jpg",
+      "name": "Ethan Lewis",
+      "rating": 5,
+      "comment": "I literally can't stop playing Basketball_Crazy! The energy of each match is infectious, and the controls are so precise, letting you pull off amazing plays. It's the perfect mix of skill and chaotic fun. Totally hooked!",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/980.jpg",
+      "name": "Ava King",
+      "rating": 4,
+      "comment": "Great for quick gaming sessions during commutes. The matches are short, punchy, and incredibly satisfying. It’s a perfect way to inject some excitement into a boring wait or commute. Highly recommend for mobile gaming on the go.",
+      "date": "2023-05-29"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/410.jpg",
+      "name": "Noah Parker",
+      "rating": 1,
+      "comment": "Beyond frustrating! The game forces you into continuous ad breaks and aggressively pushes for in-app purchases to unlock anything meaningful. It completely ruins any enjoyment. It feels like a scam designed to extract money rather than provide entertainment. Uninstalled quickly.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/601.jpg",
+      "name": "Isabella Carter",
+      "rating": 5,
+      "comment": "This is hands down the best arcade basketball game I've played! The gameplay is fast, fluid, and incredibly exciting. The special moves add a fantastic layer of strategy and spectacle. Every dunk is a highlight reel. A definite must-play for basketball fans!",
+      "date": "2025-04-03"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "James Rodriguez",
+      "rating": 4,
+      "comment": "Challenging but always fair. The AI provides a good test of skill, and the special moves require thoughtful timing. It strikes a great balance between being accessible and offering depth for competitive play. Very well-designed.",
+      "date": "2023-08-11"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/250.jpg",
+      "name": "Charlotte Turner",
+      "rating": 3,
+      "comment": "Good concept, but it needs more varied content. After playing for a while, the matches start to feel too similar. More game modes, challenges, or unique court designs would significantly improve its replayability. It has potential, but needs more substance.",
+      "date": "2024-08-01"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Benjamin Green",
+      "rating": 5,
+      "comment": "Super addictive! The increasing difficulty and the thrill of unlocking new characters keep me totally hooked. Every victory feels earned, and pulling off a perfect combo is incredibly satisfying. It's an absolute blast to play, every single time. Can't get enough!",
+      "date": "2025-03-20"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/30.jpg",
+      "name": "Mia Thompson",
+      "rating": 4,
+      "comment": "Simple interface but surprisingly deep competitive gameplay. Don't let the cartoonish style fool you; mastering the characters and their unique abilities requires real skill and foresight. It's an excellent example of accessible yet challenging design. Very engaging!",
+      "date": "2023-03-25"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Logan Harris",
+      "rating": 2,
+      "comment": "Got bored very quickly. The lack of new content or progression beyond basic matches means there's not much reason to keep playing long-term. It feels like a quick diversion that runs out of steam too soon. Needs more to hold player interest.",
+      "date": "2024-05-08"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "Chloe Miller",
+      "rating": 5,
+      "comment": "Perfect for unwinding after a stressful day! The fast-paced, exciting matches are a great way to blow off steam. It's mentally stimulating without being overly taxing, making it an ideal choice for quick fun. Truly a delightful and engaging experience.",
+      "date": "2025-01-15"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Daniel White",
+      "rating": 4,
+      "comment": "My friends and I play this constantly! It's an amazing local multiplayer experience, creating intense rivalries and endless laughs. Easy to pick up, but hard to put down. A must-have party game for anyone who loves competitive fun. Highly recommend!",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/160.jpg",
+      "name": "Abigail Perez",
+      "rating": 3,
+      "comment": "It's a good game, but nothing truly special. It offers solid arcade basketball action, but doesn't bring anything particularly new or groundbreaking to the genre. It's a decent time-filler if you're looking for something simple, but don't expect innovation.",
+      "date": "2024-07-29"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Matthew King",
+      "rating": 5,
+      "comment": "The satisfaction of a game-winning buzzer-beater is unparalleled! This game perfectly captures the excitement and drama of basketball. It’s brilliantly designed to deliver thrilling moments constantly. I'm always chasing that next epic play.",
+      "date": "2025-04-10"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Sophie Wright",
+      "rating": 4,
+      "comment": "Great time killer with smart, fast-paced matches. It's perfect for when you have a few minutes to spare and want to challenge your reflexes. The controls are responsive, making every move feel precise. A well-designed game for quick bursts of entertainment.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/500.jpg",
+      "name": "Leo Martinez",
+      "rating": 1,
+      "comment": "The monetization in this game is predatory. You hit a paywall very quickly, forcing you to either watch endless ads or spend money to unlock basic features. It's a shame because the core gameplay is fun, but the business model ruins it completely. Avoid.",
+      "date": "2024-09-17"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Grace Lopez",
+      "rating": 5,
+      "comment": "Brilliant! The strategic element of choosing different legendary players and utilizing their unique skills is fantastic. It truly makes you think about team composition and timing. An absolute blast to play and a great mental workout disguised as fun!",
+      "date": "2025-01-28"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "Simple yet challenging. Perfect for short, intense breaks. The controls are easy to grasp, but mastering the special moves and character matchups adds a lot of depth. A solid choice for quick, engaging sports action on your phone.",
+      "date": "2023-06-19"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Victoria Scott",
+      "rating": 3,
+      "comment": "It's an okay game, but I've seen more unique arcade basketball concepts. While it delivers on its promise of exaggerated action, it doesn't bring anything groundbreaking to the table. It's a decent diversion, but doesn't offer the innovation found in other titles.",
+      "date": "2024-04-05"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Andrew Young",
+      "rating": 5,
+      "comment": "Can't put it down! The fast-paced gameplay and epic special moves are incredibly addictive. Every match is a thrill, and trying to pull off insane dunks never gets old. It's an absolute joy to play, constantly keeping me engaged and entertained for hours.",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "Samantha Baker",
+      "rating": 4,
+      "comment": "Great for developing quick reflexes and strategic thinking in real-time. The game forces you to make split-second decisions and adapt to your opponent's moves. It's not just a casual game; it's a good way to sharpen your competitive edge. Highly beneficial.",
+      "date": "2023-09-07"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Kevin Martinez",
+      "rating": 2,
+      "comment": "Gets boring very quickly due to the lack of varied opponents or unique match conditions. The gameplay loop becomes monotonous after a short time, and there's not enough to keep me engaged long-term. Needs more compelling reasons to keep playing consistently.",
+      "date": "2024-10-12"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Stephanie Garcia",
+      "rating": 5,
+      "comment": "Best mobile sports game I've played in a long time! The fluid animations, iconic players, and exciting special moves make it incredibly fun. It's a polished and engaging experience that truly captures the crazy spirit of basketball. A definite must-play for fans!",
+      "date": "2025-05-19"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Brandon Adams",
+      "rating": 4,
+      "comment": "Challenging but fair, which is essential for a competitive game. The AI provides a good challenge, and online matches are always intense. It makes you think about your strategy and adapt on the fly. Good balance of challenge and accessibility for players.",
+      "date": "2023-07-20"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Maria Hernandez",
+      "rating": 3,
+      "comment": "Good concept, but the execution could be better in terms of content updates or online stability. While it's fun, there are occasional connection issues that disrupt competitive play. With some more polish and regular content, it could be truly great.",
+      "date": "2024-02-29"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Kyle Turner",
+      "rating": 5,
+      "comment": "So incredibly satisfying to win those nail-biting matches! The feeling of pulling off a perfectly timed block or a crucial dunk is highly addictive. It's an unadulterated dose of basketball fun that keeps me coming back for more. Can't get enough of this crazy game!",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "Megan Lopez",
+      "rating": 4,
+      "comment": "Great for passing time without feeling unproductive. It's mentally stimulating and surprisingly engaging, making it a good way to use spare moments. The matches are quick and fun, and the characters add a lot of personality. A solid choice for competitive fun.",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Justin Clark",
+      "rating": 3,
+      "comment": "It's a decent game, but I found the controls to be a bit clunky at times, leading to frustrating misses. It could benefit from more refined input. While the concept is fun, the execution needs a little more polish to be truly enjoyable consistently.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Hannah Walker",
+      "rating": 5,
+      "comment": "My kids absolutely adore this game, and I've found myself hooked as well! It's fantastic for family fun, with easy-to-understand mechanics but enough excitement for everyone. The bright visuals and energetic gameplay are a huge hit. Highly recommend for any household!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Aaron Green",
+      "rating": 4,
+      "comment": "The special abilities are really what make this game shine. They add a layer of strategy that keeps matches from feeling too basic. It's exciting to see what each character can do and how they fit into different playstyles. A clever addition to the arcade formula.",
+      "date": "2023-05-10"
+    }
+  ]
+}

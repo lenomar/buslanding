@@ -1,0 +1,317 @@
+{
+  "title": "Blocks8",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Alex Smith",
+      "rating": 5,
+      "comment": "Blocks8 is incredibly addictive and a fantastic brain-teaser! The simple concept hides surprising strategic depth. I love how challenging it gets, pushing me to think several steps ahead. Perfect for quick breaks or long sessions. Highly recommend it to any puzzle fan!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Ольга Иванова",
+      "rating": 4,
+      "comment": "Очень увлекательная головоломка. Концепция простая, но затягивает надолго. Иногда кажется, что не хватает бонусов или отмены хода, но это делает игру более сложной. Отличный способ скоротать время и потренировать мозг.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Clara Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est un pur génie! Blocks8 est simple à comprendre mais diaboliquement difficile à maîtriser. Chaque partie est un nouveau défi stimulant, et la satisfaction de réussir un gros combo est immense. Parfait pour aiguiser l'esprit et se détendre à la fois!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist okay, aber die Werbung macht das Spiel unspielbar. Ständig wird man unterbrochen, was den Spielfluss komplett zerstört. Es ist frustrierend und man hat keine Chance, sich auf die Strategie zu konzentrieren. Sehr enttäuschend.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "Blocks8真是太棒了！玩法簡單直觀，但非常考驗邏輯和策略。每次成功消除一大片方塊都超有成就感。遊戲流暢，介面簡潔。是個讓人一玩就停不下來的益智遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A very solid and engaging puzzle game. It's easy to pick up, but the strategic depth keeps you coming back. The clean interface makes it easy on the eyes, too. Sometimes a bit too reliant on luck, but still a great mental exercise.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Елена Козлова",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и тормозит, особенно после нескольких ходов. Невозможно играть без нервов. Разработчики, пожалуйста, исправьте оптимизацию! Пока это не сделано, это просто пустая трата времени. Очень разочарована.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! Blocks8 ist so fesselnd und erfordert wirklich strategisches Denken. Man muss jeden Zug gut überlegen. Es ist ein perfekter Gehirn-Trainer und macht dabei unglaublich viel Spaß. Suchtfaktor hoch, klare Empfehlung für Puzzle-Fans!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The minimalistic design is great, and it really lets the puzzle mechanics shine. It's easy to lose track of time while playing. Sometimes the random block generation feels a bit unfair, but that's part of the challenge. A solid and enjoyable puzzle game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲概念很好，但玩久了會覺得變化不足，容易疲乏。希望能有更多新的方塊類型、道具或特殊模式，增加遊戲的耐玩度。目前就是個消磨時間的小品。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Blocks8! C'est le jeu parfait pour stimuler mon cerveau tout en me détendant. La simplicité du concept cache une profondeur stratégique incroyable. Chaque partie est un défi unique et stimulant. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая головоломка, которая заставляет подумать. Правила простые, но комбинации блоков заставляют планировать ходы. Иногда хочется кнопки отмены хода для тренировки. Отличный способ развить логическое мышление. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Reine Zeitverschwendung. Das Spiel ist vollgestopft mit Werbung und die Fortschritt ist extrem langsam, es sei denn, man kauft sich Vorteile. Das ist ein Pay-to-Win-Modell, das den Spielspaß komplett zerstört. Finger weg, wenn ihr keine Lust auf ständige Unterbrechungen habt.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Blocks8 is brilliant in its simplicity and depth! It's incredibly addictive, forcing you to think strategically about every placement. The clean design makes it easy on the eyes, and the satisfying feeling of clearing multiple lines is unmatched. A true gem of a puzzle game!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這遊戲非常考驗空間概念和策略。每次擺放方塊都需要思考如何最大化消除。雖然有時會遇到無解的局面，但這也是挑戰的一部分。很適合喜歡動腦的玩家，可以玩很久。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un bon jeu de puzzle pour passer le temps, mais il manque un peu de modes de jeu variés ou de défis spéciaux. Le concept est solide, mais il pourrait bénéficier de plus de contenu pour maintenir l'intérêt à long terme. Correct, sans plus.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Blocks8 - это просто феноменально! Очень затягивающая и умная головоломка. Каждый ход имеет значение, и нужно постоянно думать на несколько шагов вперед. Графика минималистичная, но очень приятная. Настоятельно рекомендую всем любителям логических игр!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Einfach und doch tiefgründig. Man unterschätzt, wie viel Strategie in diesem Spiel steckt. Es ist perfekt, um kurz das Gehirn zu trainieren. Manchmal ist es frustrierend, wenn keine passenden Blöcke kommen, aber das gehört dazu. Ein guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "This game becomes incredibly repetitive very quickly. The core mechanic is fine, but there's no real progression or variation in objectives. It feels like a very basic puzzle game without any compelling reason to keep playing after a short while. Disappointing.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "玩Blocks8讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的腦力訓練。每次成功達成高分都很有成就感，簡潔的設計也讓人能更專注於遊戲本身。非常推薦給喜歡挑戰的玩家。",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et stimuler son esprit. Les graphismes sont clairs et le gameplay est fluide. Les niveaux sont assez variés et offrent un bon défi stratégique. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше режимов или целей, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины для длительного прохождения. Надеюсь на будущие обновления.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "Blocks8 ist einfach großartig! Es ist so intuitiv und man kann so viele verschiedene Strategien ausprobieren. Die Herausforderung, immer höhere Punktzahlen zu erreichen, ist süchtig machend. Ein fantastischer Denksport und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A smart and engaging puzzle game. It's easy to learn but hard to master, which is the perfect combination. The sense of accomplishment when you clear a large section of blocks is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "這個遊戲的廣告太多了，嚴重打斷遊戲流程。而且感覺不花錢就很难玩下去，非常失望。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! Blocks8 est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque partie est une nouvelle énigme à résoudre. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная головоломка для развития логики. Правила простые, но уровни требуют продуманных ходов. Хорошо подходит для расслабления и тренировки мозга. Единственное, хотелось бы больше разнообразия в видах блоков или бонусах.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Die Level sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "Blocks8 is an absolute gem! It's so simple yet incredibly strategic and addictive. The satisfaction of clearing multiple lines with a single move is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any puzzle game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於思考。它不僅考驗空間排列能力，也需要一些策略性。雖然是傳統的方塊消除，但玩起來很有新鮮感，每次突破高分都很有成就感。值得推薦。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Il n'y a pas assez de variété dans les objectifs ou les types de blocs. Ça manque de profondeur pour une rejouabilité à long terme. On fait le tour des possibilités rapidement, et l'ennui s'installe.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Blocks8 — это идеальная головоломка для развития логики и стратегического мышления. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Lösen konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a whole board with a perfectly placed block! Blocks8 is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The minimalist design is sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗邏輯和規劃能力的益智遊戲。雖然規則簡單，但要達到高分需要深思熟慮。適合在碎片時間玩，也能訓練腦力。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома блоков. Иногда просто невозможно сделать хороший ход, и это расстраивает. Если бы было больше контроля над ситуацией, было бы намного интереснее и справедливее.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Blocks8! Es ist so ein geniales und herausforderndes Puzzle-Spiel. Man kann so leicht einsteigen, aber die Strategie, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Un excellent jeu de réflexion pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque partie est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    }
+  ]
+}

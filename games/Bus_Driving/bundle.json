@@ -1,0 +1,42 @@
+[
+  {
+    "name": "car_textures",
+    "prefix": "car_textures/",
+    "zipUrl": "car_textures.zip"
+  },
+  {
+    "name": "LayaScene_Game_car",
+    "prefix": "LayaScene_Game_car/",
+    "zipUrl": "LayaScene_Game_car.zip"
+  },
+  {
+    "name": "LayaScene_YYF_CJ",
+    "prefix": "LayaScene_YYF_CJ/",
+    "zipUrl": "LayaScene_YYF_CJ.zip"
+  },
+  {
+    "name": "LayaScene_YYF_level",
+    "prefix": "LayaScene_YYF_level/",
+    "zipUrl": "LayaScene_YYF_level.zip"
+  },
+  {
+    "name": "box",
+    "prefix": "box/",
+    "zipUrl": "box.zip"
+  },
+  {
+    "name": "auto_car",
+    "prefix": "auto_car/",
+    "zipUrl": "auto_car.zip"
+  },
+  {
+    "name": "auto_cj",
+    "prefix": "auto_cj/",
+    "zipUrl": "auto_cj.zip"
+  },
+  {
+    "name": "auto_level",
+    "prefix": "auto_level/",
+    "zipUrl": "auto_level.zip"
+  }
+]

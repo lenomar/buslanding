@@ -1,0 +1,579 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 3
+    },
+    {
+      "type": "Box",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      "compId": 4,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "skin": "gameui/newUI/pack/diban.png",
+            "name": "img_bg",
+            "centerY": 0,
+            "centerX": 0
+          },
+          "compId": 9,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "top": -59,
+                "skin": "gameui/newUI/pack/title_1.png",
+                "name": "img_gold",
+                "left": 43
+              },
+              "compId": 6,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "skin": "gameui/newUI/pack/jinbi.png",
+                    "left": 18,
+                    "centerY": 0
+                  },
+                  "compId": 10
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "width": 155,
+                    "valign": "middle",
+                    "text": "Coin",
+                    "name": "lab",
+                    "left": 73,
+                    "height": 61,
+                    "fontSize": 34,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 11
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "top": -9,
+                    "skin": "gameui/newUI/pack/tanhao.png",
+                    "right": 24,
+                    "name": "img_have"
+                  },
+                  "compId": 14
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": -57,
+                "skin": "gameui/newUI/pack/title_2.png",
+                "name": "img_energy",
+                "left": 237
+              },
+              "compId": 8,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/newUI/pack/tili.png",
+                    "left": 18,
+                    "centerY": 0
+                  },
+                  "compId": 12
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "width": 155,
+                    "valign": "middle",
+                    "text": "AP",
+                    "name": "lab",
+                    "left": 73,
+                    "height": 61,
+                    "fontSize": 34,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 13
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "top": -9,
+                    "skin": "gameui/newUI/pack/tanhao.png",
+                    "right": 24,
+                    "name": "img_have"
+                  },
+                  "compId": 15
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": 30,
+                "skin": "gameui/newUI/pack/kuang_1.png",
+                "name": "img_kuang_1",
+                "left": 66
+              },
+              "compId": 16,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "top": 11,
+                    "skin": "gameui/newUI/pack/jinbi_xiao.png",
+                    "name": "img_reward_icon_s",
+                    "left": 54
+                  },
+                  "compId": 17
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 155,
+                    "valign": "middle",
+                    "top": -4,
+                    "text": "x1000",
+                    "name": "lab_gold_num",
+                    "left": 97,
+                    "height": 61,
+                    "fontSize": 28,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 18
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "skin": "gameui/newUI/pack/jinbi_dui_1.png",
+                    "name": "img_reward_icon",
+                    "centerY": 10,
+                    "centerX": 0
+                  },
+                  "compId": 20
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 61,
+                    "x": -7,
+                    "top": 61,
+                    "skin": "gameui/newUI/pack/mianfei.png",
+                    "name": "img_free",
+                    "left": -7
+                  },
+                  "compId": 19
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 272,
+                    "x": 101,
+                    "skin": "gameui/newUI/pack/btn_1.png",
+                    "name": "img_get",
+                    "centerX": 0,
+                    "bottom": 10,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 26,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "width": 210,
+                        "valign": "middle",
+                        "text": "Free",
+                        "name": "lab_gold_num",
+                        "height": 61,
+                        "fontSize": 32,
+                        "color": "#ffffff",
+                        "centerY": 0,
+                        "centerX": 0,
+                        "bold": true,
+                        "align": "center"
+                      },
+                      "compId": 27
+                    }
+                  ]
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "valign": "middle",
+                    "text": "Last times today: ",
+                    "name": "lab_left_num",
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "centerX": -10,
+                    "bottom": -46,
+                    "bold": true
+                  },
+                  "compId": 38,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "valign": "middle",
+                        "top": 0,
+                        "text": "1",
+                        "name": "lab_left_num",
+                        "left": 210,
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": true
+                      },
+                      "compId": 39
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 0,
+                "top": 30,
+                "skin": "gameui/newUI/pack/kuang_2.png",
+                "name": "img_kuang_2",
+                "left": 356
+              },
+              "compId": 28,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "top": 11,
+                    "skin": "gameui/newUI/pack/jinbi_xiao.png",
+                    "name": "img_reward_icon_s",
+                    "left": 54
+                  },
+                  "compId": 29
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 155,
+                    "valign": "middle",
+                    "top": -4,
+                    "text": "x1000",
+                    "name": "lab_gold_num",
+                    "left": 97,
+                    "height": 61,
+                    "fontSize": 28,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 30
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "skin": "gameui/newUI/pack/jinbi_dui_2.png",
+                    "name": "img_reward_icon",
+                    "centerY": 10,
+                    "centerX": 0
+                  },
+                  "compId": 32
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 61,
+                    "x": -7,
+                    "top": 61,
+                    "skin": "gameui/newUI/pack/mianfei.png",
+                    "name": "img_free",
+                    "left": -7
+                  },
+                  "compId": 31
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 272,
+                    "x": 101,
+                    "skin": "gameui/newUI/pack/btn_1.png",
+                    "name": "img_video",
+                    "centerX": 0,
+                    "bottom": 10,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 33,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "width": 122,
+                        "valign": "middle",
+                        "text": "Free",
+                        "right": 30,
+                        "name": "lab_gold_num",
+                        "height": 61,
+                        "fontSize": 32,
+                        "color": "#ffffff",
+                        "centerY": 0,
+                        "bold": true,
+                        "align": "center"
+                      },
+                      "compId": 34
+                    },
+                    {
+                      "type": "Image",
+                      "props": {
+                        "skin": "gameui/newUI/pack/shipin.png",
+                        "left": 19,
+                        "centerY": 0
+                      },
+                      "compId": 37
+                    }
+                  ]
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "x": 0,
+                    "valign": "middle",
+                    "text": "Last times today: ",
+                    "name": "lab_left_num",
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "centerX": -10,
+                    "bottom": -46,
+                    "bold": true
+                  },
+                  "compId": 40,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "valign": "middle",
+                        "top": 0,
+                        "text": "5",
+                        "name": "lab_left_num",
+                        "left": 210,
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": true
+                      },
+                      "compId": 41
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 0,
+                "top": 30,
+                "skin": "gameui/newUI/pack/kuang_3.png",
+                "name": "img_kuang_3",
+                "left": 640
+              },
+              "compId": 42,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "top": 11,
+                    "skin": "gameui/newUI/pack/jinbi_xiao.png",
+                    "name": "img_reward_icon_s",
+                    "left": 54
+                  },
+                  "compId": 43
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 155,
+                    "valign": "middle",
+                    "top": -4,
+                    "text": "x1000",
+                    "name": "lab_gold_num",
+                    "left": 97,
+                    "height": 61,
+                    "fontSize": 28,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 44
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "skin": "gameui/newUI/pack/jinbi_dui_3.png",
+                    "name": "img_reward_icon",
+                    "centerY": 10,
+                    "centerX": 0
+                  },
+                  "compId": 46
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 61,
+                    "x": -7,
+                    "top": 61,
+                    "skin": "gameui/newUI/pack/mianfei.png",
+                    "name": "img_free",
+                    "left": -7
+                  },
+                  "compId": 45
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 272,
+                    "x": 101,
+                    "skin": "gameui/newUI/pack/btn_1.png",
+                    "name": "img_video",
+                    "centerX": 0,
+                    "bottom": 10,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "compId": 47,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "width": 122,
+                        "valign": "middle",
+                        "text": "Free",
+                        "right": 30,
+                        "name": "lab_gold_num",
+                        "height": 61,
+                        "fontSize": 32,
+                        "color": "#ffffff",
+                        "centerY": 0,
+                        "bold": true,
+                        "align": "center"
+                      },
+                      "compId": 48
+                    },
+                    {
+                      "type": "Image",
+                      "props": {
+                        "skin": "gameui/newUI/pack/shipin.png",
+                        "left": 19,
+                        "centerY": 0
+                      },
+                      "compId": 49
+                    }
+                  ]
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "x": 0,
+                    "valign": "middle",
+                    "text": "Last times today: ",
+                    "name": "lab_left_num",
+                    "fontSize": 24,
+                    "color": "#ffffff",
+                    "centerX": -10,
+                    "bottom": -46,
+                    "bold": true
+                  },
+                  "compId": 50,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "valign": "middle",
+                        "top": 0,
+                        "text": "5",
+                        "name": "lab_left_num",
+                        "left": 210,
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "bold": true
+                      },
+                      "compId": 51
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": -23,
+                "skin": "gameui/newUI/pack/guanbi.png",
+                "name": "img_close",
+                "centerX": 448,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/ui/GiftPack.ts",
+        "img_gold": "@node:6",
+        "img_energy": "@node:8",
+        "img_close": "@node:56",
+        "img_box3": "@node:42",
+        "img_box2": "@node:28",
+        "img_box1": "@node:16"
+      },
+      "compId": 52
+    }
+  ],
+  "loadList": [
+    "gameui/newUI/pack/diban.png",
+    "gameui/newUI/pack/title_1.png",
+    "gameui/newUI/pack/jinbi.png",
+    "gameui/newUI/pack/tanhao.png",
+    "gameui/newUI/pack/title_2.png",
+    "gameui/newUI/pack/tili.png",
+    "gameui/newUI/pack/kuang_1.png",
+    "gameui/newUI/pack/jinbi_xiao.png",
+    "gameui/newUI/pack/jinbi_dui_1.png",
+    "gameui/newUI/pack/mianfei.png",
+    "gameui/newUI/pack/btn_1.png",
+    "gameui/newUI/pack/kuang_2.png",
+    "gameui/newUI/pack/jinbi_dui_2.png",
+    "gameui/newUI/pack/shipin.png",
+    "gameui/newUI/pack/kuang_3.png",
+    "gameui/newUI/pack/jinbi_dui_3.png",
+    "gameui/newUI/pack/guanbi.png"
+  ],
+  "loadList3D": []
+}

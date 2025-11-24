@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bus Driving</title>
+    <style type="text/css">
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        /* xyx-sdk 需要基于这个来获取 safe area 值 */
+        :root {
+            --sat: env(safe-area-inset-top);
+            --sar: env(safe-area-inset-right);
+            --sab: env(safe-area-inset-bottom);
+            --sal: env(safe-area-inset-left);
+        }
+        html,
+        body {
+            background: #000;
+            color: #fff;
+            overflow: hidden;
+            touch-action: none;
+            -ms-touch-action: none;
+            width: 100%;
+            height: 100%;
+        }
+        canvas {
+            outline: none;
+        }
+        #version {
+            position: absolute;
+            top: 0;
+            left: 0;
+            color: #fff;
+            font-size: 12px;
+            pointer-events: none;
+            line-height: 1.5;
+            padding-left: 4px;
+            opacity: 0.5;
+            text-align: left;
+            z-index: 50;
+            text-shadow: 1px 1px 1px #565656;
+        }
+    </style>
+</head>
+<body>
+    <div id="version">V0.0.0</div>
+    <canvas></canvas>
+    <script>
+      window.XYX_GAME_INDEX_ORIGIN = location.origin;
+    </script>
+    <!-- AutoStart -->
+<script type="text/javascript" src="./output/1.js.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/2.js.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/3.js.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/4.js.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/main-5f01b890.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/main-880f3311.js?v=1713325837376"></script>
+<script type="text/javascript" src="./output/main-d91a9049.js?v=1713325837376"></script>
+<!-- AutoFinish -->
+    <script>
+    document.addEventListener(
+      'DOMContentLoaded',
+      function () {
+        xyx.triggerReady();
+          const domVersion = document.getElementById('version');
+          if (domVersion) domVersion.textContent = `V${XYX_GAME_VERSION}`;
+      },
+      false
+    );
+    </script>
+</body>
+</html>

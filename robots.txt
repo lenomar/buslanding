@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /games.json
+Disallow: /*.json
+Disallow: /games/
+Allow: /index.html
+Allow: /list.html
+Allow: /detail.html
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Sitemap: https://poki.love/sitemap.xml

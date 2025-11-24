@@ -1,0 +1,349 @@
+{
+  "title": "FlappyShooter",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Alex Johnson",
+      "rating": 5,
+      "comment": "FlappyShooter is an absolute blast! The combination of flappy bird mechanics with shooting is genius. It's challenging, addictive, and incredibly fun. The power-ups and weapon upgrades keep the gameplay fresh and exciting. Highly recommended!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Елена Смирнова",
+      "rating": 4,
+      "comment": "Очень интересная игра! Сочетание полета и стрельбы делает ее уникальной. Иногда сложно, но это только добавляет азарта. Графика простая, но приятная. Отлично подходит для быстрого развлечения.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Chloé Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est fantastique! Mélanger le gameplay de Flappy Bird avec des éléments de tir est une idée brillante. C'est addictif et stimulant, parfait pour des sessions de jeu rapides. Les graphismes sont simples mais efficaces. Je recommande vivement!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 3,
+      "comment": "Die Idee ist interessant, aber die Steuerung ist manchmal etwas ungenau. Das Spiel macht Spaß, aber es könnte mehr Abwechslung bei den Levels und Gegnern geben. Insgesamt ein netter Zeitvertreib für zwischendurch.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "FlappyShooter 真的是太好玩了！結合了飛翔和射擊的元素，讓人欲罷不能。遊戲畫面簡潔，操作流暢，玩起來非常刺激。強烈推薦給喜歡挑戰的玩家！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A fun and engaging game that combines the classic flappy bird mechanics with shooting elements. It's easy to pick up but offers a good challenge as you progress. The graphics are simple but effective, and the gameplay is addictive.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Андрей Козлов",
+      "rating": 2,
+      "comment": "Игра неплохая, но иногда управление кажется немного неудобным. В целом, играть можно, но быстро надоедает. Хотелось бы больше разнообразия в уровнях и врагах.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut fantastisch! FlappyShooter macht unglaublich viel Spaß. Die Kombination aus Flappy Bird und Shooter ist genial. Es ist herausfordernd, fesselnd und einfach super unterhaltsam. Sehr empfehlenswert!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The game is really enjoyable. The mix of flappy bird and shooting works surprisingly well. It's challenging and addictive, perfect for short gaming sessions. The graphics are simple but appealing.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲的概念很有趣，但玩久了會覺得有點單調。如果能增加更多不同的武器和關卡設計，會更有吸引力。目前來說，是個不錯的休閒小品。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "J'adore FlappyShooter! Le mélange de flappy bird et de tir est une réussite totale. C'est addictif, stimulant et incroyablement fun. Les graphismes sont simples mais efficaces. Je le recommande vivement!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Отличная игра! Сочетание полета и стрельбы делает ее очень увлекательной. Иногда сложно, но это только добавляет интереса. Графика простая, но приятная. Рекомендую для быстрого развлечения.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 2,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Es wird schnell langweilig und die Steuerung ist manchmal etwas ungenau. Für zwischendurch ganz okay, aber nichts Besonderes.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "FlappyShooter is incredibly fun and addictive! The combination of flappy bird mechanics with shooting is brilliant. It's challenging, exciting, and perfect for quick gaming sessions. Highly recommended!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這遊戲結合了飛翔和射擊，玩起來非常刺激。操作簡單，但要玩得好需要一點技巧。畫面簡潔，流暢度也很棒。推薦給喜歡挑戰的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un jeu amusant, mais il manque un peu de variété. Les niveaux se ressemblent un peu trop, et il n'y a pas beaucoup de nouveautés. C'est sympa pour passer le temps, mais pas exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Отличная игра! Сочетание полета и стрельбы делает ее очень увлекательной. Играть интересно и весело. Рекомендую всем любителям аркад.",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Das Spiel macht Spaß und ist eine gute Abwechslung zum normalen Flappy Bird. Die Kombination mit dem Schießen ist interessant. Es könnte aber mehr verschiedene Level geben.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "The game is okay, but it gets repetitive quickly. There's not much variety in the levels or enemies. It's fun for a few minutes, but then it gets boring.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "FlappyShooter 是一款非常有趣的遊戲！結合了飛行和射擊的元素，玩起來非常刺激。操作簡單，容易上手，但要玩得好需要一點技巧。強烈推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un jeu très amusant et addictif! Le mélange de flappy bird et de tir est une excellente idée. Les graphismes sont simples mais efficaces. Je le recommande pour des sessions de jeu rapides.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но быстро надоедает. Хотелось бы больше разнообразия в уровнях и врагах. В целом, играть можно, но ничего особенного.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "FlappyShooter ist einfach super! Die Kombination aus Flappy Bird und Shooter macht unglaublich viel Spaß. Es ist herausfordernd, fesselnd und einfach toll. Sehr empfehlenswert!",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A really fun and addictive game! The mix of flappy bird and shooting is surprisingly good. It's challenging and exciting, perfect for short gaming sessions. The graphics are simple but appealing.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 2,
+      "comment": "遊戲還不錯，但是玩久了會覺得有點無聊。如果能增加更多不同的武器和關卡設計，會更有吸引力。目前來說，是個不錯的休閒小品。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "FlappyShooter est un jeu fantastique! Le mélange de flappy bird et de tir est une réussite totale. C'est addictif, stimulant et incroyablement fun. Les graphismes sont simples mais efficaces. Je le recommande vivement!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Отличная игра! Сочетание полета и стрельбы делает ее очень увлекательной. Играть интересно и весело. Рекомендую всем любителям аркад.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel macht Spaß und ist eine gute Abwechslung zum normalen Flappy Bird. Die Kombination mit dem Schießen ist interessant. Es könnte aber mehr verschiedene Level geben.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "FlappyShooter is incredibly fun and addictive! The combination of flappy bird mechanics with shooting is brilliant. It's challenging, exciting, and perfect for quick gaming sessions. Highly recommended!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲結合了飛行和射擊，玩起來非常刺激。操作簡單，但要玩得好需要一點技巧。畫面簡潔，流暢度也很棒。推薦給喜歡挑戰的玩家。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Le jeu est amusant, mais il manque un peu de variété. Les niveaux se ressemblent un peu trop, et il n'y a pas beaucoup de nouveautés. C'est sympa pour passer le temps, mais pas exceptionnel.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Отличная игра! Сочетание полета и стрельбы делает ее очень увлекательной. Играть интересно и весело. Рекомендую всем любителям аркад.",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Das Spiel macht Spaß und ist eine gute Abwechslung zum normalen Flappy Bird. Die Kombination mit dem Schießen ist interessant. Es könnte aber mehr verschiedene Level geben.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il manque un peu de variété. Les niveaux se ressemblent un peu trop, et il n'y a pas beaucoup de nouveautés. C'est sympa pour passer le temps, mais pas exceptionnel.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "FlappyShooter is incredibly fun and addictive! The combination of flappy bird mechanics with shooting is brilliant. It's challenging, exciting, and perfect for quick gaming sessions. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這遊戲結合了飛行和射擊，玩起來非常刺激。操作簡單，但要玩得好需要一點技巧。畫面簡潔，流暢度也很棒。推薦給喜歡挑戰的玩家。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Игра неплохая, но быстро надоедает. Хотелось бы больше разнообразия в уровнях и врагах. В целом, играть можно, но ничего особенного.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "FlappyShooter ist einfach super! Die Kombination aus Flappy Bird und Shooter macht unglaublich viel Spaß. Es ist herausfordernd, fesselnd und einfach toll. Sehr empfehlenswert!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Un jeu très amusant et addictif! Le mélange de flappy bird et de tir est une excellente idée. Les graphismes sont simples mais efficaces. Je le recommande pour des sessions de jeu rapides.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "FlappyShooter is incredibly fun and addictive! The combination of flappy bird mechanics with shooting is brilliant. It's challenging, exciting, and perfect for quick gaming sessions. Highly recommended!",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "The game is really enjoyable. The mix of flappy bird and shooting works surprisingly well. It's challenging and addictive, perfect for short gaming sessions. The graphics are simple but appealing.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "FlappyShooter is an absolute blast! The combination of flappy bird mechanics with shooting is genius. It's challenging, addictive, and incredibly fun. Highly recommended!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Игра неплохая, но иногда управление кажется немного неудобным. В целом, играть можно, но быстро надоедает. Хотелось бы больше разнообразия в уровнях и врагах.",
+      "date": "2024-01-12"
+    }
+  ]
+}

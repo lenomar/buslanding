@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.jmbilegame.com/Bear_Boom/384a9d7011a959314f153a37060735a8_icon.png"
+  } ],
+  "name" : "Bear Boom",
+  "scope" : ".",
+  "short_name" : "Bear Boom",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games - BusLanding.com</title>
+    <!-- Add this in the head section after other meta tags -->
+    <meta name="keywords" content="online games, free games, play games">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="/images/logo.png">
+    <meta property="og:site_name" content="BusLanding.com">
+    <link rel="icon" href="/images/logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+<!-- 引入头部 -->
+<div id="header-container"></div>
+<main>
+    <section class="all-games">
+        <div id="all-games-container" class="games-grid">
+            <!-- 通过JS动态加载 -->
+        </div>
+    </section>
+</main>
+
+<div id="footer-container"></div>
+
+<script src="script.js"></script>
+<script>
+    // 加载头部
+    fetch('header.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('header-container').innerHTML = data;
+        });
+    // 加载页脚
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('footer-container').innerHTML = data;
+            // 注意：由于JavaScript和CSS也在footer.html中，
+            // 它们会在innerHTML赋值时自动执行和应用。
+            // 如果你的footer.html中的脚本需要操作其他DOM元素
+            // 并且这些元素在footer.html被加载时还未完全渲染，
+            // 可能会需要更复杂的处理，但对于当前分享脚本，通常没问题。
+        })
+        .catch(error => console.error('Failed to load footer:', error));
+</script>
+<!-- 在body末尾添加 -->
+<div class="seo-content sr-only" aria-hidden="true">
+    <h1 class="seo-heading"></h1>
+    <div class="seo-text"></div>
+</div>
+
+<link rel="stylesheet" href="css/seo.css">
+<script src="js/seo.js"></script>
+</body>
+</html>

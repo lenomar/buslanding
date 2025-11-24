@@ -1,0 +1,1669 @@
+{
+  "ID": "671a2429-4bfd-45fc-b702-201604eb1ad3",
+  "Version": "3.10.0.0",
+  "Name": "honor_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 45,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/titlebg.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 1280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0819,
+              "Y": 0.1203
+            },
+            "LeftMargin": -29.5,
+            "RightMargin": -29.5,
+            "BottomMargin": 1126.0,
+            "Tag": 56,
+            "ActionTag": -166030298,
+            "Size": {
+              "X": 779.0,
+              "Y": 154.0
+            },
+            "Name": "titlesp",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/returnbtn.png",
+              "Plist": "csi/csi_6.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 59.9686,
+              "Y": 1237.7358
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0833,
+              "Y": 0.967
+            },
+            "PreSize": {
+              "X": 0.1153,
+              "Y": 0.0672
+            },
+            "LeftMargin": 18.4686,
+            "RightMargin": 618.5314,
+            "TopMargin": -0.7358,
+            "BottomMargin": 1194.7358,
+            "Tag": 48,
+            "ActionTag": -642934501,
+            "Size": {
+              "X": 83.0,
+              "Y": 86.0
+            },
+            "Name": "closebtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn7.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 255.0005,
+              "Y": 1064.4585
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3542,
+              "Y": 0.8316
+            },
+            "PreSize": {
+              "X": 0.2792,
+              "Y": 0.0492
+            },
+            "LeftMargin": 154.5005,
+            "RightMargin": 364.4995,
+            "TopMargin": 152.5415,
+            "BottomMargin": 1064.4585,
+            "Tag": 57,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "rank/g2.png",
+                  "Plist": "csi/csi_4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.1235,
+                  "Y": 30.7095
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5131,
+                  "Y": 0.4875
+                },
+                "PreSize": {
+                  "X": 0.5771,
+                  "Y": 0.619
+                },
+                "LeftMargin": 45.1235,
+                "RightMargin": 39.8765,
+                "TopMargin": 12.7905,
+                "BottomMargin": 11.2095,
+                "Tag": 61,
+                "ActionTag": 1387843656,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 39.0
+                },
+                "Name": "globalsp",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2069965083,
+            "Size": {
+              "X": 201.0,
+              "Y": 63.0
+            },
+            "Name": "globalbtn2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn6.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 255.0001,
+              "Y": 1064.46
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3542,
+              "Y": 0.8316
+            },
+            "PreSize": {
+              "X": 0.2792,
+              "Y": 0.0492
+            },
+            "LeftMargin": 154.5001,
+            "RightMargin": 364.4999,
+            "TopMargin": 152.54,
+            "BottomMargin": 1064.46,
+            "Tag": 83,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "rank/g1.png",
+                  "Plist": "csi/csi_4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 99.8523,
+                  "Y": 30.8972
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4968,
+                  "Y": 0.4904
+                },
+                "PreSize": {
+                  "X": 0.5771,
+                  "Y": 0.619
+                },
+                "LeftMargin": 41.8523,
+                "RightMargin": 43.1477,
+                "TopMargin": 12.6028,
+                "BottomMargin": 11.3972,
+                "Tag": 84,
+                "ActionTag": -1393893229,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 39.0
+                },
+                "Name": "globalsp",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1807021770,
+            "Size": {
+              "X": 201.0,
+              "Y": 63.0
+            },
+            "Name": "globalbtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn7.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 465.0,
+              "Y": 1064.46
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6458,
+              "Y": 0.8316
+            },
+            "PreSize": {
+              "X": 0.2792,
+              "Y": 0.0492
+            },
+            "LeftMargin": 364.5,
+            "RightMargin": 154.5,
+            "TopMargin": 152.54,
+            "BottomMargin": 1064.46,
+            "Tag": 81,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "rank/f2.png",
+                  "Plist": "csi/csi_4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.7649,
+                  "Y": 33.2299
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5113,
+                  "Y": 0.5275
+                },
+                "PreSize": {
+                  "X": 0.6269,
+                  "Y": 0.4762
+                },
+                "LeftMargin": 39.7649,
+                "RightMargin": 35.2351,
+                "TopMargin": 14.7701,
+                "BottomMargin": 18.2299,
+                "Tag": 82,
+                "ActionTag": -1461454427,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 30.0
+                },
+                "Name": "friendsp",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1775036263,
+            "Size": {
+              "X": 201.0,
+              "Y": 63.0
+            },
+            "Name": "friendbtn2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn6.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 465.0002,
+              "Y": 1064.4585
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6458,
+              "Y": 0.8316
+            },
+            "PreSize": {
+              "X": 0.2792,
+              "Y": 0.0492
+            },
+            "LeftMargin": 364.5002,
+            "RightMargin": 154.4998,
+            "TopMargin": 152.5415,
+            "BottomMargin": 1064.4585,
+            "Tag": 58,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "rank/f1.png",
+                  "Plist": "csi/csi_4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.8379,
+                  "Y": 35.0301
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5017,
+                  "Y": 0.556
+                },
+                "PreSize": {
+                  "X": 0.6269,
+                  "Y": 0.4762
+                },
+                "LeftMargin": 37.8379,
+                "RightMargin": 37.1621,
+                "TopMargin": 12.9699,
+                "BottomMargin": 20.0301,
+                "Tag": 62,
+                "ActionTag": -624760027,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 30.0
+                },
+                "Name": "friendsp",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 413250887,
+            "Size": {
+              "X": 201.0,
+              "Y": 63.0
+            },
+            "Name": "friendbtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite21.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 34,
+            "Scale9Width": 110,
+            "Scale9Height": 109,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0003,
+              "Y": 714.4577
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5582
+            },
+            "PreSize": {
+              "X": 0.9861,
+              "Y": 0.5523
+            },
+            "LeftMargin": 5.0003,
+            "RightMargin": 4.9997,
+            "TopMargin": 212.0422,
+            "BottomMargin": 360.9577,
+            "Tag": 52,
+            "ActionTag": -2141344319,
+            "Size": {
+              "X": 710.0,
+              "Y": 707.0
+            },
+            "Name": "listbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite17.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 42,
+            "Scale9OriginY": 47,
+            "Scale9Width": 42,
+            "Scale9Height": 2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0027,
+              "Y": 999.9791
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7812
+            },
+            "PreSize": {
+              "X": 0.9444,
+              "Y": 0.0703
+            },
+            "LeftMargin": 20.0027,
+            "RightMargin": 19.9973,
+            "TopMargin": 235.0209,
+            "BottomMargin": 954.9791,
+            "Tag": 54,
+            "ActionTag": -2138980313,
+            "Size": {
+              "X": 680.0,
+              "Y": 90.0
+            },
+            "Name": "desbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/honorrewardtxt.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0001,
+              "Y": 999.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7805
+            },
+            "PreSize": {
+              "X": 0.8236,
+              "Y": 0.0344
+            },
+            "LeftMargin": 63.5001,
+            "RightMargin": 63.4999,
+            "TopMargin": 258.9997,
+            "BottomMargin": 977.0003,
+            "Tag": 63,
+            "ActionTag": 40448564,
+            "Size": {
+              "X": 593.0,
+              "Y": 44.0
+            },
+            "Name": "dessprite",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/freepackbg.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 172.0,
+              "Y": 190.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2389,
+              "Y": 0.1484
+            },
+            "PreSize": {
+              "X": 0.4389,
+              "Y": 0.2313
+            },
+            "LeftMargin": 14.0,
+            "RightMargin": 390.0,
+            "TopMargin": 942.0,
+            "BottomMargin": 42.0,
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "honor/gifticon.png",
+                  "Plist": "csi/honorplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 158.2329,
+                  "Y": 169.9479
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5007,
+                  "Y": 0.5741
+                },
+                "PreSize": {
+                  "X": 0.3766,
+                  "Y": 0.3953
+                },
+                "LeftMargin": 98.7329,
+                "RightMargin": 98.2671,
+                "TopMargin": 67.5521,
+                "BottomMargin": 111.4479,
+                "Tag": 66,
+                "ActionTag": 1137861490,
+                "Size": {
+                  "X": 119.0,
+                  "Y": 117.0
+                },
+                "Name": "gifticon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/n_piaodai.png",
+                  "Plist": "csi/csi_7.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.6567,
+                  "Y": 276.35
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4926,
+                  "Y": 0.9336
+                },
+                "PreSize": {
+                  "X": 0.1456,
+                  "Y": 0.1554
+                },
+                "LeftMargin": 132.6567,
+                "RightMargin": 137.3433,
+                "TopMargin": -3.35,
+                "BottomMargin": 253.35,
+                "Tag": 67,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "honor/freepacks.png",
+                      "Plist": "csi/honorplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 119.1124,
+                      "Y": 41.8681
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.5894,
+                      "Y": 0.9102
+                    },
+                    "PreSize": {
+                      "X": 3.1957,
+                      "Y": 0.5435
+                    },
+                    "LeftMargin": 45.6124,
+                    "RightMargin": -146.6124,
+                    "TopMargin": -8.3681,
+                    "BottomMargin": 29.3681,
+                    "Tag": 68,
+                    "ActionTag": -801721554,
+                    "Size": {
+                      "X": 147.0,
+                      "Y": 25.0
+                    },
+                    "Name": "freepack",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1322601038,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 71.0
+                },
+                "Name": "freepackbg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/publicbtn21.png",
+                  "Plist": "csi/csi_2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 149.5969,
+                  "Y": 51.3056
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4734,
+                  "Y": 0.1733
+                },
+                "PreSize": {
+                  "X": 0.6582,
+                  "Y": 0.2027
+                },
+                "LeftMargin": 45.5969,
+                "RightMargin": 62.4031,
+                "TopMargin": 214.6944,
+                "BottomMargin": 21.3056,
+                "Tag": 69,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "honor/collcetreward.png",
+                      "Plist": "csi/honorplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.9214,
+                      "Y": 31.9889
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4996,
+                      "Y": 0.5331
+                    },
+                    "PreSize": {
+                      "X": 0.8077,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": 19.9214,
+                    "RightMargin": 20.0786,
+                    "TopMargin": 16.0111,
+                    "BottomMargin": 19.9889,
+                    "Tag": 70,
+                    "ActionTag": -927053238,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 24.0
+                    },
+                    "Name": "collcet",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1436505986,
+                "Size": {
+                  "X": 208.0,
+                  "Y": 60.0
+                },
+                "Name": "rewardbtn",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "23:59:59",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jellyboom_font.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.895,
+                  "Y": 51.0049
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4775,
+                  "Y": 0.1723
+                },
+                "PreSize": {
+                  "X": 0.3829,
+                  "Y": 0.1318
+                },
+                "LeftMargin": 90.395,
+                "RightMargin": 104.605,
+                "TopMargin": 225.4951,
+                "BottomMargin": 31.5049,
+                "Tag": 88,
+                "ActionTag": 2117431635,
+                "Size": {
+                  "X": 121.0,
+                  "Y": 39.0
+                },
+                "Name": "remaintimetxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1778771361,
+            "Size": {
+              "X": 316.0,
+              "Y": 296.0
+            },
+            "Name": "freepackbg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/honorpackbg.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.0,
+              "Y": 190.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7194,
+              "Y": 0.1484
+            },
+            "PreSize": {
+              "X": 0.5222,
+              "Y": 0.2313
+            },
+            "LeftMargin": 330.0,
+            "RightMargin": 14.0,
+            "TopMargin": 942.0,
+            "BottomMargin": 42.0,
+            "Tag": 60,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "pngdata/resultui/png6.png",
+                  "Plist": "csi/fightanimatelist4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 191.1396,
+                  "Y": 277.2592
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5084,
+                  "Y": 0.9367
+                },
+                "PreSize": {
+                  "X": 1.2553,
+                  "Y": 0.3953
+                },
+                "LeftMargin": -44.8604,
+                "RightMargin": -51.1396,
+                "TopMargin": -39.7592,
+                "BottomMargin": 218.7592,
+                "Tag": 98,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "honor/honorpacks.png",
+                      "Plist": "csi/honorplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 229.8239,
+                      "Y": 67.212
+                    },
+                    "Scale": {
+                      "ScaleX": 1.43,
+                      "ScaleY": 1.43
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4869,
+                      "Y": 0.5745
+                    },
+                    "PreSize": {
+                      "X": 0.3771,
+                      "Y": 0.2137
+                    },
+                    "LeftMargin": 140.8239,
+                    "RightMargin": 153.1761,
+                    "TopMargin": 37.288,
+                    "BottomMargin": 54.712,
+                    "Tag": 99,
+                    "ActionTag": 666261112,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 25.0
+                    },
+                    "Name": "honorpack",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1943556194,
+                "Size": {
+                  "X": 472.0,
+                  "Y": 117.0
+                },
+                "Name": "hopackbg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "element/honor.png",
+                  "Plist": "csi/csi_3.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.1058,
+                  "Y": 188.9643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.487,
+                  "Y": 0.6384
+                },
+                "PreSize": {
+                  "X": 0.3378,
+                  "Y": 0.3547
+                },
+                "LeftMargin": 119.6058,
+                "RightMargin": 129.3942,
+                "TopMargin": 54.5357,
+                "BottomMargin": 136.4643,
+                "Tag": 100,
+                "ActionTag": 265147053,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 105.0
+                },
+                "Name": "honoricon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/publicbtn22.png",
+                  "Plist": "csi/csi_2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 186.2538,
+                  "Y": 50.4317
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4954,
+                  "Y": 0.1704
+                },
+                "PreSize": {
+                  "X": 0.5691,
+                  "Y": 0.223
+                },
+                "LeftMargin": 79.2538,
+                "RightMargin": 82.7462,
+                "TopMargin": 212.5683,
+                "BottomMargin": 17.4317,
+                "Tag": 101,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "honor/addfriends.png",
+                      "Plist": "csi/honorplist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 109.8892,
+                      "Y": 35.5614
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5135,
+                      "Y": 0.5388
+                    },
+                    "PreSize": {
+                      "X": 0.6355,
+                      "Y": 0.3939
+                    },
+                    "LeftMargin": 41.8892,
+                    "RightMargin": 36.1108,
+                    "TopMargin": 17.4386,
+                    "BottomMargin": 22.5614,
+                    "Tag": 102,
+                    "ActionTag": -957909879,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 26.0
+                    },
+                    "Name": "honorbtnsp",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1928558569,
+                "Size": {
+                  "X": 214.0,
+                  "Y": 66.0
+                },
+                "Name": "honorbtn",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "honor/hoprobg.png",
+                  "Plist": "csi/honorplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 179.3201,
+                  "Y": 117.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4769,
+                  "Y": 0.3982
+                },
+                "PreSize": {
+                  "X": 0.5904,
+                  "Y": 0.1081
+                },
+                "LeftMargin": 68.3201,
+                "RightMargin": 85.6799,
+                "TopMargin": 162.14,
+                "BottomMargin": 101.86,
+                "Tag": 104,
+                "ActionTag": 21883800,
+                "Size": {
+                  "X": 222.0,
+                  "Y": 32.0
+                },
+                "Name": "honorprobg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ImageFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "honor/hopro.png",
+                  "Plist": "csi/honorplist.plist"
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 179.3202,
+                  "Y": 116.4948
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4769,
+                  "Y": 0.3936
+                },
+                "PreSize": {
+                  "X": 0.5904,
+                  "Y": 0.1081
+                },
+                "LeftMargin": 68.3202,
+                "RightMargin": 85.6798,
+                "TopMargin": 163.5052,
+                "BottomMargin": 100.4948,
+                "Tag": 105,
+                "ActionTag": -1906538945,
+                "Size": {
+                  "X": 222.0,
+                  "Y": 32.0
+                },
+                "Name": "honorpro",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "111/100",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jellyboom_font.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4733,
+                  "ScaleY": 0.3415
+                },
+                "Position": {
+                  "X": 180.8879,
+                  "Y": 114.0492
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4811,
+                  "Y": 0.3853
+                },
+                "PreSize": {
+                  "X": 0.2101,
+                  "Y": 0.098
+                },
+                "LeftMargin": 143.4972,
+                "RightMargin": 153.5028,
+                "TopMargin": 162.8543,
+                "BottomMargin": 104.1457,
+                "Tag": 106,
+                "ActionTag": -360058323,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 29.0
+                },
+                "Name": "honorprotxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -776379604,
+            "Size": {
+              "X": 376.0,
+              "Y": 296.0
+            },
+            "Name": "hopackbg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/wan.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.24,
+              "Y": 285.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4587,
+              "Y": 0.223
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.032
+            },
+            "LeftMargin": 303.24,
+            "RightMargin": 362.76,
+            "TopMargin": 974.09,
+            "BottomMargin": 264.91,
+            "Tag": 64,
+            "ActionTag": 313444697,
+            "Size": {
+              "X": 54.0,
+              "Y": 41.0
+            },
+            "Name": "wansp1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/wan.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.24,
+              "Y": 100.41
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4587,
+              "Y": 0.0784
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.032
+            },
+            "LeftMargin": 303.24,
+            "RightMargin": 362.76,
+            "TopMargin": 1159.09,
+            "BottomMargin": 79.91,
+            "Tag": 65,
+            "ActionTag": 1031094252,
+            "Size": {
+              "X": 54.0,
+              "Y": 41.0
+            },
+            "Name": "wansp2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "honor/addfriendbtn.png",
+              "Plist": "csi/honorplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 443.0477
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3461
+            },
+            "PreSize": {
+              "X": 0.4403,
+              "Y": 0.0859
+            },
+            "LeftMargin": 201.5,
+            "RightMargin": 201.5,
+            "TopMargin": 781.9523,
+            "BottomMargin": 388.0477,
+            "Tag": 89,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "honor/honoricon_m.png",
+                  "Plist": "csi/honorplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 138.7226,
+                  "Y": 41.2381
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4376,
+                  "Y": 0.3749
+                },
+                "PreSize": {
+                  "X": 0.2114,
+                  "Y": 0.4727
+                },
+                "LeftMargin": 105.2226,
+                "RightMargin": 144.7774,
+                "TopMargin": 42.7619,
+                "BottomMargin": 15.2381,
+                "Tag": 90,
+                "ActionTag": 235105148,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 52.0
+                },
+                "Name": "honorsp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "x99",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jellyboom_font.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.6314,
+                  "Y": 43.6796
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5446,
+                  "Y": 0.3971
+                },
+                "PreSize": {
+                  "X": 0.1325,
+                  "Y": 0.2636
+                },
+                "LeftMargin": 172.6314,
+                "RightMargin": 102.3686,
+                "TopMargin": 51.8204,
+                "BottomMargin": 29.1796,
+                "Tag": 91,
+                "ActionTag": 162065213,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 29.0
+                },
+                "Name": "gethonortxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "honor/addfriends.png",
+                  "Plist": "csi/honorplist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0316,
+                  "Y": 63.8147
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.5801
+                },
+                "PreSize": {
+                  "X": 0.429,
+                  "Y": 0.2364
+                },
+                "LeftMargin": 95.0316,
+                "RightMargin": 85.9684,
+                "TopMargin": 33.1853,
+                "BottomMargin": 50.8147,
+                "Tag": 134,
+                "ActionTag": 845449010,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 26.0
+                },
+                "Name": "addfriend",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1832524220,
+            "Size": {
+              "X": 317.0,
+              "Y": 110.0
+            },
+            "Name": "invitefriendbtn",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_2.plist",
+        "../csi/csi_2.png",
+        "../csi/csi_3.plist",
+        "../csi/csi_3.png",
+        "../csi/csi_4.plist",
+        "../csi/csi_4.png",
+        "../csi/csi_6.plist",
+        "../csi/csi_6.png",
+        "../csi/csi_7.plist",
+        "../csi/csi_7.png",
+        "../csi/fightanimatelist4.plist",
+        "../csi/fightanimatelist4.png",
+        "../csi/honorplist.plist",
+        "../csi/honorplist.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png",
+        "../font/jellyboom_font.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

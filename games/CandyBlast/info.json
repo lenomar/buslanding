@@ -1,0 +1,421 @@
+{
+  "title": "CandyBlast",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Ethan Johnson",
+      "rating": 5,
+      "comment": "CandyBlast is my ultimate go-to for fun and relaxation! The levels are so well-designed, always offering a fresh challenge without being frustrating. The combos are incredibly satisfying, and the graphics are just delightful. It's truly a sweet escape!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Анастасия Козлова",
+      "rating": 4,
+      "comment": "Очень яркая и залипательная игра. Уровни достаточно разнообразные, чтобы не надоедало. Иногда бывает сложновато, но это только подстегивает. Приятная графика и звуки. Отлично подходит для того, чтобы скоротать время.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Léa Martin",
+      "rating": 5,
+      "comment": "Ce jeu est une pure merveille! CandyBlast est addictif au possible. Les explosions de bonbons sont tellement satisfaisantes et les puzzles sont ingénieux. C'est un excellent moyen de se détendre et de se divertir. Je suis totalement accroc!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Felix Schmidt",
+      "rating": 2,
+      "comment": "Die Idee des Spiels ist gut, aber es ist leider völlig überladen mit Werbung. Es gibt kaum eine Minute ohne Unterbrechung, was den Spielfluss massiv stört und extrem frustrierend ist. So macht das Spiel leider keinen Spaß. Schade um das Potenzial.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "張家豪",
+      "rating": 5,
+      "comment": "CandyBlast真是太棒了！關卡設計巧妙，每次消除都很有滿足感。色彩繽紛，音效也很棒。是個非常適合放鬆和消磨時間的遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Olivia Davis",
+      "rating": 4,
+      "comment": "A very solid and engaging match-3 game. It's easy to pick up, and the challenges are well-balanced. The bright visuals and satisfying pops are a plus. Great for a quick burst of fun or longer sessions.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Иванов",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает, особенно на сложных уровнях. Это ужасно. Невозможно нормально играть, все время прерывается. Разработчики, пожалуйста, исправьте эти технические проблемы. Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Sophie Wagner",
+      "rating": 5,
+      "comment": "Absolut genial! CandyBlast ist so fesselnd und perfekt, um mal abzuschalten. Die Level sind abwechslungsreich und die Grafiken zuckersüß. Es macht unglaublich viel Spaß und ist total entspannend. Klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Noah Brown",
+      "rating": 4,
+      "comment": "The colorful design is fantastic; it really makes the game pop. It's easy to get lost in the game trying to achieve those perfect combos. The puzzles are clever and engaging. A very enjoyable and well-designed game for quick sessions.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "遊戲概念很有趣，消除時很爽快，但玩久了會覺得缺少一些變化。希望能增加更多不同類型的特殊糖果或分數機制，讓遊戲保持新鮮感。目前就是個不錯的休閒小品。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Hugo Leclerc",
+      "rating": 5,
+      "comment": "Je suis complètement accro à CandyBlast! C'est le jeu parfait pour se détendre sans prise de tête. Le concept simple et les explosions de bonbons le rendent incroyablement addictif. La satisfaction d'enchaîner les combos est purement géniale. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Елена Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая игра. Правила простые, и игра помогает снять стресс. Отличный способ скоротать время. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Fabian Meier",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine Zumutung wegen der unerträglichen Menge an Werbung. Der Spielfluss wird ständig durch Pop-ups unterbrochen, was den ganzen Spaß nimmt. Es ist frustrierend und macht einfach keinen Sinn, so viel Werbung einzublenden. Absolut nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Isabella Clark",
+      "rating": 5,
+      "comment": "CandyBlast is deceptively simple and incredibly addictive! It's perfect for when you just want to relax and keep playing without worrying about complex mechanics. The levels are well-designed and challenging in a good way. A true gem among casual mobile games, highly recommended!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "陳偉倫",
+      "rating": 4,
+      "comment": "這遊戲的設計很棒，每次消除都有不同的變化和挑戰。雖然是消除遊戲，但要不斷突破高分還是需要一些策略和運氣。畫面繽紛，消除效果也不錯。適合喜歡無限挑戰的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Victor Bernard",
+      "rating": 3,
+      "comment": "Un bon jeu pour passer le temps, mais après un certain temps, il devient un peu répétitif. Manque de nouveaux éléments ou de défis qui changent vraiment la donne. C'est sympa sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Мария Смирнова",
+      "rating": 5,
+      "comment": "CandyBlast - это просто находка! Очень затягивающая и успокаивающая игра. Идеально подходит, чтобы снять напряжение. Уровни разнообразны и всегда есть, к чему стремиться. Настоятельно рекомендую всем, кто ищет простой, но увлекательный способ расслабиться!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Julia Müller",
+      "rating": 4,
+      "comment": "Einfach und doch fesselnd. Die Level sind super für zwischendurch und man versucht immer, das nächste Ziel zu erreichen. Es ist perfekt, um kurz abzuschalten und das Gehirn nicht zu überfordern. Guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Ryan White",
+      "rating": 2,
+      "comment": "This game becomes repetitive very quickly. The levels often feel too similar, without any real progression or new features to keep it fresh. It feels like a very basic match-3 game. I lost interest after a short while.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "林依婷",
+      "rating": 5,
+      "comment": "玩CandyBlast讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的解壓工具。每個關卡都充滿驚喜，成功闖關後超有成就感。精緻的畫面也讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Arthur Dubois",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et ne pas réfléchir trop fort. Les graphismes sont clairs et le gameplay est fluide. Les niveaux sont bien pensés et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif et apaisant.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Сергей Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но довольно однообразная. Хотелось бы больше разнообразия в появляющихся блоках или какие-то бонусы, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Hannah Koch",
+      "rating": 5,
+      "comment": "CandyBlast ist einfach großartig! Die Level sind genial für schnellen Spielspaß ohne Ende. Es ist so intuitiv und man kann einfach immer weiterspielen. Ein fantastischer Zeitvertreib und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Taylor",
+      "rating": 4,
+      "comment": "A smart and engaging match-3 game. It's easy to learn but challenging to get a really high score and pass tricky levels. Great for quick bursts of fun and relaxation.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "王小明",
+      "rating": 1,
+      "comment": "這個遊戲的廣告真的太多了，嚴重打斷遊戲流程。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Manon Lefebvre",
+      "rating": 5,
+      "comment": "Fantastique! CandyBlast est incroyablement bien conçu, simple mais avec une profondeur stratégique pour les scores élevés. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif et relaxant!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная игра. Правила простые, хорошо подходит для расслабления и легкого тренировки внимания. Единственное, хотелось бы больше разнообразия в специальных бонусах или типах заданий.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett für zwischendurch, aber die Level bieten nicht genug Abwechslung. Es wird schnell monoton, da sich die Herausforderung kaum ändert. Könnte mehr Power-ups oder Hindernisse gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Mia Thompson",
+      "rating": 5,
+      "comment": "CandyBlast is an absolute gem! It's so simple yet incredibly addictive, perfect for just relaxing and playing. The variety of levels and boosters keeps it fresh and exciting. Highly recommended for any casual game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於消除的樂趣。它考驗眼力和策略，玩起來很有趣。雖然是消除遊戲，但每次突破高分都很有成就感。是一款值得推薦的休閒益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Julien Petit",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. L'absence de vrais objectifs ou de progression au-delà du simple score fait que l'on se lasse rapidement. Le concept est là, mais il n'est pas suffisant pour maintenir l'intérêt à long terme.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Иван Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! CandyBlast — это идеальная игра, чтобы расслабиться и просто наслаждаться процессом. Геймплей очень сильно затягивает. Время пролетает незаметно. Настоящий хит для отдыха!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Tobias Braun",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Spiel, das sowohl entspannend als auch herausfordernd sein kann, wenn man hohe Punktzahlen jagt. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Kombinieren konzentrieren. Ein guter Zeitvertreib.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Emma Rousseau",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout lorsque l'écran se remplit de bonbons. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Kevin Lee",
+      "rating": 5,
+      "comment": "So incredibly satisfying to keep the combo going! CandyBlast is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your puzzle-solving skills at the same time. The vibrant design is sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常適合放鬆的益智遊戲。雖然規則簡單，但要不斷突破高分還是需要一些策略和快速反應。畫面繽紛，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Белов",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома появления конфет, что может быть расстраивающим. Хотелось бы больше контроля или специальных бонусов, чтобы сделать игру менее зависящей от удачи. В целом, можно поиграть.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Laura Fischer",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von CandyBlast! Es ist so ein geniales und entspannendes Spiel. Man kann so leicht einsteigen und einfach immer weiterspielen. Die Herausforderung, die Level zu schaffen, ist subtil, aber fesselnd. Eine wirklich einzigartige und beruhigende Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Maxime Durand",
+      "rating": 4,
+      "comment": "Un excellent jeu pour se vider la tête. Il est parfait pour les petites pauses et les moments où l'on veut juste se détendre. La simplicité des règles cache un plaisir addictif. C'est le genre de jeu que l'on garde sur son téléphone pour de courtes sessions.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on CandyBlast! It's so satisfying to clear big clusters and feel the progress. There's always a new level to conquer, and the challenge is just right. Highly recommended for anyone who wants a relaxing yet engaging game.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid game for casual play. The levels are well-designed, making it easy to just jump in. It's calming but also provides a nice challenge to beat your own score. My only minor gripe is the occasional ad, but they're not too intrusive.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "CandyBlast is pure joy! It combines simple mechanics with endless replayability perfectly. I love the vibrant colors and satisfying sounds. It's incredibly relaxing and keeps me entertained for hours. A must-play for casual puzzle fans!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда кажется, что генерация конфет слишком рандомна, что может быть расстраивающим. Хотелось бы больше предсказуемости. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore CandyBlast! C'est un jeu qui me permet de me vider la tête. La sensation de faire éclater une grande chaîne de bonbons est super. Très bien conçu et addictif. Idéal pour une petite pause ou une longue session de jeu.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "Too many levels feel almost identical, just with minor variations. It loses its appeal quickly when there's no real progression or new features to keep it fresh. The core idea is fine, but it gets boring too quickly.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "シンプルなルールで非常に中毒性のあるパズルゲームです。色と連鎖を考えるのが楽しい。全体的に満足しています。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. CandyBlast est un puzzle game qui vous absorbe complètement. La satisfaction de vider un tableau pour continuer à jouer est incomparable. C'est un jeu intelligent et captivant pour tous les âges.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Отличная игра для расслабления и тренировки реакции. Уровни хорошо продуманы и не слишком сложные. Рекомендую любителям казуальных игр, которые хотят просто отдохнуть.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant and so satisfying. CandyBlast is incredibly engaging. Each level feels fresh, and the 'Aha!' moment when you clear it perfectly is fantastic. Highly addictive and highly polished.",
+      "date": "2025-04-20"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/26.jpg",
+      "name": "Jessica Lee",
+      "rating": 4,
+      "comment": "Fun and colorful match-3. It's a great little game to pass the time and challenge your puzzle-solving skills. Sometimes the ads are a bit much, but not enough to ruin the overall experience. Good for long sessions.",
+      "date": "2024-03-11"
+    },
+    {
+      "id": 51,
+      "avatar": "/files/37.jpg",
+      "name": "Carlos Gomez",
+      "rating": 3,
+      "comment": "Decent puzzle game, but after a while, it feels very repetitive. Needs more varied power-ups or special challenges to keep it interesting in the long run. Good for a quick play, but not for extended sessions.",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 52,
+      "avatar": "/files/48.jpg",
+      "name": "Linda Chen",
+      "rating": 5,
+      "comment": "So immersive! Every pop is a delight. CandyBlast is beautifully designed and endlessly entertaining. It's easy to get lost in the flow of clearing candies and aiming for that new high score. Absolutely love it!",
+      "date": "2025-01-08"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "ID": "94db93da-e3c1-4151-bad2-a7b5d7cbdba2",
+  "Version": "3.10.0.0",
+  "Name": "lottery_reward_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 7,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/n_uibg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 5.1,
+              "ScaleY": 4.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.375,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.5
+            },
+            "LeftMargin": 270.0,
+            "RightMargin": 510.0,
+            "TopMargin": -160.0,
+            "BottomMargin": 480.0,
+            "Tag": 10,
+            "ActionTag": -1009019053,
+            "Size": {
+              "X": 180.0,
+              "Y": 320.0
+            },
+            "Name": "bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn25.png",
+              "Plist": "csi/csi_5.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 148.4007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.375,
+              "Y": 0.2319
+            },
+            "PreSize": {
+              "X": 0.2708,
+              "Y": 0.1375
+            },
+            "LeftMargin": 230.0,
+            "RightMargin": 470.0,
+            "TopMargin": 447.5993,
+            "BottomMargin": 104.4007,
+            "Tag": 8,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lottery/n_rewardok.png",
+                  "Plist": "csi/csi_1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 135.5278,
+                  "Y": 56.4476
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5057,
+                  "Y": 0.5819
+                },
+                "PreSize": {
+                  "X": 0.2115,
+                  "Y": 0.4205
+                },
+                "LeftMargin": 108.0278,
+                "RightMargin": 104.9722,
+                "TopMargin": 22.0524,
+                "BottomMargin": 37.9476,
+                "Tag": 9,
+                "ActionTag": -1629526961,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 37.0
+                },
+                "Name": "oktxt",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1844592519,
+            "Size": {
+              "X": 268.0,
+              "Y": 97.0
+            },
+            "Name": "btnGet",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_1.plist",
+        "../csi/csi_1.png",
+        "../csi/csi_5.plist",
+        "../csi/csi_5.png",
+        "../game/n_uibg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

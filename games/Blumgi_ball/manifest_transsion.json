@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.bjchenchuanggame.com/Blumgi_ball/b44f59a6fabe239a47b9c46a077df1f9_icon.png"
+  } ],
+  "name" : "Blumgi ball",
+  "scope" : ".",
+  "short_name" : "Blumgi ball",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

@@ -1,0 +1,464 @@
+{
+  "type": "Scene",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "top": 0,
+        "right": 0,
+        "name": "bg",
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 55
+    },
+    {
+      "type": "Box",
+      "props": {
+        "x": 667,
+        "width": 400,
+        "height": 353,
+        "centerY": 0,
+        "centerX": 0,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 26,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "y": 124,
+            "x": 201,
+            "skin": "gameui/gasolineUI/diban.png",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 48
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": -7,
+            "x": 200,
+            "width": 253,
+            "valign": "middle",
+            "text": "Out of fuel!",
+            "pivotY": 20,
+            "pivotX": 127,
+            "height": 40,
+            "fontSize": 28,
+            "font": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "align": "center"
+          },
+          "compId": 59
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 245,
+            "width": 212,
+            "skin": "gameui/gasolineUI/genghuan.png",
+            "name": "btn_port",
+            "height": 83,
+            "centerX": -120,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 39,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "text": "Change car",
+                "name": "lab",
+                "fontSize": 32,
+                "font": "Microsoft YaHei",
+                "color": "#ffffff",
+                "centerY": 2,
+                "centerX": 0,
+                "bold": false
+              },
+              "compId": 46
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 61
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 245,
+            "skin": "gameui/gasolineUI/btn.png",
+            "name": "btn_get",
+            "centerX": 120,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 96,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "x": 67,
+                "text": "Refill now",
+                "name": "lab",
+                "fontSize": 28,
+                "font": "Microsoft YaHei",
+                "color": "#ffffff",
+                "centerY": 2,
+                "bold": false
+              },
+              "compId": 97
+            },
+            {
+              "type": "Image",
+              "props": {
+                "x": 15,
+                "skin": "gameui/public/shipin2.png",
+                "centerY": 0
+              },
+              "compId": 98
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 99
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": -28.5,
+            "x": 485,
+            "skin": "gameui/public/guanbi.png",
+            "name": "btn_close",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 65,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 67
+            }
+          ]
+        },
+        {
+          "type": "Box",
+          "props": {
+            "width": 285,
+            "visible": true,
+            "right": 58,
+            "name": "boxBg",
+            "height": 145,
+            "bottom": 169
+          },
+          "compId": 72,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "width": 229.6,
+                "visible": false,
+                "skin": "gameui/public/btn328x109.png",
+                "name": "btn_gasoline",
+                "label": "label",
+                "height": 98.1,
+                "centerX": 0,
+                "bottom": 0,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 73,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 224,
+                    "valign": "middle",
+                    "text": "立刻加满",
+                    "name": "lab",
+                    "height": 50,
+                    "fontSize": 30,
+                    "color": "#ffffff",
+                    "centerY": 0,
+                    "centerX": 24,
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 74
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 40,
+                    "skin": "gameui/public/shipin_jiayou.png",
+                    "left": 23,
+                    "height": 40,
+                    "centerY": 0
+                  },
+                  "compId": 75
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 76
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": 13,
+                "skin": "gameui/gasolineUI/youtong.png",
+                "name": "imgGasoline",
+                "left": 0
+              },
+              "compId": 77
+            },
+            {
+              "type": "Image",
+              "props": {
+                "width": 245,
+                "top": 48,
+                "skin": "gameui/gasolineUI/youliang_diban.png",
+                "sizeGrid": "26,22,35,15",
+                "scaleY": 0.7,
+                "scaleX": 0.7,
+                "name": "imgGasolineNum",
+                "left": 105
+              },
+              "compId": 78,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 8,
+                    "x": 10,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 10,
+                    "centerY": 0
+                  },
+                  "compId": 79,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "visible": false,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 80
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 55,
+                    "centerY": 0
+                  },
+                  "compId": 81,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "visible": false,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 82
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 100,
+                    "centerY": 0
+                  },
+                  "compId": 83,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "visible": false,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 84
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 145,
+                    "centerY": 0
+                  },
+                  "compId": 85,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "visible": false,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 86
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 190,
+                    "centerY": 0
+                  },
+                  "compId": 87,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "visible": false,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 88
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Label",
+              "props": {
+                "top": 23,
+                "text": "Refueling time:",
+                "strokeColor": "#ffffff",
+                "stroke": 2,
+                "name": "lbGasolineTishi",
+                "left": 96,
+                "fontSize": 18,
+                "font": "Microsoft YaHei",
+                "color": "#000000",
+                "bold": true,
+                "anchorX": 1
+              },
+              "compId": 89,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "20:20",
+                    "strokeColor": "#ffffff",
+                    "stroke": 2,
+                    "right": -58,
+                    "name": "lbGasolineTishiNum",
+                    "fontSize": 20,
+                    "font": "Microsoft YaHei",
+                    "color": "#ff0400",
+                    "centerY": 0,
+                    "bold": true
+                  },
+                  "compId": 90
+                }
+              ]
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "scripts/CarGasoline.ts"
+              },
+              "compId": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/ui/getGasolineUI.ts",
+        "port_btn": "@node:39",
+        "get_btn": "@node:96",
+        "close_btn": "@node:65",
+        "carGasoline": "@node:91",
+        "title": "@node:59",
+        "btn_gasoline": "@node:73",
+        "lbGasolineTishi": "@node:89"
+      },
+      "compId": 100
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/components/bannerbtmComp.ts"
+      },
+      "compId": 101
+    }
+  ],
+  "loadList": [
+    "gameui/gasolineUI/diban.png",
+    "gameui/gasolineUI/genghuan.png",
+    "gameui/gasolineUI/btn.png",
+    "gameui/public/shipin2.png",
+    "gameui/public/guanbi.png",
+    "gameui/public/btn328x109.png",
+    "gameui/public/shipin_jiayou.png",
+    "gameui/gasolineUI/youtong.png",
+    "gameui/gasolineUI/youliang_diban.png",
+    "gameui/gasolineUI/youliang_di.png",
+    "gameui/gasolineUI/youliang.png"
+  ],
+  "loadList3D": []
+}

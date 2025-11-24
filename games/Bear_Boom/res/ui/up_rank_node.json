@@ -1,0 +1,481 @@
+{
+  "ID": "18c168b8-2e8c-4e4d-a86c-a5f59ee13eec",
+  "Version": "3.10.0.0",
+  "Name": "up_rank_node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 300,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/down_bg.png",
+              "Plist": "csi/fightanimatelist9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -300.5,
+            "RightMargin": -300.5,
+            "TopMargin": -98.5,
+            "BottomMargin": -98.5,
+            "Tag": 301,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "rank/playerlevel.png",
+                  "Plist": "csi/csi_4.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 271.77,
+                  "Y": 91.14
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewY": -0.0003,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4522,
+                  "Y": 0.4626
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.203
+                },
+                "LeftMargin": 217.77,
+                "RightMargin": 275.23,
+                "TopMargin": 85.86,
+                "BottomMargin": 71.14,
+                "Tag": 357,
+                "ActionTag": -1190811664,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 40.0
+                },
+                "Name": "smal_star_bg_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "9999999",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 343.26,
+                  "Y": 91.14
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5711,
+                  "Y": 0.4626
+                },
+                "PreSize": {
+                  "X": 0.1398,
+                  "Y": 0.1218
+                },
+                "LeftMargin": 343.26,
+                "RightMargin": 173.74,
+                "TopMargin": 93.86,
+                "BottomMargin": 79.14,
+                "Tag": 595,
+                "ActionTag": -1853727220,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 24.0
+                },
+                "Name": "aw_fnttype31_lv",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1226556737,
+            "Size": {
+              "X": 601.0,
+              "Y": 197.0
+            },
+            "Name": "item",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_headbg1.png",
+              "Plist": "csi/fntplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -205.08,
+              "Y": 5.0
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -246.08,
+            "RightMargin": 164.08,
+            "TopMargin": -46.0,
+            "BottomMargin": -36.0,
+            "Tag": 118,
+            "ActionTag": 880687677,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "headbg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "Chloe Benne...",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -105.53,
+              "Y": 66.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 251,
+              "G": 205,
+              "B": 91
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.53,
+            "RightMargin": -90.47,
+            "TopMargin": -80.0,
+            "BottomMargin": 52.0,
+            "Tag": 119,
+            "ActionTag": -1178104572,
+            "Size": {
+              "X": 196.0,
+              "Y": 28.0
+            },
+            "Name": "nametxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/down_arrow.png",
+              "Plist": "csi/csi_4.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.44,
+              "Y": 54.67
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 190.44,
+            "RightMargin": -306.44,
+            "TopMargin": -105.17,
+            "BottomMargin": 4.17,
+            "Tag": 120,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "3",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.4078,
+                  "Y": 61.5734
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.469,
+                  "Y": 0.6096
+                },
+                "PreSize": {
+                  "X": 0.1034,
+                  "Y": 0.2376
+                },
+                "LeftMargin": 48.4078,
+                "RightMargin": 55.5922,
+                "TopMargin": 27.4266,
+                "BottomMargin": 49.5734,
+                "Tag": 122,
+                "ActionTag": 1321166242,
+                "Size": {
+                  "X": 12.0,
+                  "Y": 24.0
+                },
+                "Name": "aw_fnttype1_ranknum",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1526441565,
+            "Size": {
+              "X": 116.0,
+              "Y": 101.0
+            },
+            "Name": "downrank",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/up_arrow.png",
+              "Plist": "csi/csi_4.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.44,
+              "Y": -43.7211
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 196.44,
+            "RightMargin": -300.44,
+            "TopMargin": -0.7789,
+            "BottomMargin": -88.2211,
+            "Tag": 121,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "3",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.2383,
+                  "Y": 40.3307
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5023,
+                  "Y": 0.4532
+                },
+                "PreSize": {
+                  "X": 0.1154,
+                  "Y": 0.2697
+                },
+                "LeftMargin": 46.2383,
+                "RightMargin": 45.7617,
+                "TopMargin": 36.6693,
+                "BottomMargin": 28.3307,
+                "Tag": 123,
+                "ActionTag": 656406655,
+                "Size": {
+                  "X": 12.0,
+                  "Y": 24.0
+                },
+                "Name": "aw_fnttype4_ranknum",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 175430150,
+            "Size": {
+              "X": 104.0,
+              "Y": 89.0
+            },
+            "Name": "uprank",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_4.plist",
+        "../csi/csi_4.png",
+        "../csi/fightanimatelist9.plist",
+        "../csi/fightanimatelist9.png",
+        "../csi/fntplist.plist",
+        "../csi/fntplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

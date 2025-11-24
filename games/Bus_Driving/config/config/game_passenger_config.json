@@ -1,0 +1,52 @@
+{
+  "1": {
+    "id": 1,
+    "passengerid": 101,
+    "name": "小学生男"
+  },
+  "2": {
+    "id": 2,
+    "passengerid": 102,
+    "name": "小学生女"
+  },
+  "3": {
+    "id": 3,
+    "passengerid": 103,
+    "name": "青年男痞子"
+  },
+  "4": {
+    "id": 4,
+    "passengerid": 104,
+    "name": "女青年秘书"
+  },
+  "5": {
+    "id": 5,
+    "passengerid": 105,
+    "name": "中年油腻胖大叔"
+  },
+  "6": {
+    "id": 6,
+    "passengerid": 106,
+    "name": "中年女富婆"
+  },
+  "7": {
+    "id": 7,
+    "passengerid": 107,
+    "name": "瘦老头"
+  },
+  "8": {
+    "id": 8,
+    "passengerid": 108,
+    "name": "胖奶奶"
+  },
+  "9": {
+    "id": 9,
+    "passengerid": 109,
+    "name": "哈士奇"
+  },
+  "10": {
+    "id": 10,
+    "passengerid": 110,
+    "name": "猫"
+  }
+}

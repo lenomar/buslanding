@@ -1,0 +1,116 @@
+{
+  "type": "View",
+  "props": {
+    "y": 96,
+    "x": 128,
+    "width": 256,
+    "height": 192,
+    "anchorY": 0.5,
+    "anchorX": 0.5
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Image",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "var": "img_bg",
+        "skin": "gameui/carportUI/chekuang.png"
+      },
+      "compId": 4
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "var": "img_unilok3",
+        "top": 0,
+        "skin": "gameui/carportUI/che_xuanzhong.png",
+        "sizeGrid": "20,9,13,18",
+        "right": 0,
+        "mouseThrough": false,
+        "mouseEnabled": false,
+        "left": 0,
+        "bottom": 0
+      },
+      "compId": 16
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 109,
+        "x": 128,
+        "width": 178,
+        "var": "img_icon",
+        "skin": "gameui/car/car_201.png",
+        "height": 90,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 3
+    },
+    {
+      "type": "Sprite",
+      "props": {
+        "y": 148,
+        "x": 3,
+        "var": "img_use",
+        "texture": "gameui/carportUI/shiyong_di.png"
+      },
+      "compId": 7,
+      "child": [
+        {
+          "type": "Label",
+          "props": {
+            "text": "Using",
+            "name": "lab",
+            "fontSize": 25,
+            "color": "#ffffff",
+            "centerY": 0,
+            "centerX": 0,
+            "bold": true
+          },
+          "compId": 8
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "var": "img_unilok1",
+        "top": 3,
+        "skin": "gameui/carportUI/cheku_dikuang_mask.png",
+        "sizeGrid": "20,9,13,18",
+        "right": 3,
+        "mouseThrough": false,
+        "mouseEnabled": false,
+        "left": 3,
+        "bottom": 3
+      },
+      "compId": 6
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 135.5,
+        "x": 204,
+        "var": "img_unilok2",
+        "skin": "gameui/carportUI/suo.png",
+        "mouseThrough": false,
+        "mouseEnabled": false
+      },
+      "compId": 5
+    }
+  ],
+  "loadList": [
+    "gameui/carportUI/chekuang.png",
+    "gameui/carportUI/che_xuanzhong.png",
+    "gameui/car/car_201.png",
+    "gameui/carportUI/shiyong_di.png",
+    "gameui/carportUI/cheku_dikuang_mask.png",
+    "gameui/carportUI/suo.png"
+  ],
+  "loadList3D": []
+}

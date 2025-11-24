@@ -1,0 +1,477 @@
+{
+  "title": "Bus_Driving",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Ethan Johnson",
+      "rating": 5,
+      "comment": "Bus_Driving is surprisingly immersive! I love the realistic physics and detailed environments. Picking up passengers, navigating traffic, and sticking to the schedule makes for a genuinely engaging experience. It’s a great way to unwind and enjoy a different kind of simulation. Highly recommend for realism fans!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Анастасия Козлова",
+      "rating": 4,
+      "comment": "Хороший симулятор вождения автобуса. Графика приятная, управление адекватное. Иногда ИИ машин ведет себя странно, но в целом очень затягивает. Отличный способ расслабиться и почувствовать себя водителем автобуса. Много маршрутов.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Léa Martin",
+      "rating": 5,
+      "comment": "Ce jeu est une pure merveille! Bus_Driving est d'un réalisme étonnant. La conduite est fluide, les détails des bus et des villes sont impressionnants. C'est relaxant et captivant à la fois, on se prend vite au jeu des horaires et de la circulation. Un excellent simulateur!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Felix Schmidt",
+      "rating": 2,
+      "comment": "Die Idee ist gut, aber das Spiel ist leider voller Bugs. Die Passagiere glitchen oft, und die Kollisionserkennung ist miserabel. Zudem gibt es zu viel Werbung, die den Spielfluss ständig unterbricht. Da muss dringend nachgebessert werden.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "張家豪",
+      "rating": 5,
+      "comment": "Bus_Driving真的太棒了！駕駛體驗非常真實，城市細節豐富，讓人彷彿真的在開公車。遵守交通規則、接送乘客、準時抵達，這些都增加了遊戲的沉浸感。是個讓人一玩就停不下來的模擬遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Olivia Davis",
+      "rating": 4,
+      "comment": "A very solid and engaging bus simulator. It’s easy to pick up but offers enough depth with various routes and challenges to keep it interesting. The graphics are decent for a mobile game, and the controls are responsive. A good way to relax and focus.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Иванов",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает, особенно на сложных маршрутах. Это ужасно. Невозможно нормально пройти и нескольких миссий. Разработчики, пожалуйста, исправьте эти технические проблемы! Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Sophie Wagner",
+      "rating": 5,
+      "comment": "Absolut genial! Bus_Driving ist so fesselnd und bietet ein erstaunlich realistisches Fahrerlebnis. Man muss auf so viele Details achten – vom Fahrplan bis zum Verkehr. Es ist super entspannend und gleichzeitig eine schöne Herausforderung. Suchtfaktor hoch, klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Noah Brown",
+      "rating": 4,
+      "comment": "The detailed environments and varied routes are fantastic. It's easy to get lost in the simulation, especially with the realistic traffic. Sometimes the passenger AI is a bit clunky, but overall it's a very enjoyable and well-designed driving game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "遊戲概念很好，但操控有時不太靈敏，尤其是在轉彎時。希望能優化操作體驗，並且增加更多元的任務或事件，讓遊戲更有趣。目前就是個不錯的休閒小品，但還有進步空間。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Hugo Leclerc",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Bus_Driving! C'est le jeu parfait pour stimuler ma concentration tout en me détendant. Le réalisme de la conduite et la variété des missions sont incroyables. Chaque trajet est un défi unique et stimulant. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Елена Соколова",
+      "rating": 4,
+      "comment": "Очень хороший симулятор. Правила простые, но чтобы успешно доехать до конечной, нужно быть внимательным. Отличный способ развить реакцию и просто расслабиться после тяжелого дня. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Fabian Meier",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine Zumutung wegen der unerträglichen Menge an Werbung. Man wird ständig aus dem Spiel gerissen, was den ganzen Spaß nimmt. Es ist frustrierend und macht einfach keinen Sinn, so viel Werbung einzublenden. Absolut nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Isabella Clark",
+      "rating": 5,
+      "comment": "Bus_Driving is surprisingly engaging and incredibly immersive! It perfectly blends relaxation with thoughtful driving challenges. The feeling of completing a route flawlessly is super satisfying. A true gem among mobile simulation games, highly recommended for its clever design!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "陳偉倫",
+      "rating": 4,
+      "comment": "這遊戲的駕駛體驗很不錯，物理效果和交通系統都做得挺真實。每次完成路線都很有成就感。雖然有時車流會有點不自然，但整體來說是很棒的模擬遊戲。適合喜歡駕駛和挑戰的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Victor Bernard",
+      "rating": 3,
+      "comment": "Un bon jeu de simulation pour passer le temps, mais il manque un peu de variété dans les interactions avec les passagers ou des événements aléatoires. Le concept est solide, mais il pourrait être enrichi avec plus de fonctionnalités pour maintenir l'intérêt à long terme. C'est sympa sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Мария Смирнова",
+      "rating": 5,
+      "comment": "Bus_Driving - это просто находка! Очень затягивающий и умный симулятор. Каждая поездка имеет значение, и нужно постоянно быть внимательным на дороге. Графика минималистичная, но очень приятная. Настоятельно рекомендую всем любителям симуляторов!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Julia Müller",
+      "rating": 4,
+      "comment": "Einfach und doch tiefgründig. Man unterschätzt, wie viel Strategie und Geduld in diesem Spiel steckt. Es ist perfekt, um kurz das Gehirn zu trainieren und die Umgebung zu genießen. Manchmal ist der Verkehr etwas unberechenbar, aber das macht den Reiz aus. Ein guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Ryan White",
+      "rating": 2,
+      "comment": "This game becomes repetitive very quickly. The core mechanic of driving a bus is fine, but there's no real progression or new features to keep it fresh. It feels like a very basic driving simulator that lacks depth. I lost interest after a short while.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "林依婷",
+      "rating": 5,
+      "comment": "玩Bus_Driving讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的駕駛訓練。每個路線都很有挑戰性，成功完成任務後超有成就感。精緻的城市設計也讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Arthur Dubois",
+      "rating": 4,
+      "comment": "Un excellent jeu de simulation pour se détendre et stimuler son esprit. Les graphismes sont clairs et le gameplay est fluide. Les missions sont bien pensées et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Сергей Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше режимов или целей, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины для длительного прохождения. Надеюсь на будущие обновления.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Hannah Koch",
+      "rating": 5,
+      "comment": "Bus_Driving ist einfach großartig! Es ist so intuitiv und man kann so viele verschiedene Routen ausprobieren. Die Herausforderung, immer pünktlich zu sein und sicher zu fahren, ist süchtig machend. Ein fantastischer Zeitvertreib und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Taylor",
+      "rating": 4,
+      "comment": "A smart and engaging bus simulation game. It's easy to learn but difficult to master the nuances of driving and managing passengers, which is the perfect combination. The sense of accomplishment when you complete a tricky route is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "王小明",
+      "rating": 1,
+      "comment": "這個遊戲的廣告真的太多了，嚴重打斷遊戲流程。而且感覺不花錢就很难玩下去，非常失望。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Manon Lefebvre",
+      "rating": 5,
+      "comment": "Fantastique! Bus_Driving est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque trajet est une nouvelle énigme à résoudre en respectant les règles. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce simulateur addictif!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятный симулятор. Правила простые, но маршруты требуют продуманных действий. Хорошо подходит для расслабления и тренировки внимания. Единственное, хотелось бы больше разнообразия в событиях на дороге или типах автобусов.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Die Routen sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Mia Thompson",
+      "rating": 5,
+      "comment": "Bus_Driving is an absolute gem! It's so simple yet incredibly strategic and immersive. The satisfaction of completing a busy route without a hitch is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any simulation game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於駕駛體驗。它不僅考驗反應力，也需要一些策略性來規劃路線和時間。玩起來很有新鮮感，每次成功載客都很有成就感。是一款值得推薦的模擬駕駛遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Julien Petit",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Il n'y a pas assez de variété dans les objectifs ou les types de missions. Ça manque de profondeur pour une rejouabilité à long terme. On fait le tour des possibilités rapidement, et l'ennui s'installe.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Иван Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Bus_Driving — это идеальная игра для развития внимания и реакции. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Tobias Braun",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Simulationsspiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Fahren konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Emma Rousseau",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout lorsque le trafic est dense. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Kevin Lee",
+      "rating": 5,
+      "comment": "So incredibly satisfying to complete a tricky route on time! Bus_Driving is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your driving skills at the same time. The detailed environments are sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗駕駛技巧和時間管理的模擬遊戲。雖然規則簡單，但要準時且安全地完成任務需要深思熟慮。適合在碎片時間玩，也能訓練反應力。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Белов",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от трафика, который может быть очень непредсказуемым. Иногда это расстраивает. Хотелось бы более справедливого ИИ дорожного движения. В целом, можно поиграть.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Laura Fischer",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Bus_Driving! Es ist so ein geniales und herausforderndes Simulationsspiel. Man kann so leicht einsteigen, aber die Präzision und das Multitasking, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Maxime Durand",
+      "rating": 4,
+      "comment": "Un excellent jeu de simulation de conduite pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque mission est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on Bus_Driving! It's so satisfying to navigate complex routes and manage passenger flow. The realism is impressive, and the sense of responsibility makes it genuinely engaging. Highly recommended for simulator enthusiasts.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid driving simulator. The difficulty curve is well-managed, and it introduces new challenges effectively. It's calming but also quite stimulating. My only minor gripe is the somewhat repetitive nature of some routes, but overall, it's great for relaxation.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "Bus_Driving is pure joy! It combines the thrill of driving with the satisfaction of completing tasks perfectly. I love the detailed cityscapes and varied weather conditions. It's surprisingly relaxing, even when challenging. A must-play for driving sim fans!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда физика автобуса кажется нереалистичной, особенно при поворотах. Хотелось бы более точного управления. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore Bus_Driving! C'est un simulateur qui fait vraiment travailler la concentration et la patience. La sensation de maîtriser un grand véhicule est super. Très bien conçu et addictif.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "Too many levels feel almost identical, just with minor route changes. It loses its appeal quickly when there's no real innovation in gameplay or bus types. The core idea is fine, but it gets boring too quickly.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "バスの運転シミュレーターとしてとてもよくできています。リアルな交通ルールや時間管理が楽しいです。たまにAIが変な動きをすることもありますが、全体的には素晴らしい体験です。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. Bus_Driving est un simulateur qui vous absorbe complètement. La satisfaction de terminer une route sans encombre est incomparable. C'est un jeu intelligent et captivant pour tous les âges.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Умная игра, которая развивает внимание и точность. Некоторые маршруты довольно сложны, но тем интереснее их проходить. Рекомендую любителям симуляторов и спокойных игр.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant and so satisfying. Bus_Driving is incredibly engaging. Each route feels like a genuine driving challenge, and the 'Aha!' moment when you master a tricky turn is fantastic. Highly addictive and highly polished.",
+      "date": "2025-04-20"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/26.jpg",
+      "name": "Jessica Lee",
+      "rating": 4,
+      "comment": "Fun and detailed. It's a great little game to pass the time and experience bus driving. The routes can get tricky, which I appreciate. Sometimes the ads are a bit much, but not enough to ruin the overall experience. Good for short breaks or longer sessions.",
+      "date": "2024-03-11"
+    },
+    {
+      "id": 51,
+      "avatar": "/files/37.jpg",
+      "name": "Carlos Gomez",
+      "rating": 3,
+      "comment": "Decent simulation game, but after a while, it feels very repetitive. Needs more varied scenarios, weather conditions, or unexpected events to keep it interesting in the long run. Good for a quick drive, but not for extended sessions.",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 52,
+      "avatar": "/files/48.jpg",
+      "name": "Linda Chen",
+      "rating": 5,
+      "comment": "So immersive! Every route is a delight. Bus_Driving is beautifully designed and endlessly entertaining. It's easy to get lost in the flow of driving, picking up passengers, and managing your schedule. Absolutely love it!",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 53,
+      "avatar": "/files/51.jpg",
+      "name": "Kevin Wilson",
+      "rating": 4,
+      "comment": "Great time killer! The routes are interesting, and the detailed city makes it feel real. It's simple, yet keeps you engaged with the challenge of driving perfectly. Good job!",
+      "date": "2024-05-19"
+    },
+    {
+      "id": 54,
+      "avatar": "/files/62.jpg",
+      "name": "Chloe Young",
+      "rating": 5,
+      "comment": "Pure, unadulterated driving fun! It's the perfect blend of casual simulation and the satisfying challenge of transporting passengers. Highly recommend Bus_Driving to everyone who enjoys a realistic driving experience!",
+      "date": "2025-02-14"
+    },
+    {
+      "id": 55,
+      "avatar": "/files/73.jpg",
+      "name": "Robert Miller",
+      "rating": 3,
+      "comment": "It's alright for a quick game, but it does get a bit monotonous after a while. The city feels a bit empty sometimes, and there aren't enough dynamic events. Not bad, just not super engaging long-term.",
+      "date": "2024-08-03"
+    },
+    {
+      "id": 56,
+      "avatar": "/files/84.jpg",
+      "name": "Sophia Rodriguez",
+      "rating": 5,
+      "comment": "I'm obsessed with Bus_Driving! It's so calming and addictive at the same time. The realistic controls are fantastic, and I love trying to master each route. The detailed environment works perfectly for this style of game. Absolutely brilliant!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 57,
+      "avatar": "/files/95.jpg",
+      "name": "James White",
+      "rating": 4,
+      "comment": "A solid bus simulator. It's perfect for killing a few minutes or zoning out for longer. The variety of buses and routes is good. It can feel a bit repetitive if you play too long, but it serves its purpose well as a driving sim.",
+      "date": "2023-10-10"
+    },
+    {
+      "id": 58,
+      "avatar": "/files/101.jpg",
+      "name": "Anna Petrova",
+      "rating": 5,
+      "comment": "Fantastic game! The controls are smooth and the city feels alive. It's surprisingly relaxing to just drive the bus and follow the rules. A truly enjoyable simulation experience.",
+      "date": "2024-12-25"
+    },
+    {
+      "id": 59,
+      "avatar": "/files/102.jpg",
+      "name": "Tom Baker",
+      "rating": 4,
+      "comment": "Good driving mechanics, but the passenger behavior can sometimes be a bit odd. Overall, a solid bus simulator for mobile. Worth playing if you like this genre.",
+      "date": "2023-09-05"
+    }
+  ]
+}

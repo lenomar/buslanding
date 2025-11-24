@@ -1,0 +1,405 @@
+{
+  "title": "BallSortMaster",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/473.jpg",
+      "name": "Emily Johnson",
+      "rating": 5,
+      "comment": "Absolutely addictive! Can't stop playing this puzzle game. The levels are well-designed and the challenge keeps increasing, which makes it incredibly engaging. It's truly a fantastic way to unwind after a long day, and I find myself reaching for it constantly. Highly recommend it to anyone who loves a good brain teaser!",
+      "date": "2023-06-15"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/125.jpg",
+      "name": "Michael Smith",
+      "rating": 4,
+      "comment": "Great concept but needs more challenging levels. While the initial stages are fun, I found myself wishing for more complex puzzles to really test my strategic thinking. The core idea is solid, and with a bit more variety in difficulty, this game could easily be a five-star experience.",
+      "date": "2023-06-14"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/891.jpg",
+      "name": "Sarah Williams",
+      "rating": 5,
+      "comment": "Perfect for killing time. Love the color combinations! The vibrant visuals make the game even more enjoyable, and it's so satisfying to sort the balls into their respective tubes. It's a simple premise, but executed flawlessly, providing endless hours of fun.",
+      "date": "2023-06-13"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/204.jpg",
+      "name": "David Brown",
+      "rating": 3,
+      "comment": "Good game but ads are too frequent. The constant interruptions really break the flow of the game, making it less enjoyable than it could be. If the ad frequency were reduced, it would be a much better user experience.",
+      "date": "2023-06-12"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/765.jpg",
+      "name": "Jennifer Davis",
+      "rating": 5,
+      "comment": "My favorite puzzle game ever! So satisfying to complete levels. The sense of accomplishment after solving a tricky puzzle is unmatched. It's well-designed, intuitive, and truly a joy to play. I can't recommend it enough to puzzle enthusiasts!",
+      "date": "2023-06-11"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/333.jpg",
+      "name": "James Wilson",
+      "rating": 4,
+      "comment": "Simple yet challenging. Great for all ages. My whole family enjoys playing this game. It's easy to pick up but offers enough depth to keep you engaged. A perfect blend of simplicity and intellectual stimulation.",
+      "date": "2023-06-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/58.jpg",
+      "name": "Lisa Miller",
+      "rating": 2,
+      "comment": "Gets repetitive after a while. Needs more variety. While the initial gameplay is engaging, the lack of new mechanics or twists makes it feel a bit stale over time. Some new game modes or unique challenges would greatly improve its longevity.",
+      "date": "2023-06-09"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/912.jpg",
+      "name": "Robert Taylor",
+      "rating": 5,
+      "comment": "Brilliant game design! Makes me think strategically. Each level feels carefully crafted to encourage thoughtful planning. It’s not just about speed, but about making the right moves. A truly rewarding puzzle experience.",
+      "date": "2023-06-08"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/670.jpg",
+      "name": "Amanda Anderson",
+      "rating": 4,
+      "comment": "Love the color scheme and smooth gameplay. The visuals are appealing, and the controls are incredibly responsive, making for a very fluid and enjoyable experience. It's a visually pleasing game that plays just as well as it looks.",
+      "date": "2023-06-07"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/19.jpg",
+      "name": "Daniel Thomas",
+      "rating": 3,
+      "comment": "Decent puzzle game but nothing special. It fulfills its purpose as a time-killer, but it doesn't offer anything particularly innovative or memorable. It's a solid choice if you're looking for a basic sorting game, but don't expect to be blown away.",
+      "date": "2023-06-06"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/845.jpg",
+      "name": "Jessica Jackson",
+      "rating": 5,
+      "comment": "Can't believe how much time I've spent on this game! So fun! It's incredibly easy to lose track of time while playing, which is a testament to how engaging it is. Every completed level brings a sense of satisfaction that keeps you coming back for more.",
+      "date": "2023-06-05"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/342.jpg",
+      "name": "Christopher White",
+      "rating": 4,
+      "comment": "Great for passing time during commutes. It's the perfect game to pick up and play for a few minutes. The levels are short enough to complete on a bus ride, yet challenging enough to keep your mind active. A fantastic portable brain exercise.",
+      "date": "2023-06-04"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/7.jpg",
+      "name": "Ashley Harris",
+      "rating": 1,
+      "comment": "Too many ads ruined the experience for me. The sheer volume of advertisements makes this game nearly unplayable. It's a shame because the core gameplay is enjoyable, but the constant interruptions make it frustrating and unenjoyable.",
+      "date": "2023-06-03"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/555.jpg",
+      "name": "Matthew Martin",
+      "rating": 5,
+      "comment": "Best sorting puzzle I've played. Highly recommend! The intuitive controls, clever puzzles, and satisfying progression make this stand out from other games in the genre. It's clear a lot of thought went into making it enjoyable.",
+      "date": "2023-06-02"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/210.jpg",
+      "name": "Elizabeth Thompson",
+      "rating": 4,
+      "comment": "Challenging but not frustrating. Perfect balance. The game manages to be mentally stimulating without ever feeling impossible, which is a rare and commendable achievement. It strikes a great balance, making it accessible to a wide range of players.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/88.jpg",
+      "name": "Joshua Garcia",
+      "rating": 3,
+      "comment": "Good concept but needs more original levels. While the core idea is engaging, some levels feel a bit too similar to each other. Introducing more unique layouts or special mechanics would definitely elevate the gameplay and keep things fresh.",
+      "date": "2023-05-31"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/601.jpg",
+      "name": "Nicole Martinez",
+      "rating": 5,
+      "comment": "Addictive gameplay! Love the increasing difficulty. The gradual ramp-up in challenge keeps you hooked, always pushing you to try just one more level. It's incredibly satisfying to see your skills improve as the puzzles get tougher.",
+      "date": "2023-05-30"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/42.jpg",
+      "name": "Andrew Robinson",
+      "rating": 4,
+      "comment": "Simple interface but surprisingly deep gameplay. Don't let the minimalistic design fool you; there's a lot of strategic thinking involved in mastering this game. It's a testament to how effective a simple concept can be when executed well.",
+      "date": "2023-05-29"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/719.jpg",
+      "name": "Samantha Clark",
+      "rating": 2,
+      "comment": "Got bored after a few days. Needs more features. The lack of additional game modes, challenges, or customization options means the game doesn't have much long-term appeal. It's fun for a short burst, but quickly loses its novelty.",
+      "date": "2023-05-28"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/900.jpg",
+      "name": "Kevin Rodriguez",
+      "rating": 5,
+      "comment": "Perfect puzzle game for relaxing after work! The calming music and satisfying mechanics make it an ideal way to unwind. It's mentally engaging without being stressful, offering a perfect escape from daily pressures.",
+      "date": "2023-05-27"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/111.jpg",
+      "name": "Stephanie Lewis",
+      "rating": 4,
+      "comment": "My kids love it and so do I! Family favorite. It's rare to find a game that appeals to both children and adults, but this one hits the mark. It's a great way to spend quality time together, collaborating on puzzles or challenging each other.",
+      "date": "2023-05-26"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/387.jpg",
+      "name": "Ryan Lee",
+      "rating": 3,
+      "comment": "Good but not great. Worth trying though. It's a perfectly functional puzzle game, but it doesn't really stand out from the crowd. If you're looking for something to pass the time, it's a decent option, but don't expect anything groundbreaking.",
+      "date": "2023-05-25"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/622.jpg",
+      "name": "Hannah Walker",
+      "rating": 5,
+      "comment": "So satisfying when you solve a difficult level! The 'aha!' moment after cracking a tough puzzle is incredibly rewarding. It’s a testament to the clever design that these moments are frequent and genuinely earned.",
+      "date": "2023-05-24"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/999.jpg",
+      "name": "Brandon Hall",
+      "rating": 4,
+      "comment": "Great time killer with smart puzzles. It's ideal for short bursts of play, offering just enough challenge to keep your brain active without demanding too much commitment. A perfect companion for waiting rooms or coffee breaks.",
+      "date": "2023-05-23"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "Megan Allen",
+      "rating": 1,
+      "comment": "Too many in-app purchases required to progress. It feels like the game is designed to force you into spending money, which completely detracts from the enjoyment. The constant paywalls make it frustrating and unfair.",
+      "date": "2023-05-22"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/777.jpg",
+      "name": "Justin Young",
+      "rating": 5,
+      "comment": "Brilliant brain exercise! Love it! This game is not just fun, but genuinely helps sharpen your mind. It's a fantastic way to improve problem-solving skills while enjoying yourself. Highly recommended for mental agility.",
+      "date": "2023-05-21"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/234.jpg",
+      "name": "Rachel Hernandez",
+      "rating": 4,
+      "comment": "Simple yet challenging. Perfect for short breaks. The accessibility of the gameplay combined with the satisfying puzzles makes it an excellent choice for quick mental workouts. It's easy to jump in and out of without losing track.",
+      "date": "2023-05-20"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/12.jpg",
+      "name": "Nathan King",
+      "rating": 3,
+      "comment": "Okay game but I've seen better puzzle concepts. While it's a solid attempt, it doesn't bring anything particularly new or innovative to the puzzle genre. It's a decent diversion, but doesn't offer the unique spark of other top-tier puzzle games.",
+      "date": "2023-05-19"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/501.jpg",
+      "name": "Lauren Wright",
+      "rating": 5,
+      "comment": "Can't put it down! Addictive in the best way. This game has a magical quality that makes you want to keep playing, level after level. It's challenging enough to be engaging, but never so frustrating that you want to quit. Truly a gem!",
+      "date": "2023-05-18"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/95.jpg",
+      "name": "Jonathan Lopez",
+      "rating": 4,
+      "comment": "Great for developing problem-solving skills. This game subtly encourages logical thinking and planning, making it not just entertaining but also beneficial for cognitive development. It's a fun way to give your brain a workout.",
+      "date": "2023-05-17"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/400.jpg",
+      "name": "Kayla Scott",
+      "rating": 2,
+      "comment": "Gets boring quickly. Needs more variety. The initial appeal wears off once you realize there isn't much depth beyond the core mechanic. Some new game modes, themes, or power-ups would really help keep players engaged for longer.",
+      "date": "2023-05-16"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/81.jpg",
+      "name": "Aaron Green",
+      "rating": 5,
+      "comment": "Best mobile puzzle game I've played this year! The smooth controls, clever puzzles, and overall polish make this a standout title. It sets a new standard for mobile puzzle games and is an absolute must-play.",
+      "date": "2023-05-15"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/67.jpg",
+      "name": "Victoria Adams",
+      "rating": 4,
+      "comment": "Challenging but fair. Makes you think! The puzzles are designed to make you strategize without resorting to cheap tricks or impossible scenarios. It's a refreshing challenge that respects the player's intelligence.",
+      "date": "2023-05-14"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/930.jpg",
+      "name": "Dylan Baker",
+      "rating": 3,
+      "comment": "Good concept but execution could be better. The fundamental idea is strong, but some aspects, like the user interface or certain animations, feel a bit unpolished. With a bit more refinement, it could be a truly excellent game.",
+      "date": "2023-05-13"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/2.jpg",
+      "name": "Amber Nelson",
+      "rating": 5,
+      "comment": "So satisfying to complete each level! Highly addictive. The instant gratification of seeing the balls perfectly sorted is incredibly motivating. It's a pure, unadulterated puzzle pleasure that keeps you coming back for more.",
+      "date": "2023-05-12"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/187.jpg",
+      "name": "Patrick Carter",
+      "rating": 4,
+      "comment": "Great for passing time without feeling guilty. This game is the perfect blend of entertainment and mental engagement, making it feel like a productive use of your spare moments rather than just mindless scrolling. It's a genuinely rewarding experience.",
+      "date": "2023-05-11"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/73.jpg",
+      "name": "Danielle Mitchell",
+      "rating": 1,
+      "comment": "Too many bugs and glitches. Unplayable. Unfortunately, the technical issues severely hinder the experience. Crashes, freezing, and unresponsive controls make it impossible to enjoy the game as intended. It needs significant bug fixes.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/444.jpg",
+      "name": "Zachary Perez",
+      "rating": 5,
+      "comment": "Perfect balance of challenge and fun! It never feels too easy or too hard, striking an ideal equilibrium that keeps you engaged. This game truly understands how to deliver a satisfying puzzle experience that caters to all skill levels.",
+      "date": "2023-05-09"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/10.jpg",
+      "name": "Brittany Roberts",
+      "rating": 4,
+      "comment": "Simple yet brilliant puzzle mechanics. The core concept is straightforward, but the clever ways in which it's applied create surprisingly complex and satisfying puzzles. It's a testament to good design that something so simple can be so captivating.",
+      "date": "2023-05-08"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/250.jpg",
+      "name": "Austin Turner",
+      "rating": 3,
+      "comment": "Decent but not exceptional. Worth a try. It's a competent puzzle game that delivers on its promise, but it doesn't offer any unique hooks that would make it a must-play. If you're looking for a casual distraction, it serves its purpose well.",
+      "date": "2023-05-07"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/60.jpg",
+      "name": "Courtney Phillips",
+      "rating": 5,
+      "comment": "My new favorite puzzle game! So satisfying! The elegant design and increasingly complex levels provide an endless source of enjoyment. Every time I complete a puzzle, I feel a sense of accomplishment that few other games deliver.",
+      "date": "2023-05-06"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/987.jpg",
+      "name": "Cody Campbell",
+      "rating": 4,
+      "comment": "Great for exercising the brain during breaks. It's a perfect mental workout that fits seamlessly into short periods of downtime. The puzzles are stimulating enough to keep your mind sharp without feeling overwhelming. Highly recommend for quick brain boosts.",
+      "date": "2023-05-05"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/321.jpg",
+      "name": "Alexandra Parker",
+      "rating": 2,
+      "comment": "Too repetitive after the first few levels. The game quickly falls into a predictable pattern, and the lack of innovation makes it feel stale. It could greatly benefit from introducing new elements or gameplay variations to maintain player interest.",
+      "date": "2023-05-04"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/56.jpg",
+      "name": "Tyler Evans",
+      "rating": 5,
+      "comment": "Brilliant game design! Keeps me coming back. The creators clearly put a lot of thought into the progression and challenges, ensuring that each new level feels fresh and engaging. It’s a truly masterfully designed puzzle game.",
+      "date": "2023-05-03"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/789.jpg",
+      "name": "Rebecca Edwards",
+      "rating": 4,
+      "comment": "Perfect difficulty curve. Never too easy or hard. The game gradually introduces new complexities without ever feeling overwhelming, striking an ideal balance for players of all skill levels. It's a joy to experience the thoughtful progression.",
+      "date": "2023-05-02"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/14.jpg",
+      "name": "Jordan Collins",
+      "rating": 3,
+      "comment": "Good but not groundbreaking. Solid time-passer. While it won't revolutionize the puzzle genre, it's a reliable choice for a casual gaming session. It does what it sets out to do competently, providing a pleasant, if unremarkable, experience.",
+      "date": "2023-05-01"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/921.jpg",
+      "name": "Vanessa Stewart",
+      "rating": 5,
+      "comment": "Addictive and rewarding! My daily stress reliever. The satisfying clinks of the balls and the visual order bring a sense of calm. It's a therapeutic and engaging way to de-stress after a long day, becoming a truly cherished daily ritual.",
+      "date": "2023-04-30"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/300.jpg",
+      "name": "Christian Sanchez",
+      "rating": 4,
+      "comment": "Smart puzzle design with great visuals. The vibrant colors and smooth animations make the game a pleasure to look at, while the intelligent puzzle layouts keep your mind actively engaged. It's a well-rounded and aesthetically pleasing experience.",
+      "date": "2023-04-29"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/1.jpg",
+      "name": "Christina Morris",
+      "rating": 1,
+      "comment": "Frustrating controls and too many ads. The clunky controls make precise movements difficult, leading to unnecessary mistakes and frustration. Coupled with the overwhelming number of ads, the game becomes more annoying than enjoyable. A truly disappointing experience.",
+      "date": "2023-04-28"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/654.jpg",
+      "name": "Gregory Rogers",
+      "rating": 5,
+      "comment": "Masterpiece of puzzle design! Endlessly replayable. The sheer cleverness of the puzzles ensures that you can revisit levels and still find new ways to appreciate their intricate design. It's a timeless classic that offers endless hours of mental stimulation.",
+      "date": "2023-04-27"
+    }
+  ]
+}

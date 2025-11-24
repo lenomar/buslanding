@@ -1,0 +1,325 @@
+{
+  "title": "Blend-Fruits",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Emily Johnson",
+      "rating": 5,
+      "comment": "Blend-Fruits is incredibly satisfying! The mechanics are simple yet deep, and watching those fruits blend perfectly is so relaxing. The levels are cleverly designed, gradually increasing in complexity without ever feeling unfair. It's my go-to game for unwinding after a long day.",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Алексей Смирнов",
+      "rating": 4,
+      "comment": "Игра очень милая и расслабляющая. Концепция смешивания фруктов уникальна и хорошо реализована. Иногда кажется, что уровни слишком простые, но это хорошо для снятия стресса. Отличный способ скоротать время с удовольствием. Очень приятная графика.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Chloé Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est un pur délice! Les couleurs sont vives, les animations fluides, et le concept de mélanger des fruits est étonnamment addictif. Chaque niveau est une petite énigme à résoudre, et la satisfaction de voir le jus parfait est immense. Parfait pour se détendre!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist nett, aber die ständige Werbung ruiniert das Spiel komplett. Alle paar Minuten wird man unterbrochen, was einfach nur nervtötend ist. Man kann sich kaum auf die Level konzentrieren. Das macht das Spiel frustrierend und ist eine Schande für die eigentlich gute Idee.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "Blend-Fruits真的太棒了！玩法簡單卻充滿巧思，每次成功混合水果都非常有成就感。畫面色彩繽紛，音效也很可愛。是一款非常療癒又益智的遊戲，推薦給所有喜歡休閒小品的玩家。",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A surprisingly charming and engaging puzzle game. The mechanics are intuitive, and the levels offer a good challenge without being overly frustrating. It’s perfect for quick bursts of fun, and the visual feedback of blending is quite satisfying. Well-designed.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Елена Козлова",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает. Это ужасно. Невозможно пройти и нескольких уровней без технических проблем. Разработчики, пожалуйста, исправьте это! Пока это не будет сделано, играть в это невозможно. Очень разочарована.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! Blend-Fruits ist so entspannend und gleichzeitig herausfordernd. Die Level sind super kreativ und die Physik des Mixens ist einfach befriedigend. Es ist mein neues Lieblingsspiel für zwischendurch. Suchtfaktor hoch, klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The art style is vibrant and very appealing. The fruits look delicious, and the blending animations are smooth. It's a visually pleasing game that offers a good mental workout. Some levels require a bit of trial and error, but it's generally fun.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲概念新穎，但關卡重複性有點高。玩久了容易覺得缺乏新意。希望能增加更多不同類型的水果、道具或特殊模式，讓遊戲體驗更豐富。適合短時間遊玩。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement obsédé par Blend-Fruits! C'est le jeu parfait pour décompresser et se détendre. Les puzzles sont ingénieux, et le sentiment de voir tous les fruits se mélanger en un smoothie parfait est incroyablement gratifiant. Un bijou!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень приятная и расслабляющая игра-головоломка. Уровни хорошо продуманы, и иногда требуется немного подумать. Интерфейс удобный, а звуки смешивания фруктов очень приятные. Отличный способ отвлечься от повседневных забот. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Das Spiel ist eine einzige Katastrophe wegen der erdrückenden Menge an Werbung. Man wird ständig mit Pop-ups unterbrochen, die das Gameplay komplett zerstören. Es ist unspielbar und reine Geldmacherei. Absolut keine Empfehlung!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Blend-Fruits is incredibly addictive and charming! The puzzles are clever, and the satisfying feeling of creating perfect blends is unmatched. The colorful graphics and soothing sounds make it a truly enjoyable experience. A must-play for puzzle lovers!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這個遊戲非常療癒，配色很舒服。關卡設計有巧思，有時候需要多嘗試幾次才能找到最佳解法。成功混成果汁的那一刻很有成就感。雖然是簡單的益智遊戲，但很耐玩。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un jeu de puzzle correct, mais il manque un peu de variété dans les objectifs des niveaux. Le concept de base est solide, mais après un certain temps, cela peut devenir répétitif. C'est un bon passe-temps, mais pas un jeu que je relancerais constamment.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Blend-Fruits - это просто находка! Очень красивая графика, приятная музыка и увлекательный игровой процесс. Головоломки заставляют думать, но не вызывают фрустрации. Идеально для расслабления и тренировки мозга. Очень сильно затягивает!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Nettes Konzept, das gut umgesetzt wurde. Die Level sind clever und die Physik des Mixens ist überraschend gut. Es ist entspannend und fordert gleichzeitig das Gehirn. Ein guter Zeitvertreib, wenn man eine kleine Denkaufgabe sucht.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "I found this game to be quite repetitive after the first few levels. The core mechanic is fine, but it doesn't evolve enough to keep interest long-term. It feels like a shallow experience that doesn't offer much replayability. Lost interest pretty quickly.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "玩Blend-Fruits讓我很放鬆，每次成功調配出完美的果汁都讓心情大好。關卡設計巧妙，既不會太難也不會太簡單，恰到好處。是個可以讓人專注又愉悅的遊戲，真心推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre. Les graphismes sont clairs et colorés, et le gameplay est fluide. Les niveaux sont assez variés et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très satisfaisant à jouer.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше различных фруктов, препятствий или бонусов, чтобы уровни не казались такими похожими. Для быстрого развлечения сойдет, но не надолго.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "Blend-Fruits ist einfach super befriedigend! Die Herausforderungen sind genial und die Belohnung, wenn alles perfekt zusammenpasst, ist unschlagbar. Es ist süchtig machend und eine tolle Möglichkeit, den Kopf frei zu bekommen und Spaß zu haben. Top-Spiel!",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A smart and engaging puzzle game. The concept is simple, but the levels quickly become quite clever, requiring thought and planning. It's a great way to exercise your brain in short bursts. The presentation is clean and appealing.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "遊戲裡充斥著強制廣告和內購提示，嚴重影響遊戲體驗。幾乎每個動作都會被廣告打斷，不花錢根本玩不下去。感覺這遊戲就是為了盈利而設計，而不是為了玩家體驗。非常失望，不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! Blend-Fruits est incroyablement bien conçu. Chaque niveau est un petit chef-d'œuvre de puzzle. La satisfaction de voir les fruits se mélanger parfaitement est immense. C'est un jeu que je ne peux plus lâcher. Bravo aux créateurs!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная игра. Затягивает своими интересными головоломками и милым дизайном. Хорошо подходит, чтобы расслабиться. Иногда бывает сложно, но это только добавляет интереса к прохождению. Рекомендую всем любителям логических игр.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Kick. Die Level sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "Blend-Fruits is the perfect combination of relaxing and mentally stimulating. The core mechanic is simple to grasp, but the puzzles quickly become quite clever. It's incredibly satisfying to find the perfect sequence to blend all the fruits. Highly addictive and highly recommended!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔又有趣，特別是看水果融合的動畫，非常療癒。關卡難度適中，從簡單到複雜，讓人不斷想挑戰。對於喜歡動腦又想放鬆的玩家，這是一個很棒的選擇。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Les nouveaux niveaux n'apportent pas assez de variation dans le gameplay. Il manque de profondeur pour une rejouabilité à long terme. Je m'attendais à une expérience plus riche, mais l'ennui s'installe rapidement.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это шедевр среди мобильных головоломок! Blend-Fruits — это не только красивая графика и приятная музыка, но и по-настоящему увлекательный геймплей. Продуманные уровни и приятная физика делают игру уникальной. Идеально для всех!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die Früchte und Animationen sind sehr ansprechend. Manchmal sind die Level knifflig, aber das ist ja gerade der Reiz. Gute Grafik und flüssiges Gameplay. Macht viel Spaß!",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais j'ai rencontré des ralentissements occasionnels et quelques bugs qui perturbent l'expérience. L'optimisation pourrait être meilleure. Il y a du potentiel, mais des améliorations techniques sont nécessaires pour le rendre vraiment fluide et agréable.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a board and watch all the fruits blend perfectly! Blend-Fruits is pure joy. It’s addictive, relaxing, and mentally stimulating all at once. The vibrant colors and cute fruit designs make it even better. My favorite new puzzle game!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這個遊戲很適合在空閒時光玩，畫面和音樂都很舒服。雖然是益智遊戲，但不會讓人覺得壓力很大。每次成功挑戰完一個關卡，都會有小小的成就感，是個很療癒的選擇。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Графика и идея хорошие, но некоторые уровни кажутся слишком несбалансированными, требуя слишком много попыток. Это может быть немного разочаровывающим. Если бы сложность была более равномерной, игра была бы намного приятнее.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin total begeistert von Blend-Fruits! Die Rätsel sind so intelligent und die Lösung zu finden, ist eine wahre Freude. Es ist erfrischend herausfordernd und die Grafik ist einfach zum Verlieben. Ein wirklich hervorragendes Puzzle-Spiel, das ich nur empfehlen kann!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Les mécaniques sont simples à prendre en main, mais la profondeur des puzzles est surprenante. Chaque niveau est un petit défi cérébral qui rend la victoire d'autant plus gratifiante. C'est le genre de jeu que l'on relance pour le plaisir de résoudre une nouvelle énigme.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/299.jpg",
+      "name": "Sophie Müller",
+      "rating": 3,
+      "comment": "Ganz nett für zwischendurch, aber es fehlt an Abwechslung. Die grundlegende Idee ist gut, aber die Herausforderungen wiederholen sich zu schnell. Ich hätte mir mehr einzigartige Levelziele oder Power-Ups gewünscht, um länger motiviert zu bleiben. Potenzial ist da, aber ungenutzt.",
+      "date": "2024-03-05"
+    }
+  ]
+}

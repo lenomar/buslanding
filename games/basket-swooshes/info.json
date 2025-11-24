@@ -1,0 +1,293 @@
+{
+  "title": "Basket-Swooshes",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/457.jpg",
+      "name": "Emily Johnson",
+      "rating": 5,
+      "comment": "Absolutely addicted to Basket-Swooshes! The physics are incredibly satisfying, and sinking those shots feels so rewarding. The levels are well-designed, offering a good balance of challenge and fun. I've spent hours perfecting my aim and strategy. This game is a true gem for anyone who loves casual sports puzzles!",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Michael Smith",
+      "rating": 3,
+      "comment": "Good concept, but it gets a bit repetitive after a while. I wish there were more diverse challenges or different game modes to keep things fresh. The core gameplay is solid, but the lack of variety makes it lose its appeal quickly. It's a decent time-killer, but not a long-term keeper.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Sarah Williams",
+      "rating": 4,
+      "comment": "Basket-Swooshes is a fantastic game for quick breaks. The controls are intuitive, and the immediate feedback of a successful shot is satisfying. While it's great for casual play, I'd love to see some more advanced levels or competitive features to truly master. Still, very enjoyable!",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "David Brown",
+      "rating": 1,
+      "comment": "Too many ads! It's almost unplayable. Every few shots, an ad pops up, completely ruining the flow and immersion. I understand games need to monetize, but this is excessive and utterly frustrating. I couldn't enjoy the game at all because of this constant interruption.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "Jennifer Davis",
+      "rating": 5,
+      "comment": "My new favorite casual game! The satisfaction of getting a perfect swoosh is unmatched. The game is easy to pick up, but challenging enough to keep me engaged for hours. It’s perfect for unwinding after a long day. The simple yet effective design truly shines.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "James Wilson",
+      "rating": 4,
+      "comment": "Simple yet very engaging. It's great for quick bursts of fun and helps improve hand-eye coordination. My kids love it too, making it a good family-friendly option. The physics engine feels very realistic, adding to the immersion. A solid overall experience.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Lisa Miller",
+      "rating": 2,
+      "comment": "Gets boring quickly. There isn't enough depth or variety in the levels to maintain interest for long. After a few rounds, it feels like you've seen everything. It definitely needs more features or unique challenges to keep players coming back. Disappointing longevity.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Robert Taylor",
+      "rating": 5,
+      "comment": "Brilliant physics-based puzzle! Every shot requires thoughtful consideration of power and angle. It's incredibly satisfying to master the trajectory and get that perfect shot. This game makes you feel clever. A true test of precision and strategy.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Amanda Anderson",
+      "rating": 4,
+      "comment": "Love the clean graphics and smooth animations. The visual feedback for each shot is excellent, making the gameplay feel very fluid and responsive. It's a visually appealing game that also delivers a satisfying gameplay experience. Well-designed all around.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "Daniel Thomas",
+      "rating": 3,
+      "comment": "It's an okay game, but nothing special. It fills a few minutes of free time, but it doesn't offer anything particularly innovative or memorable compared to other casual sports games. If you're looking for a basic basketball puzzle, it works, but don't expect to be wowed.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/732.jpg",
+      "name": "Jessica Jackson",
+      "rating": 5,
+      "comment": "Can't believe how much time I've spent on this! It's so much fun and incredibly addictive. Every level presents a new, clever challenge that keeps me engaged. The feeling of finally nailing a tricky shot is immensely satisfying. A true time-sink in the best way possible.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Christopher White",
+      "rating": 4,
+      "comment": "Great for passing time during commutes. The short, satisfying levels are perfect for quick play sessions. It's a good way to keep your mind active and focused without demanding too much commitment. A convenient and enjoyable mobile game.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Ashley Harris",
+      "rating": 1,
+      "comment": "Unplayable due to excessive ads and constant pushes for in-app purchases. It feels like the game is designed to frustrate you into spending money. I couldn't get more than a few levels in without being bombarded. A very disappointing and irritating experience.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Matthew Martin",
+      "rating": 5,
+      "comment": "Best physics puzzle game I've played in ages! The challenges are clever, and the progression feels just right. It’s incredibly rewarding to find the perfect trajectory and watch the ball swish through the net. Highly, highly recommend it to anyone who loves precision and puzzles.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "Elizabeth Thompson",
+      "rating": 4,
+      "comment": "Challenging but never frustrating. This game strikes a perfect balance, making you think without making you want to quit. The levels are well-designed to push your skills gradually. It's a genuinely rewarding experience for puzzle enthusiasts.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Joshua Garcia",
+      "rating": 3,
+      "comment": "Good concept, but it needs more original levels. Many of the puzzles feel very similar, lacking distinct challenges or new mechanics. While it's a decent time-filler, more creativity in level design would significantly improve its appeal and longevity.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Nicole Martinez",
+      "rating": 5,
+      "comment": "Addictive gameplay! I love how the difficulty increases, always keeping me on my toes. It's incredibly satisfying to overcome a tricky setup and get that perfect swoosh. This game truly knows how to keep players engaged and coming back for more challenges.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Andrew Robinson",
+      "rating": 4,
+      "comment": "Simple interface but surprisingly deep gameplay. Don't let the minimalist design fool you; mastering the shots requires real skill and foresight. It's a great example of how effective simple mechanics can be when executed flawlessly. Very impressive.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Samantha Clark",
+      "rating": 2,
+      "comment": "Got bored after just a few days. There isn't enough variety or features to keep the game interesting in the long run. It feels like a quick diversion that doesn't offer much replayability. Needs more content to hold player attention.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "Kevin Rodriguez",
+      "rating": 5,
+      "comment": "Perfect game for relaxing after work! The satisfying physics and engaging puzzles create a wonderful escape. It's mentally stimulating without being stressful, making it an ideal way to unwind. Truly a delightful and calming experience.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Stephanie Lewis",
+      "rating": 4,
+      "comment": "My kids absolutely love this game, and so do I! It's a rare find that appeals to both children and adults. It's fun, promotes problem-solving, and offers a good challenge for all ages. A fantastic family-friendly game night option.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Ryan Lee",
+      "rating": 3,
+      "comment": "It's good, but not great. It serves its purpose as a quick puzzle game, but it doesn't offer anything particularly unique or groundbreaking that would make it stand out. Worth trying if you're looking for a basic basketball puzzle, but don't expect to be amazed.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Hannah Walker",
+      "rating": 5,
+      "comment": "So incredibly satisfying when you finally solve a difficult level with a perfect shot! The 'aha!' moments are constant and genuinely earned. It's a brilliant mental exercise that keeps you coming back for more. Highly recommended for brain-sharpening fun.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Brandon Hall",
+      "rating": 4,
+      "comment": "Great time killer with smart puzzles. It's ideal for short bursts of play, offering just enough challenge to keep your brain active without demanding too much commitment. A perfect companion for waiting rooms or quick coffee breaks. Very well-designed.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "Megan Allen",
+      "rating": 1,
+      "comment": "Too many in-app purchases required to progress effectively. It feels like the game is constantly trying to push you into spending money, which detracts significantly from the enjoyment. The constant paywalls make it frustrating and unfair to play for free.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Justin Young",
+      "rating": 5,
+      "comment": "Brilliant brain exercise! I absolutely love it. This game isn't just fun, it genuinely helps sharpen your spatial reasoning and problem-solving skills. The puzzles are well-crafted and incredibly engaging. A definite must-play for anyone seeking mental stimulation.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/1.jpg",
+      "name": "Rachel Hernandez",
+      "rating": 4,
+      "comment": "Simple yet challenging. Perfect for short breaks. The accessibility of the gameplay combined with the satisfying puzzles makes it an excellent choice for quick mental workouts. It's easy to jump in and out of without losing track. Very enjoyable casual gaming.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Nathan King",
+      "rating": 3,
+      "comment": "Okay game, but I've seen better puzzle concepts out there. While it functions well, it doesn't bring anything particularly new or innovative to the casual sports puzzle genre. It's a decent diversion, but doesn't offer the unique spark of other top-tier titles.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Lauren Wright",
+      "rating": 5,
+      "comment": "Can't put it down! This game is addictive in the best possible way. The satisfying physics and clever level design keep me hooked, always wanting to play 'just one more level'. It's challenging enough to be engaging, but never frustrating. Truly a gem!",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "Jonathan Lopez",
+      "rating": 4,
+      "comment": "Great for developing problem-solving skills and precision. This game subtly encourages logical thinking and careful planning of your shots. It's not just entertainment; it's a fun way to give your brain a workout and improve accuracy. Very beneficial.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Kayla Scott",
+      "rating": 2,
+      "comment": "Gets boring quickly. The lack of varied gameplay modes or new elements means it becomes monotonous after a short time. Some new mechanics, different ball types, or unique obstacles would really help keep players engaged for longer. Disappointing lack of evolution.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Aaron Green",
+      "rating": 5,
+      "comment": "Best mobile casual sports puzzle I've played this year! The smooth controls, clever puzzles, and overall polish make this a standout title. It sets a new standard for precision-based mobile games and is an absolute must-play. Highly recommended for everyone.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Victoria Adams",
+      "rating": 4,
+      "comment": "Challenging but fair. This game genuinely makes you think strategically about each shot. It manages to be mentally stimulating without ever feeling impossible, which is a rare and commendable achievement. It strikes a great balance, making it accessible to a wide range of players.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Dylan Baker",
+      "rating": 3,
+      "comment": "Good concept, but the execution could be better in terms of visual variety or unique power-ups. The fundamental idea is strong, but some aspects feel a bit too repetitive or lacking in flair. With a bit more refinement, it could be a truly excellent game.",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Amber Nelson",
+      "rating": 5,
+      "comment": "So incredibly satisfying to complete each level! The feeling of getting that perfect 'swoosh' is highly addictive and incredibly rewarding. It's a pure, unadulterated puzzle pleasure that keeps you coming back for more. Can't get enough of this game!",
+      "date": "2025-06-19"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "Patrick Carter",
+      "rating": 4,
+      "comment": "Great for passing time without feeling guilty. This game is the perfect blend of entertainment and mental engagement, making it feel like a productive use of your spare moments rather than just mindless scrolling. It's a genuinely rewarding and calming experience.",
+      "date": "2025-06-19"
+    }
+  ]
+}

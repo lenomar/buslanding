@@ -1,0 +1,461 @@
+{
+  "title": "Bubble-Up-Endless",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Ethan Johnson",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless is the perfect game for pure, unadulterated relaxation and endless fun! The continuous gameplay is incredibly addictive, and there's always a new high score to chase. The vibrant visuals and satisfying pops are just a bonus. My go-to game for unwinding and de-stressing!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Анастасия Козлова",
+      "rating": 4,
+      "comment": "Очень залипательная игра, идеально подходит, чтобы расслабиться. Бесконечный режим держит в напряжении, но не утомляет. Приятная графика и звуки. Единственное, иногда кажется, что нет прогресса, но для тайм-киллера это отлично.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Léa Martin",
+      "rating": 5,
+      "comment": "Ce jeu est une pure merveille! Bubble-Up-Endless est addictif au possible. Le mode infini est parfait pour des sessions de jeu rapides ou longues. La satisfaction d'éclater des bulles en cascade est immense. Zéro stress, juste du plaisir pur. Je suis totalement accroc!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Felix Schmidt",
+      "rating": 2,
+      "comment": "Die Idee des Endlos-Modus ist gut, aber das Spiel ist leider völlig überladen mit Werbung. Es gibt kaum eine Minute ohne Unterbrechung, was den Spielfluss massiv stört und extrem frustrierend ist. So macht das Spiel leider keinen Spaß. Schade um das Potenzial.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "張家豪",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless真是太棒了！無盡模式讓我玩到停不下來，每次都能挑戰自己的最高分。操作簡單直觀，泡泡爆裂的音效和視覺效果也很棒。是個非常適合放鬆和消磨時間的遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Olivia Davis",
+      "rating": 4,
+      "comment": "A very solid and engaging endless bubble shooter. It's easy to pick up and just keep playing. The challenge of managing the board and aiming for combos is quite satisfying. The clean design and responsive controls make for a smooth experience. Great for a quick burst of fun.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Иванов",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает, особенно когда становится много пузырей. Это ужасно. Невозможно нормально играть, все время прерывается. Разработчики, пожалуйста, исправьте эти технические проблемы. Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Sophie Wagner",
+      "rating": 5,
+      "comment": "Absolut genial! Bubble-Up-Endless ist so fesselnd und perfekt, um mal abzuschalten. Der Endlos-Modus ist super für zwischendurch und man versucht immer, den Highscore zu knacken. Es macht unglaublich viel Spaß und ist total entspannend. Klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Noah Brown",
+      "rating": 4,
+      "comment": "The minimalistic design is fantastic; it really focuses on the pure gameplay. It's easy to get lost in the game trying to keep the bubbles from reaching the bottom. The endless aspect is great for casual play. A very enjoyable and well-designed game for quick sessions.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "遊戲概念很有趣，無盡模式也很吸引人，但玩久了會覺得缺少一些變化。希望能增加更多不同類型的特殊泡泡或分數機制，讓遊戲保持新鮮感。目前就是個不錯的休閒小品。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Hugo Leclerc",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Bubble-Up-Endless! C'est le jeu parfait pour se détendre sans fin. Le concept simple et le mode infini le rendent incroyablement addictif. La satisfaction d'enchaîner les combos est purement géniale. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Елена Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая игра. Бесконечный режим — это то, что нужно для расслабления. Правила простые, и игра помогает снять стресс. Отличный способ скоротать время. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Fabian Meier",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine Zumutung wegen der unerträglichen Menge an Werbung. Der Endlos-Modus wird ständig durch Pop-ups unterbrochen, was den ganzen Spaß nimmt. Es ist frustrierend und macht einfach keinen Sinn, so viel Werbung einzublenden. Absolut nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Isabella Clark",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless is deceptively simple and incredibly addictive! It's perfect for when you just want to relax and keep playing without worrying about levels. The endless mode is a brilliant idea. A true gem among casual mobile games, highly recommended!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "陳偉倫",
+      "rating": 4,
+      "comment": "這遊戲的無盡模式很適合放鬆，可以一直玩下去。雖然玩法簡單，但要不斷挑戰高分還是需要一些策略和運氣。畫面簡潔，泡泡爆破效果也不錯。適合喜歡無限挑戰的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Victor Bernard",
+      "rating": 3,
+      "comment": "Un bon jeu pour passer le temps, surtout en mode infini. Mais après un certain temps, il devient un peu répétitif. Manque de nouveaux éléments ou de défis qui changent vraiment la donne. C'est sympa sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Мария Смирнова",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless - это просто находка! Очень затягивающая и успокаивающая игра. Идеально подходит, чтобы снять напряжение. Бесконечный режим позволяет играть столько, сколько хочется. Настоятельно рекомендую всем, кто ищет простой, но увлекательный способ расслабиться!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Julia Müller",
+      "rating": 4,
+      "comment": "Einfach und doch fesselnd. Der Endlos-Modus ist super für zwischendurch und man versucht immer, sich selbst zu übertreffen. Es ist perfekt, um kurz abzuschalten und das Gehirn nicht zu überfordern. Guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Ryan White",
+      "rating": 2,
+      "comment": "This game becomes repetitive very quickly. The endless mode is just that - endless, but without any real progression or new features to keep it fresh. It feels like a very basic bubble shooter. I lost interest after a short while.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "林依婷",
+      "rating": 5,
+      "comment": "玩Bubble-Up-Endless讓我完全沉浸其中！無盡模式真的太棒了，可以一直挑戰自己的極限。它不僅是個殺時間的遊戲，更是個極佳的解壓工具。簡潔的設計讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Arthur Dubois",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et ne pas réfléchir trop fort. Le mode infini est parfait pour les moments où l'on veut juste jouer sans pression. Les graphismes sont clairs et le gameplay est fluide. Très addictif et apaisant.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Сергей Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но довольно однообразная. Хотелось бы больше разнообразия в появляющихся блоках или какие-то бонусы, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Hannah Koch",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless ist einfach großartig! Der Endlos-Modus ist genial für schnellen Spielspaß ohne Ende. Es ist so intuitiv und man kann einfach immer weiterspielen. Ein fantastischer Zeitvertreib und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Taylor",
+      "rating": 4,
+      "comment": "A smart and engaging bubble game. The endless mode is perfect for just zoning out and playing. It's easy to learn but challenging to get a really high score. Great for quick bursts of fun and relaxation.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "王小明",
+      "rating": 1,
+      "comment": "這個遊戲的廣告真的太多了，嚴重打斷遊戲流程。無盡模式卻不斷被廣告打斷，玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Manon Lefebvre",
+      "rating": 5,
+      "comment": "Fantastique! Bubble-Up-Endless est incroyablement bien conçu, simple mais avec une profondeur stratégique pour les scores élevés. Le mode infini est une excellente idée. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif et relaxant!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная игра. Бесконечный режим — это большой плюс, можно играть без остановок. Правила простые, хорошо подходит для расслабления и легкого тренировки внимания. Единственное, хотелось бы больше разнообразия в специальных пузырях.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett für zwischendurch, aber der Endlos-Modus bietet nicht genug Abwechslung. Es wird schnell monoton, da sich die Herausforderung kaum ändert. Könnte mehr Power-ups oder Hindernisse gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Mia Thompson",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless is an absolute gem! It's so simple yet incredibly addictive, perfect for just relaxing and playing. The endless nature of it means you can always jump in for a quick session or get lost for hours. Highly recommended for any casual game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於無盡的挑戰。它考驗眼力和反應力，玩起來很有趣。雖然是無限模式，但每次突破高分都很有成就感。是一款值得推薦的休閒益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Julien Petit",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. L'absence de vrais objectifs ou de progression au-delà du simple score fait que l'on se lasse rapidement. Le mode infini est là, mais il n'est pas suffisant pour maintenir l'intérêt à long terme.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Иван Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Bubble-Up-Endless — это идеальная игра, чтобы расслабиться и просто наслаждаться процессом. Бесконечный геймплей очень сильно затягивает. Время пролетает незаметно. Настоящий хит для отдыха!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Tobias Braun",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Spiel, das sowohl entspannend als auch herausfordernd sein kann, wenn man hohe Punktzahlen jagt. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Zielen konzentrieren. Ein guter Zeitvertreib.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Emma Rousseau",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout lorsque l'écran se remplit. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Kevin Lee",
+      "rating": 5,
+      "comment": "So incredibly satisfying to keep the combo going! Bubble-Up-Endless is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your hand-eye coordination at the same time. The minimalist design is sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常適合放鬆的益智遊戲，無盡模式讓人可以持續玩下去。雖然規則簡單，但要不斷突破高分需要一些策略和快速反應。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Белов",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома цветов, что может быть расстраивающим. Хотелось бы больше контроля или специальных бонусов, чтобы сделать игру менее зависящей от удачи. В целом, можно поиграть.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Laura Fischer",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Bubble-Up-Endless! Es ist so ein geniales und entspannendes Spiel. Man kann so leicht einsteigen und einfach immer weiterspielen. Die Herausforderung des Highscores ist subtil, aber fesselnd. Eine wirklich einzigartige und beruhigende Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Maxime Durand",
+      "rating": 4,
+      "comment": "Un excellent jeu pour se vider la tête. Le mode infini est parfait pour les petites pauses et les moments où l'on veut juste se détendre. La simplicité des règles cache un plaisir addictif. C'est le genre de jeu que l'on garde sur son téléphone pour de courtes sessions.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on Bubble-Up-Endless! It's so satisfying to clear big clusters and keep going. The endless aspect means there's no pressure, just pure fun. Highly recommended for anyone who wants a relaxing yet engaging game.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid game for casual play. The endless mode is a smart idea, making it easy to just jump in. It's calming but also provides a nice challenge to beat your own score. My only minor gripe is the occasional ad, but they're not too intrusive.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "Bubble-Up-Endless is pure joy! It combines simple mechanics with endless replayability perfectly. I love the vibrant colors and satisfying sounds. It's incredibly relaxing and keeps me entertained for hours. A must-play for casual puzzle fans!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда кажется, что генерация цветов слишком рандомна, что делает уровни порой нечестными. Хотелось бы больше предсказуемости. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore Bubble-Up-Endless! C'est un jeu qui me permet de me vider la tête. La sensation de faire éclater une grande chaîne de bulles est super. Très bien conçu et addictif. Idéal pour une petite pause ou une longue session de jeu.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "The endless mode itself is fine, but the game lacks any significant variation to keep it interesting. No new bubble types, no special events, just the same thing over and over. Gets boring too quickly.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "シンプルなルールで非常に中毒性のあるパズルゲームです。無限にプレイできるのが魅力。色と連鎖を考えるのが楽しい。全体的に満足しています。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. Bubble-Up-Endless est un puzzle game qui vous absorbe complètement. La satisfaction de vider un tableau pour continuer à jouer est incomparable. C'est un jeu intelligent et captivant pour tous les âges.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Отличная игра для расслабления и тренировки реакции. Бесконечный режим позволяет играть без остановки. Рекомендую любителям казуальных игр, которые хотят просто отдохнуть.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant and so satisfying. Bubble-Up-Endless is incredibly engaging. It's the perfect game to just zone out and have fun. The endless nature provides endless entertainment. Highly addictive and highly polished.",
+      "date": "2025-04-20"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/26.jpg",
+      "name": "Jessica Lee",
+      "rating": 4,
+      "comment": "Fun and colorful endless mode. It's a great little game to pass the time and challenge your high score. Sometimes the ads are a bit much, but not enough to ruin the overall experience. Good for long sessions.",
+      "date": "2024-03-11"
+    },
+    {
+      "id": 51,
+      "avatar": "/files/37.jpg",
+      "name": "Carlos Gomez",
+      "rating": 3,
+      "comment": "Decent puzzle game, but after a while, the endless mode feels very repetitive because nothing new gets introduced. Needs more varied power-ups or special bubbles to keep it interesting in the long run. Good for a quick play, but not for extended sessions.",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 52,
+      "avatar": "/files/48.jpg",
+      "name": "Linda Chen",
+      "rating": 5,
+      "comment": "So satisfying! Every pop is a delight, and the endless gameplay means the fun never stops. Bubble-Up-Endless is beautifully designed and endlessly entertaining. It's easy to get lost in the flow of clearing bubbles and aiming for that new high score. Absolutely love it!",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 53,
+      "avatar": "/files/51.jpg",
+      "name": "Kevin Wilson",
+      "rating": 4,
+      "comment": "Great time killer! The endless mode is fantastic for when I just want to relax and not worry about specific levels. It's simple, yet keeps you engaged with the challenge of clearing the board. Good job!",
+      "date": "2024-05-19"
+    },
+    {
+      "id": 54,
+      "avatar": "/files/62.jpg",
+      "name": "Chloe Young",
+      "rating": 5,
+      "comment": "Pure, unadulterated fun! The endless mode is exactly what I needed. It's the perfect blend of casual gameplay and the satisfying challenge of trying to beat your previous best. Highly recommend Bubble-Up-Endless to everyone!",
+      "date": "2025-02-14"
+    },
+    {
+      "id": 55,
+      "avatar": "/files/73.jpg",
+      "name": "Robert Miller",
+      "rating": 3,
+      "comment": "It's alright for a quick game, but it does get a bit monotonous after a while. The endless aspect is nice, but it could use more special features to keep things exciting. Not bad, just not super engaging long-term.",
+      "date": "2024-08-03"
+    },
+    {
+      "id": 56,
+      "avatar": "/files/84.jpg",
+      "name": "Sophia Rodriguez",
+      "rating": 5,
+      "comment": "I'm obsessed with Bubble-Up-Endless! It's so calming and addictive at the same time. The endless mode is fantastic for de-stressing, and I love trying to beat my own score. The simple mechanics work perfectly for this style of game. Absolutely brilliant!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 57,
+      "avatar": "/files/95.jpg",
+      "name": "James White",
+      "rating": 4,
+      "comment": "A solid, endless bubble shooter. It's perfect for killing a few minutes or zoning out for longer. The lack of levels means no pressure, just continuous play. It can feel a bit repetitive if you play too long, but it serves its purpose well.",
+      "date": "2023-10-10"
+    }
+  ]
+}

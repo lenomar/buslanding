@@ -1,0 +1,167 @@
+{
+  "type": "Dialog",
+  "props": {
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 15
+    },
+    {
+      "type": "Box",
+      "props": {
+        "width": 1334,
+        "var": "box",
+        "height": 750,
+        "centerY": 0,
+        "centerX": 0
+      },
+      "compId": 3,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "name": "btnMoreGame",
+            "var": "btnMoreGame",
+            "visible": false,
+            "scaleY": 1.1,
+            "scaleX": 1.1,
+            "y": 317,
+            "centerX": 250,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          }
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 450,
+            "var": "btnCloseTT",
+            "skin": "gameui/public/cheku_di.png",
+            "visible": false,
+            "label": "label",
+            "centerX": -1,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 100,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "centerX": 0,
+                "text": "give up",
+                "name": "lab",
+                "strokeColor": "#018F34",
+                "stroke": 1,
+                "fontSize": 50,
+                "color": "#ffffff",
+                "centerY": 0,
+                "bold": true
+              },
+              "compId": 9
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 317,
+            "var": "btn_resurgence",
+            "skin": "gameui/public/cheku_di.png",
+            "label": "label",
+            "centerX": -1,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 8,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "x": 42,
+                "skin": "gameui/public/shipin2.png",
+                "centerY": -8
+              },
+              "compId": 10
+            },
+            {
+              "type": "Label",
+              "props": {
+                "x": 118,
+                "text": "Revive",
+                "name": "lab",
+                "strokeColor": "#018F34",
+                "stroke": 1,
+                "fontSize": 50,
+                "color": "#ffffff",
+                "centerY": -11,
+                "bold": true
+              },
+              "compId": 9
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 82,
+                "x": 0,
+                "text": "(重生跳过陷阱)",
+                "name": "lab_desc",
+                "strokeColor": "#817777",
+                "stroke": 1,
+                "fontSize": 18,
+                "color": "#eaff00",
+                "centerX": 0,
+                "bold": true
+              },
+              "compId": 16
+            }
+          ]
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 138,
+            "x": 530,
+            "text": "Failed",
+            "fontSize": 60,
+            "color": "#ffffff",
+            "bold": true
+          },
+          "compId": 5
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/chejigame/ui/DefeatedUI_cheji.ts",
+        "revive_btn": "@node:8",
+        "general_btn": "@node:12",
+        "gameCentre_btn": "@node:6",
+        "title": "@node:5",
+        "btnCloseTT": "@node:100"
+      },
+      "compId": 14
+    }
+  ],
+  "loadList": [
+    "gameui/public/chufa_di.png",
+    "gameui/public/cheku_di.png",
+    "gameui/public/shipin2.png"
+  ],
+  "loadList3D": []
+}

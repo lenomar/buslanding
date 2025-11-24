@@ -1,0 +1,158 @@
+{
+  "type": "Scene",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#3b6cc5"
+      },
+      "compId": 26,
+      "child": [
+        {
+          "type": "Box",
+          "props": {
+            "y": 0,
+            "x": 0,
+            "width": 1334,
+            "var": "bottomGroup",
+            "height": 750,
+            "centerY": 0,
+            "centerX": 0
+          },
+          "compId": 20,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 464,
+                "visible": true,
+                "var": "tipLabel",
+                "text": "加载资源中，请稍后...",
+                "italic": true,
+                "fontSize": 30,
+                "color": "#e3e3e3",
+                "centerX": 0,
+                "bold": true,
+                "align": "left"
+              },
+              "compId": 10
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 511,
+                "visible": true,
+                "var": "per",
+                "text": "1%",
+                "italic": true,
+                "fontSize": 40,
+                "color": "#ffffff",
+                "centerX": 0,
+                "bold": true,
+                "alpha": 1
+              },
+              "compId": 19
+            },
+            {
+              "type": "ProgressBar",
+              "props": {
+                "y": 561,
+                "visible": true,
+                "var": "progressBar",
+                "value": 0,
+                "skin": "gameui/loadUI/jindutiao.png",
+                "sizeGrid": "0,40,0,43",
+                "centerX": 0
+              },
+              "compId": 27,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 22,
+                    "x": 0,
+                    "width": 44,
+                    "skin": "gameui/loadUI/luntai.png",
+                    "pivotY": 22,
+                    "pivotX": 22,
+                    "height": 44
+                  },
+                  "compId": 30
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 187,
+            "x": 332,
+            "skin": "gameui/loadUI/logo.png",
+            "name": "logo",
+            "centerX": 0
+          },
+          "compId": 16
+        },
+        {
+          "type": "Image",
+          "props": {
+            "centerX": 0,
+            "bottom": 70,
+            "var": "advice"
+          },
+          "compId": 50
+        },
+        {
+          "type": "Image",
+          "props": {
+            "centerX": 0,
+            "bottom": 20,
+            "var": "copyright"
+          }
+        },
+        {
+          "type": "Image",
+          "props": {
+            "centerX": 500,
+            "bottom": 100,
+            "visible": false,
+            "var": "ageTips"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "y": 3,
+        "x": 0,
+        "tip_Lab": "@node:10",
+        "runtime": "Game/ui/loadUI.ts",
+        "per_Lab": "@node:19",
+        "bar_pro": "@node:27",
+        "bar_icon": "@node:30"
+      },
+      "compId": 28
+    }
+  ],
+  "loadList": [
+    "gameui/loadUI/jindutiao.png",
+    "gameui/loadUI/luntai.png",
+    "gameui/loadUI/logo.png"
+  ],
+  "loadList3D": []
+}

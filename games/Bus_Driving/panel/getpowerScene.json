@@ -1,0 +1,222 @@
+{
+  "type": "Scene",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "top": 0,
+        "right": 0,
+        "name": "bg",
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 55
+    },
+    {
+      "type": "Box",
+      "props": {
+        "x": 667,
+        "width": 400,
+        "height": 353,
+        "centerY": 0,
+        "centerX": 0,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 26,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "y": 124,
+            "x": 201,
+            "skin": "gameui/getpowerUI/diban.png",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 48
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 52,
+            "x": 201,
+            "skin": "gameui/getpowerUI/tili_2.png",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 60
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 140,
+            "x": 200,
+            "width": 253,
+            "valign": "middle",
+            "text": "AP×2",
+            "pivotY": 20,
+            "pivotX": 127,
+            "height": 40,
+            "fontSize": 26,
+            "font": "Microsoft YaHei",
+            "color": "#ffffff",
+            "align": "center"
+          },
+          "compId": 59
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 310,
+            "skin": "gameui/public/button2.png",
+            "name": "btn_get",
+            "centerX": 0,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 39,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "x": 87,
+                "text": "Claim",
+                "name": "lab",
+                "fontSize": 38,
+                "font": "Microsoft YaHei",
+                "color": "#ffffff",
+                "centerY": 3,
+                "bold": true
+              },
+              "compId": 46
+            },
+            {
+              "type": "Image",
+              "props": {
+                "x": 28,
+                "skin": "gameui/public/shipin2.png",
+                "centerY": -1
+              },
+              "compId": 49
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 61
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 345,
+            "skin": "gameui/public/button2.png",
+            "name": "btnCloseTT",
+            "visible": false,
+            "centerX": 0,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 100,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "centerX": 0,
+                "text": "Close",
+                "name": "lab",
+                "fontSize": 38,
+                "font": "Microsoft YaHei",
+                "color": "#ffffff",
+                "centerY": 0,
+                "bold": true
+              },
+              "compId": 46
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 61
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": -43,
+            "x": 342,
+            "skin": "gameui/public/guanbi2.png",
+            "name": "btn_close",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 65,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 67
+            },
+            {
+              "type": "Rect",
+              "props": {
+                "y": -15.5,
+                "x": -25.5,
+                "width": 94,
+                "renderType": "hit",
+                "lineWidth": 1,
+                "height": 77,
+                "fillColor": "#ff0000"
+              },
+              "compId": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/ui/getpowerUI.ts",
+        "power_Lab": "@node:59",
+        "get_btn": "@node:39",
+        "close_btn": "@node:65",
+        "btnCloseTT": "@node:100"
+      },
+      "compId": 66
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/components/bannerbtmComp.ts"
+      },
+      "compId": 72
+    }
+  ],
+  "loadList": [
+    "gameui/getpowerUI/diban.png",
+    "gameui/getpowerUI/tili_2.png",
+    "gameui/public/button2.png",
+    "gameui/public/shipin2.png",
+    "gameui/public/guanbi2.png"
+  ],
+  "loadList3D": []
+}

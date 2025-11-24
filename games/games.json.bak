@@ -1,0 +1,264 @@
+{
+  "homeGame": {
+    "title": "BlobOpera",
+    "icon": "games/BlobOpera/icon.png",
+    "folder": "BlobOpera",
+    "index": "games/BlobOpera/index.html",
+    "author": "Sound Savants",
+    "rating": 5,
+    "popularity": 9500,
+    "description": "Unleash your inner maestro with Blob Opera! Create incredible operatic harmonies by manipulating four adorable, singing blobs. Experiment with different voices and pitches to compose your own unique and hilarious masterpieces. Pure musical fun!"
+  },
+  "gameList": [
+    {
+      "title": "BallSortMaster",
+      "icon": "games/BallSortMaster/icon.png",
+      "folder": "BallSortMaster",
+      "index": "games/BallSortMaster/index.html",
+      "author": "IndieDev Games",
+      "rating": 4,
+      "popularity": 5123,
+      "description": "A relaxing yet challenging puzzle game. Sort colorful balls into their designated tubes until all colors are grouped. Test your logic and planning skills in hundreds of levels with increasing difficulty. Perfect for unwinding and sharpening your mind!"
+    },
+    {
+      "title": "Basket Slide",
+      "icon": "games/basket-slide/icon.png",
+      "folder": "Basket Slide",
+      "index": "games/basket-slide/index.html",
+      "author": "Playful Pixels",
+      "rating": 3,
+      "popularity": 4210,
+      "description": "Slide the basket left and right to catch falling objects in this simple yet addictive game. Collect power-ups for bonus points and avoid obstacles to keep your streak going. How long can you last and what's your high score?"
+    },
+    {
+      "title": "BallSortPuzzle",
+      "icon": "games/BallSortPuzzle/icon.png",
+      "folder": "BallSortPuzzle",
+      "index": "games/BallSortPuzzle/index.html",
+      "author": "Creative Bytes",
+      "rating": 5,
+      "popularity": 8956,
+      "description": "Engage your brain with Ball Sort Puzzle! Arrange the multi-colored balls in the tubes until each tube contains only one color. A brilliant mix of strategy and relaxation, offering countless levels to challenge and entertain you."
+    },
+    {
+      "title": "BasketSwooshes",
+      "icon": "games/basket-swooshes/icon.png",
+      "folder": "BasketSwooshes",
+      "index": "games/basket-swooshes/index.html",
+      "author": "Digital Dreams",
+      "rating": 3,
+      "popularity": 3876,
+      "description": "Master your aim in BasketSwooshes! Swipe to shoot hoops and score as many points as possible before time runs out. Enjoy realistic physics and satisfying swoosh sounds. Can you sink every shot and top the leaderboard?"
+    },
+    {
+      "title": "BasketballCrazy",
+      "icon": "games/Basketball_Crazy/icon.png",
+      "folder": "BasketballCrazy",
+      "index": "games/Basketball_Crazy/index.html",
+      "author": "Funky Games",
+      "rating": 4,
+      "popularity": 6789,
+      "description": "Get ready for some Basketball Crazy! Shoot hoops, perform amazing dunks, and challenge your friends in this high-energy basketball game. With multiple game modes and customizable characters, the fun never stops on the court!"
+    },
+    {
+      "title": "BasketballREAL",
+      "icon": "games/Basketball_REAL/icon.png",
+      "folder": "BasketballREAL",
+      "index": "games/Basketball_REAL/index.html",
+      "author": "Pixel Playgrounds",
+      "rating": 5,
+      "popularity": 9123,
+      "description": "Experience true basketball realism in BasketballREAL. Enjoy stunning graphics and incredibly lifelike gameplay as you dribble, pass, and shoot your way to victory. Dominate the court in various modes, from quick matches to full tournaments!"
+    },
+    {
+      "title": "BasketballLegends",
+      "icon": "games/basketball-legends-2020/icon.png",
+      "folder": "BasketballLegends",
+      "index": "games/basketball-legends-2020/index.html",
+      "author": "Code Crafters",
+      "rating": 4,
+      "popularity": 7543,
+      "description": "Step onto the court with your favorite basketball legends! Play as iconic players, unleash powerful special moves, and compete in epic 2-on-2 matches. This fast-paced arcade basketball game guarantees hours of slam-dunking fun."
+    },
+    {
+      "title": "BearBoom",
+      "icon": "games/Bear_Boom/icon.png",
+      "folder": "BearBoom",
+      "index": "games/Bear_Boom/index.html",
+      "author": "GameVerse",
+      "rating": 4,
+      "popularity": 4890,
+      "description": "Help the adorable bear blast obstacles and collect honey in BearBoom! Strategically place bombs to clear paths and solve puzzles. A delightful adventure with charming graphics and addictive gameplay for players of all ages."
+    },
+    {
+      "title": "DunkLine",
+      "icon": "games/DunkLine/icon.png",
+      "folder": "DunkLine",
+      "index": "games/DunkLine/index.html",
+      "author": "Arcade Masters",
+      "rating": 5,
+      "popularity": 8201,
+      "description": "Draw lines to guide the basketball into the hoop in DunkLine! This unique physics-based puzzle game challenges your creativity and precision. With increasingly complex levels, every successful dunk feels incredibly satisfying."
+    },
+    {
+      "title": "BlendFruits",
+      "icon": "games/blend-fruits/icon.svg",
+      "folder": "BlendFruits",
+      "index": "games/blend-fruits/index.html",
+      "author": "Joyful Jams",
+      "rating": 4,
+      "popularity": 3998,
+      "description": "Blend delicious fruits to create refreshing juices! Match and combine fruits to clear the board and earn points. A vibrant and engaging puzzle game that's perfect for a sweet escape. How many levels can you master?"
+    },
+    {
+      "title": "BlobOpera",
+      "icon": "games/BlobOpera/icon.png",
+      "folder": "BlobOpera",
+      "index": "games/BlobOpera/index.html",
+      "author": "Sound Savants",
+      "rating": 5,
+      "popularity": 9500,
+      "description": "Unleash your inner maestro with Blob Opera! Create incredible operatic harmonies by manipulating four adorable, singing blobs. Experiment with different voices and pitches to compose your own unique and hilarious masterpieces. Pure musical fun!"
+    },
+    {
+      "title": "Blocks8",
+      "icon": "games/blocks8/icon.png",
+      "folder": "Blocks8",
+      "index": "games/blocks8/index.html",
+      "author": "Puzzle Pro",
+      "rating": 4,
+      "popularity": 5555,
+      "description": "Place blocks on the grid to form lines and score points in Blocks8. A classic block puzzle experience with a twist, challenging you to think ahead and strategize for the highest score. Simple to learn, hard to master!"
+    },
+    {
+      "title": "BlockupPuzzle",
+      "icon": "games/blockup-puzzle/icon.png",
+      "folder": "BlockupPuzzle",
+      "index": "games/blockup-puzzle/index.html",
+      "author": "Brain Teasers Inc.",
+      "rating": 4,
+      "popularity": 7100,
+      "description": "A captivating block puzzle that will put your spatial reasoning to the test. Drag and drop various shaped blocks to fill rows and columns, clearing them from the board. Aim for combos and try to achieve the highest score in this endless challenge!"
+    },
+    {
+      "title": "Blocky",
+      "icon": "games/Blocky/icon.png",
+      "folder": "Blocky",
+      "index": "games/Blocky/index.html",
+      "author": "Shape Shifters",
+      "rating": 4,
+      "popularity": 4000,
+      "description": "Navigate through a world of blocks in Blocky! Jump and dodge obstacles, collect coins, and reach the end of each level. A charming platformer with a minimalist design and engaging challenges for all ages."
+    },
+    {
+      "title": "BlumgiBall",
+      "icon": "games/Blumgi_ball/icon.png",
+      "folder": "BlumgiBall",
+      "index": "games/Blumgi_ball/index.html",
+      "author": "Bouncing Bliss",
+      "rating": 4,
+      "popularity": 6200,
+      "description": "Launch the BlumgiBall and use its unique bouncing abilities to solve physics puzzles. Aim carefully and unleash powerful shots to hit the target in this satisfying and innovative game. Can you conquer all the tricky levels?"
+    },
+    {
+      "title": "Bridges",
+      "icon": "games/bridges/icon.png",
+      "folder": "Bridges",
+      "index": "games/bridges/index.html",
+      "author": "Structure Games",
+      "rating": 4,
+      "popularity": 4750,
+      "description": "Build sturdy bridges to help vehicles cross treacherous gaps in Bridges! Plan your construction carefully, manage your resources, and ensure your designs can withstand the weight. A challenging and rewarding physics-based puzzle game."
+    },
+    {
+      "title": "BubbleUp",
+      "icon": "games/bubble-up/icon.png",
+      "folder": "BubbleUp",
+      "index": "games/bubble-up/index.html",
+      "author": "Pop Crafters",
+      "rating": 4,
+      "popularity": 5800,
+      "description": "Pop colorful bubbles by matching three or more in BubbleUp! Aim your shooter and clear the screen before the bubbles reach the bottom. A classic bubble shooter with endless fun and satisfying chain reactions."
+    },
+    {
+      "title": "BubbleUpEndless",
+      "icon": "games/bubble-up-endless/icon.png",
+      "folder": "BubbleUpEndless",
+      "index": "games/bubble-up-endless/index.html",
+      "author": "Infinity Play",
+      "rating": 4,
+      "popularity": 5999,
+      "description": "The endless version of BubbleUp! Keep popping bubbles for as long as you can in this non-stop challenge. Test your reflexes and accuracy as the bubbles descend faster and faster. How high can you score in this endless adventure?"
+    },
+    {
+      "title": "FlappyShooter",
+      "icon": "games/FlappyShooter/icon.png",
+      "folder": "FlappyShooter",
+      "index": "games/FlappyShooter/index.html",
+      "author": "Action Arcade",
+      "rating": 4,
+      "popularity": 3600,
+      "description": "Combine the challenge of flappy games with intense shooting action in FlappyShooter! Tap to fly and shoot down obstacles in your path. A fast-paced and unique arcade experience that will test your coordination and aim."
+    },
+    {
+      "title": "BusDriving",
+      "icon": "games/Bus_Driving/icon.png",
+      "folder": "BusDriving",
+      "index": "games/Bus_Driving/index.html",
+      "author": "Vehicle Ventures",
+      "rating": 4,
+      "popularity": 6500,
+      "description": "Take the wheel and become a professional bus driver in BusDriving! Navigate busy city streets, pick up passengers, and follow your route to deliver them safely. Experience realistic driving physics and challenging missions."
+    },
+    {
+      "title": "BusParkingKing",
+      "icon": "games/Bus_Parking_King/icon.png",
+      "folder": "BusParkingKing",
+      "index": "games/Bus_Parking_King/index.html",
+      "author": "Maneuver Masters",
+      "rating": 4,
+      "popularity": 4300,
+      "description": "Prove your precision parking skills in BusParkingKing! Maneuver large buses through tight spots and intricate parking lots. Each level offers a new challenge to test your patience and driving accuracy. Can you become the parking king?"
+    },
+    {
+      "title": "ButterflyShimai",
+      "icon": "games/butterfly-shimai/icon.png",
+      "folder": "ButterflyShimai",
+      "index": "games/butterfly-shimai/index.html",
+      "author": "Nature Nurturers",
+      "rating": 5,
+      "popularity": 8765,
+      "description": "Connect matching butterfly wings to make them fly away in ButterflyShimai! A beautiful and calming mahjong-style puzzle game. Clear the board by finding pairs of identical wings within a limited number of moves. Relax and enjoy the serene atmosphere."
+    },
+    {
+      "title": "CandyBlast",
+      "icon": "games/CandyBlast/icon.png",
+      "folder": "CandyBlast",
+      "index": "games/CandyBlast/index.html",
+      "author": "Sweet Treats Gaming",
+      "rating": 5,
+      "popularity": 7900,
+      "description": "Indulge your sweet tooth with CandyBlast! Match three or more delicious candies to create explosive combos and clear the board. Hundreds of levels filled with colorful challenges and exciting power-ups await you in this delightful match-3 adventure."
+    },
+    {
+      "title": "CandyCrush",
+      "icon": "games/candyCrush/icon.png",
+      "folder": "CandyCrush",
+      "index": "games/candyCrush/index.html",
+      "author": "King Entertainment",
+      "rating": 5,
+      "popularity": 9876,
+      "description": "The legendary puzzle game, Candy Crush, challenges you to swap and match candies in a vibrant world! Solve puzzles, strategically clear levels, and embark on a sweet adventure with countless episodes and delicious challenges."
+    },
+    {
+      "title": "DrawIn",
+      "icon": "games/DrawIn/icon.png",
+      "folder": "DrawIn",
+      "index": "games/DrawIn/index.html",
+      "author": "Artistic Adventures",
+      "rating": 4,
+      "popularity": 5200,
+      "description": "Draw lines to guide the falling objects to their destination in DrawIn! A creative physics-based puzzle game where your drawing skills are key. Strategize and draw precise lines to solve each unique level and complete the challenge."
+    }
+  ]
+}

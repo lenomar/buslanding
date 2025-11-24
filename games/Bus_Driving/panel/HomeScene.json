@@ -1,0 +1,1367 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      "compId": 488,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "name": "btn-show-privacy-confirm",
+            "var": "btnShowPrivacyConfirm",
+            "visible": false,
+            "scaleX": 0.4,
+            "scaleY": 0.4,
+            "top": 50,
+            "left": 650
+          }
+        },
+        {
+          "type": "Image",
+          "props": {
+            "width": 261,
+            "top": 50,
+            "skin": "gameui/public/jinbi_di.png",
+            "sizeGrid": "16,7,14,9",
+            "name": "img_gold_bg",
+            "left": 55,
+            "height": 54
+          },
+          "compId": 579,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "var": "img_gold",
+                "skin": "gameui/public/jinbi.png",
+                "left": -23,
+                "centerY": 0
+              },
+              "compId": 580
+            },
+            {
+              "type": "Label",
+              "props": {
+                "width": 178,
+                "var": "lab_gold",
+                "valign": "middle",
+                "text": "999",
+                "left": 54,
+                "height": 44,
+                "fontSize": 42,
+                "color": "#ffffff",
+                "centerY": 0,
+                "bold": true,
+                "align": "center"
+              },
+              "compId": 581
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "scripts/Gold.ts",
+                "lbGoldNum": "@node:581",
+                "imgGold": "@node:580"
+              },
+              "compId": 582
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 27,
+                "x": 264,
+                "skin": "gameui/public/jiahao.png",
+                "name": "img_get_gold",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 654,
+              "child": [
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 655
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 50,
+            "skin": "gameui/public/jinbi_di.png",
+            "sizeGrid": "16,7,14,9",
+            "name": "img_power_bg",
+            "left": 370
+          },
+          "compId": 388,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "var": "img_power",
+                "skin": "gameui/public/tili.png",
+                "left": -8,
+                "centerY": 0
+              },
+              "compId": 391
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 5,
+                "x": 54,
+                "var": "lab_power",
+                "valign": "middle",
+                "text": "3",
+                "left": 54,
+                "height": 44,
+                "fontSize": 42,
+                "color": "#ffffff",
+                "centerY": 0,
+                "bold": true,
+                "align": "left"
+              },
+              "compId": 390,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 8,
+                    "width": 178,
+                    "var": "lab_powertishi",
+                    "valign": "middle",
+                    "text": "（20:00）",
+                    "right": -171,
+                    "height": 44,
+                    "fontSize": 24,
+                    "font": "Microsoft YaHei",
+                    "color": "#ff0000",
+                    "bold": false,
+                    "align": "left"
+                  },
+                  "compId": 583
+                }
+              ]
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "scripts/Power.ts",
+                "lbPowerTishiNum": "@node:583",
+                "lbPowerNum": "@node:390",
+                "imgPower": "@node:391"
+              },
+              "compId": 584
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 27,
+                "x": 221,
+                "skin": "gameui/public/jiahao.png",
+                "name": "btn_getpower",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 589,
+              "child": [
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 590
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Box",
+          "props": {
+            "y": 565,
+            "x": 0,
+            "width": 1334,
+            "right": 0,
+            "name": "box_home_panel",
+            "left": 0,
+            "height": 121,
+            "disabled": false,
+            "bottom": 64
+          },
+          "compId": 450,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": -480,
+                "skin": "gameui/public/shengyin.png",
+                "name": "btn_sound",
+                "left": 750,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 461,
+              "child": [
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "scripts/Sound.ts"
+                  },
+                  "compId": 494
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 569
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 60,
+                "skin": "gameui/public/cheku_di.png",
+                "name": "btn_carport",
+                "left": 50,
+                "label": "label",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 451,
+              "child": [
+                {
+                  "type": "Sprite",
+                  "props": {
+                    "y": 30,
+                    "x": 43,
+                    "texture": "gameui/homeUI/ic_cheku.png"
+                  },
+                  "compId": 557
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 33,
+                    "x": 116,
+                    "name": "lab",
+                    "text": "Garage",
+                    "fontSize": 45,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 559
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 570
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -100,
+                "skin": "gameui/public/chufa_di.png",
+                "right": 50,
+                "name": "btn_start_Game",
+                "var": "btn_start_Game",
+                "label": "label",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 453,
+              "child": [
+                {
+                  "type": "Sprite",
+                  "props": {
+                    "y": 27,
+                    "x": 37,
+                    "texture": "gameui/homeUI/ic_chufa.png"
+                  },
+                  "compId": 558
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "Play",
+                    "name": "lab",
+                    "fontSize": 42,
+                    "color": "#ffffff",
+                    "centerY": 0,
+                    "centerX": 37,
+                    "bold": true
+                  },
+                  "compId": 568
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 110,
+                    "top": -18,
+                    "skin": "gameui/homeUI/guanka_di.png",
+                    "right": 30,
+                    "height": 37
+                  },
+                  "compId": 625,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "y": 0,
+                        "text": "level 99",
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "centerY": 0,
+                        "centerX": 0,
+                        "bold": true
+                      },
+                      "compId": 626
+                    }
+                  ]
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 571
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 60,
+                "x": 1130,
+                "visible": true,
+                "skin": "gameui/homeUI/cheji_di2.png",
+                "right": 50,
+                "name": "btn_cheji_Game",
+                "label": "label",
+                "disabled": false,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 618,
+              "child": [
+                {
+                  "type": "Sprite",
+                  "props": {
+                    "y": 27,
+                    "x": 27,
+                    "texture": "gameui/homeUI/ic_cheji_2.png"
+                  },
+                  "compId": 619
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "Skill mode",
+                    "name": "lab",
+                    "fontSize": 42,
+                    "color": "#ffffff",
+                    "centerY": -1,
+                    "centerX": 38,
+                    "bold": true
+                  },
+                  "compId": 620
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": -18,
+                    "x": 196,
+                    "width": 110,
+                    "top": -18.5,
+                    "skin": "gameui/homeUI/guanka_di.png",
+                    "right": 30
+                  },
+                  "compId": 623,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "y": 0,
+                        "text": "level 99",
+                        "fontSize": 24,
+                        "color": "#ffffff",
+                        "centerY": 0,
+                        "centerX": 0,
+                        "bold": true
+                      },
+                      "compId": 624
+                    }
+                  ]
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 621
+                }
+              ]
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 7,
+                "text": "第3关卡解锁",
+                "right": 83,
+                "name": "lab_chejiopen",
+                "fontSize": 20,
+                "color": "#ff0000",
+                "bold": true
+              },
+              "compId": 627
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 60,
+                "x": 1130,
+                "visible": true,
+                "skin": "gameui/homeUI/cheji_di2.png",
+                "right": 50,
+                "name": "btn_chejiUnlockBox",
+                "label": "label",
+                "disabled": false,
+                "anchorY": 0.5,
+                "anchorX": 0.5,
+                "width": 309,
+                "height": 116
+              },
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 109,
+                    "centerX": 0,
+                    "width": 131,
+                    "skin": "gameui/public/btn_jiesuo.png",
+                    "right": 125,
+                    "name": "btn_chejiUnlock",
+                    "height": 50,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5
+                  },
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "x": 13,
+                        "width": 22,
+                        "skin": "gameui/public/shipin.png",
+                        "height": 22,
+                        "centerY": 0
+                      },
+                      "compId": 629
+                    },
+                    {
+                      "type": "Label",
+                      "props": {
+                        "x": 42,
+                        "text": "Unlock",
+                        "name": "lab",
+                        "fontSize": 20,
+                        "font": "Microsoft YaHei",
+                        "color": "#ffffff",
+                        "centerY": 2
+                      },
+                      "compId": 630
+                    },
+                    {
+                      "type": "Script",
+                      "props": {
+                        "runtime": "Game/components/buttonComp.ts"
+                      },
+                      "compId": 631
+                    }
+                  ]
+                }
+              ],
+              "compId": 628
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": -59,
+                "visible": false,
+                "skin": "gameui/homeUI/gengduo.png",
+                "name": "btn_moreGame",
+                "left": 180,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 632,
+              "child": [
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 634
+                },
+                {
+                  "type": "Box",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 111,
+                    "name": "tweenbox",
+                    "height": 81
+                  },
+                  "compId": 639,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "x": 12,
+                        "top": 50,
+                        "text": "更",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "fontSize": 22,
+                        "font": "Microsoft YaHei",
+                        "color": "#ffffff",
+                        "centerX": -33,
+                        "bold": false
+                      },
+                      "compId": 635
+                    },
+                    {
+                      "type": "Label",
+                      "props": {
+                        "x": 34,
+                        "top": 50,
+                        "text": "多",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "fontSize": 22,
+                        "font": "Microsoft YaHei",
+                        "color": "#ffffff",
+                        "centerX": -11,
+                        "bold": false
+                      },
+                      "compId": 636
+                    },
+                    {
+                      "type": "Label",
+                      "props": {
+                        "x": 56,
+                        "top": 50,
+                        "text": "好",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "fontSize": 22,
+                        "font": "Microsoft YaHei",
+                        "color": "#ffffff",
+                        "centerX": 11,
+                        "bold": false
+                      },
+                      "compId": 637
+                    },
+                    {
+                      "type": "Label",
+                      "props": {
+                        "x": 78,
+                        "top": 50,
+                        "text": "玩",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "fontSize": 22,
+                        "font": "Microsoft YaHei",
+                        "color": "#ffffff",
+                        "centerX": 33,
+                        "bold": false
+                      },
+                      "compId": 638
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Box",
+          "props": {
+            "y": 386,
+            "x": 0,
+            "width": 1334,
+            "visible": false,
+            "right": 0,
+            "name": "box_carport_panel",
+            "left": 0,
+            "height": 364,
+            "bottom": 0
+          },
+          "compId": 455,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 94,
+                "skin": "gameui/public/guanbi.png",
+                "scaleY": 1.1,
+                "scaleX": 1.1,
+                "right": 38,
+                "name": "btn_carport_close",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 467,
+              "child": [
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 572
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/carportUI/goumai_di.png",
+                "right": 165,
+                "name": "btn_gold_unlock",
+                "label": "label",
+                "bottom": 222,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 456,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 224,
+                    "valign": "middle",
+                    "top": 9,
+                    "text": "Unlock",
+                    "name": "lab",
+                    "height": 50,
+                    "fontSize": 40,
+                    "color": "#ffffff",
+                    "centerX": 6,
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 458
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "valign": "middle",
+                    "text": "1000000",
+                    "name": "lab_unlock_gold_num",
+                    "left": 72,
+                    "fontSize": 34,
+                    "color": "#ffffff",
+                    "centerY": 24,
+                    "bold": true,
+                    "align": "left"
+                  },
+                  "compId": 462
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 40,
+                    "skin": "gameui/public/jinbi.png",
+                    "left": 24,
+                    "height": 40,
+                    "centerY": 22
+                  },
+                  "compId": 463
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 573
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/carportUI/shipin_di.png",
+                "right": 165,
+                "name": "btn_video_unlock",
+                "label": "label",
+                "bottom": 222,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 457,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 224,
+                    "valign": "middle",
+                    "top": 8,
+                    "text": "立即解锁",
+                    "height": 50,
+                    "fontSize": 40,
+                    "color": "#ffffff",
+                    "centerX": 6,
+                    "bold": true,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5,
+                    "align": "center"
+                  },
+                  "compId": 459
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "valign": "middle",
+                    "text": "0/9",
+                    "name": "lab_unlock_video_num",
+                    "left": 111,
+                    "fontSize": 34,
+                    "color": "#ffffff",
+                    "centerY": 23,
+                    "bold": false,
+                    "align": "left"
+                  },
+                  "compId": 496
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 30,
+                    "skin": "gameui/public/shipin.png",
+                    "left": 41,
+                    "height": 30,
+                    "centerY": 23
+                  },
+                  "compId": 497
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 574
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/carportUI/shipin_di.png",
+                "right": 165,
+                "name": "btn_share_unlock",
+                "label": "label",
+                "bottom": 222,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 536,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 224,
+                    "valign": "middle",
+                    "top": 8,
+                    "text": "分享解锁",
+                    "height": 50,
+                    "fontSize": 40,
+                    "color": "#ffffff",
+                    "centerX": 6,
+                    "bold": true,
+                    "anchorY": 0.5,
+                    "anchorX": 0.5,
+                    "align": "center"
+                  },
+                  "compId": 537
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "valign": "middle",
+                    "text": "0/9",
+                    "name": "lab_unlock_share_num",
+                    "left": 111,
+                    "fontSize": 32,
+                    "color": "#ffffff",
+                    "centerY": 23,
+                    "bold": false,
+                    "align": "left"
+                  },
+                  "compId": 538
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 30,
+                    "skin": "gameui/public/fenxiang.png",
+                    "left": 41,
+                    "height": 30,
+                    "centerY": 23
+                  },
+                  "compId": 539
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 575
+                }
+              ]
+            },
+            {
+              "type": "List",
+              "props": {
+                "width": 1294,
+                "spaceX": 10,
+                "right": 20,
+                "repeatY": 1,
+                "name": "list_carport",
+                "left": 20,
+                "height": 227,
+                "bottom": -26
+              },
+              "compId": 468,
+              "child": [
+                {
+                  "type": "UnlockItem",
+                  "props": {
+                    "runtime": "ui.item.UnlockItemUI",
+                    "renderType": "render"
+                  },
+                  "compId": 469
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 125,
+            "skin": "gameui/homeUI/title_di.png",
+            "name": "img_checkpoint_bg",
+            "centerX": 0
+          },
+          "compId": 522,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "top": 11,
+                "text": "Level 1",
+                "strokeColor": "#000000",
+                "stroke": 2,
+                "name": "lab_checkpoint",
+                "fontSize": 44,
+                "color": "#ffffff",
+                "centerX": 0,
+                "bold": true
+              },
+              "compId": 493
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 419,
+            "skin": "gameui/newUI/libao_1.png",
+            "scaleY": 1.1,
+            "scaleX": 1.1,
+            "name": "img_gift_pack",
+            "centerX": -593,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 642,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/newUI/libao_2.png",
+                "centerX": 0,
+                "bottom": -21
+              },
+              "compId": 643
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": -10,
+                "skin": "gameui/newUI/tanhao.png",
+                "right": -10,
+                "name": "img_have"
+              },
+              "compId": 648
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 651
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "name": "btnMoreGame",
+            "var": "btnMoreGame",
+            "visible": false,
+            "scaleY": 1.1,
+            "scaleX": 1.1,
+            "top": 150,
+            "left": 650,
+            "centerX": -593,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          }
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 278,
+            "skin": "gameui/newUI/zhuanpan_1.png",
+            "scaleY": 1.1,
+            "scaleX": 1.1,
+            "name": "img_roll",
+            "centerX": -593,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 644,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/newUI/zhuanpan_2.png",
+                "centerX": 0,
+                "bottom": -21
+              },
+              "compId": 645
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 0,
+                "x": 0,
+                "top": -10,
+                "skin": "gameui/newUI/tanhao.png",
+                "right": -10,
+                "name": "img_have"
+              },
+              "compId": 649
+            },
+            {
+              "type": "Script",
+              "props": {
+                "y": 0,
+                "x": 0,
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 652
+            }
+          ]
+        },
+        {
+          "type": "Box",
+          "props": {
+            "width": 285,
+            "visible": false,
+            "right": 51,
+            "name": "boxBg",
+            "height": 217,
+            "bottom": 392
+          },
+          "compId": 656,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "width": 229.6,
+                "skin": "gameui/public/btn328x109.png",
+                "name": "btn_gasoline",
+                "label": "label",
+                "height": 98.1,
+                "centerX": 0,
+                "bottom": 0,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 657,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "width": 224,
+                    "valign": "middle",
+                    "text": "Refill now",
+                    "name": "lab",
+                    "height": 50,
+                    "fontSize": 30,
+                    "color": "#ffffff",
+                    "centerY": 0,
+                    "centerX": 24,
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 658
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 40,
+                    "skin": "gameui/public/shipin_jiayou.png",
+                    "left": 23,
+                    "height": 40,
+                    "centerY": 0
+                  },
+                  "compId": 659
+                },
+                {
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  },
+                  "compId": 660
+                }
+              ]
+            },
+            {
+              "type": "Image",
+              "props": {
+                "top": 13,
+                "skin": "gameui/gasolineUI/youtong.png",
+                "name": "imgGasoline",
+                "left": 0
+              },
+              "compId": 661
+            },
+            {
+              "type": "Image",
+              "props": {
+                "width": 245,
+                "top": 48,
+                "skin": "gameui/gasolineUI/youliang_diban.png",
+                "sizeGrid": "26,22,35,15",
+                "scaleY": 0.7,
+                "scaleX": 0.7,
+                "name": "imgGasolineNum",
+                "left": 105
+              },
+              "compId": 662,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 8,
+                    "x": 10,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 10,
+                    "centerY": 0
+                  },
+                  "compId": 663,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 664
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 55,
+                    "centerY": 0
+                  },
+                  "compId": 665,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 666
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 100,
+                    "centerY": 0
+                  },
+                  "compId": 667,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 668
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 145,
+                    "centerY": 0
+                  },
+                  "compId": 669,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 670
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "skin": "gameui/gasolineUI/youliang_di.png",
+                    "left": 190,
+                    "centerY": 0
+                  },
+                  "compId": 671,
+                  "child": [
+                    {
+                      "type": "Image",
+                      "props": {
+                        "y": 0,
+                        "x": 0,
+                        "skin": "gameui/gasolineUI/youliang.png",
+                        "left": 0,
+                        "centerY": 0
+                      },
+                      "compId": 672
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Label",
+              "props": {
+                "x": 230,
+                "top": 23,
+                "text": "Refueling time:",
+                "strokeColor": "#ffffff",
+                "stroke": 2,
+                "name": "lbGasolineTishi",
+                "left": 105,
+                "fontSize": 18,
+                "font": "Microsoft YaHei",
+                "color": "#000000",
+                "bold": true,
+                "anchorX": 1
+              },
+              "compId": 673,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "20:20",
+                    "strokeColor": "#ffffff",
+                    "stroke": 2,
+                    "right": -58,
+                    "name": "lbGasolineTishiNum",
+                    "fontSize": 20,
+                    "font": "Microsoft YaHei",
+                    "color": "#ff0400",
+                    "centerY": 0,
+                    "bold": true
+                  },
+                  "compId": 674
+                }
+              ]
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "scripts/CarGasoline.ts"
+              },
+              "compId": 675
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "runtime": "scripts/CarPort.ts",
+        "homeScene": "@node:554"
+      },
+      "compId": 518
+    },
+    {
+      "type": "Script",
+      "props": {
+        "tween_moreGame": "@node:639",
+        "runtime": "Game/ui/HomeScene.ts",
+        "list_carport": "@node:468",
+        "lab_unlock_video_num": "@node:496",
+        "lab_unlock_share_num": "@node:538",
+        "lab_unlock_gold_num": "@node:462",
+        "lab_cheji_opennum": "@node:627",
+        "lab_cheji_levelnum": "@node:624",
+        "lab_checkpoint": "@node:493",
+        "lab_bus_levelnum": "@node:626",
+        "img_roll": "@node:644",
+        "img_limit": "@node:646",
+        "img_gift_pack": "@node:642",
+        "img_get_gold": "@node:654",
+        "carPort": "@node:518",
+        "btn_video_unlock": "@node:457",
+        "btn_start_Game": "@node:453",
+        "btn_sound": "@node:461",
+        "btn_share_unlock": "@node:536",
+        "btn_moreGame": "@node:632",
+        "btn_gold_unlock": "@node:456",
+        "btn_getPower": "@node:589",
+        "btn_chiji_Game": "@node:618",
+        "btn_cheji_unlock": "@node:628",
+        "btn_cheji_Game": "@node:618",
+        "btn_carport_close": "@node:467",
+        "btn_carport": "@node:451",
+        "box_reducePower": "@node:585",
+        "box_home_panel": "@node:450",
+        "box_carport_panel": "@node:455",
+        "btn_gasoline": "@node:657",
+        "lbGasolineTishi": "@node:673"
+      },
+      "compId": 554
+    },
+    {
+      "type": "Image",
+      "props": {
+        "y": 620,
+        "x": 1098,
+        "skin": "gameui/public/tili.png",
+        "right": 211,
+        "name": "box_reducePower",
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 585,
+      "child": [
+        {
+          "type": "Label",
+          "props": {
+            "x": 70,
+            "valign": "middle",
+            "text": "-1",
+            "strokeColor": "#000000",
+            "stroke": 3,
+            "fontSize": 50,
+            "color": "#ffffff",
+            "bold": true,
+            "align": "center"
+          },
+          "compId": 588
+        }
+      ]
+    }
+  ],
+  "loadList": [
+    "gameui/public/jinbi_di.png",
+    "gameui/public/jinbi.png",
+    "gameui/public/jiahao.png",
+    "gameui/public/tili.png",
+    "gameui/public/shengyin.png",
+    "gameui/public/cheku_di.png",
+    "gameui/homeUI/ic_cheku.png",
+    "gameui/public/chufa_di.png",
+    "gameui/homeUI/ic_chufa.png",
+    "gameui/homeUI/guanka_di.png",
+    "gameui/homeUI/cheji_di2.png",
+    "gameui/homeUI/ic_cheji_2.png",
+    "gameui/public/btn_jiesuo.png",
+    "gameui/public/shipin.png",
+    "gameui/homeUI/gengduo.png",
+    "gameui/public/guanbi.png",
+    "gameui/carportUI/goumai_di.png",
+    "gameui/carportUI/shipin_di.png",
+    "gameui/public/fenxiang.png",
+    "item/UnlockItem.scene",
+    "gameui/public/btn328x109.png",
+    "gameui/public/shipin_jiayou.png",
+    "gameui/gasolineUI/youtong.png",
+    "gameui/gasolineUI/youliang_diban.png",
+    "gameui/gasolineUI/youliang_di.png",
+    "gameui/gasolineUI/youliang.png",
+    "gameui/homeUI/title_di.png",
+    "gameui/newUI/libao_1.png",
+    "gameui/newUI/libao_2.png",
+    "gameui/newUI/tanhao.png",
+    "gameui/newUI/zhuanpan_1.png",
+    "gameui/newUI/zhuanpan_2.png",
+    "gameui/newUI/xianshi_1.png",
+    "gameui/newUI/xianshi_2.png"
+  ],
+  "loadList3D": []
+}

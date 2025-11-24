@@ -1,0 +1,341 @@
+{
+  "title": "Basketball_REAL",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/452.jpg",
+      "name": "Émilie Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est incroyablement réaliste! Les graphismes sont époustouflants et les mouvements des joueurs sont si fluides. J'adore la profondeur stratégique qu'il offre, avec la gestion d'équipe et les tactiques. C'est le jeu de basket le plus immersif auquel j'aie jamais joué sur mobile. Un incontournable pour les fans de basket!",
+      "date": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/89.jpg",
+      "name": "Алексей Смирнов",
+      "rating": 4,
+      "comment": "Игра отличная, но иногда возникают проблемы с подключением к сети. Баскетбольная механика очень продумана, и управление интуитивно понятно. Если бы не occasional сбои сервера, было бы идеально. Надеюсь, разработчики скоро это исправят.",
+      "date": "2023-09-22"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Jason Lee",
+      "rating": 5,
+      "comment": "Basketball_REAL truly lives up to its name! The attention to detail in player animations and court environments is incredible. It feels like a console game on my phone. The controls take a bit to master, but once you do, the satisfaction of executing perfect plays is immense. A real triumph for mobile sports.",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/765.jpg",
+      "name": "Sophia Müller",
+      "rating": 2,
+      "comment": "Die Grafik ist gut, aber die Spielbalance ist miserabel. Man hat das Gefühl, dass das Spiel einen zwingen will, Geld auszugeben, um wettbewerbsfähig zu bleiben. Das Matchmaking ist oft unfair, und es macht einfach keinen Spaß, ständig gegen übermächtige Gegner zu verlieren. Enttäuschend.",
+      "date": "2023-04-15"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/200.jpg",
+      "name": "陳偉倫",
+      "rating": 5,
+      "comment": "這款遊戲的真實感令人驚嘆！每次灌籃和投籃的物理效果都非常棒。戰術系統讓遊戲更具深度，而且操控非常流暢。感覺就像在手機上玩真正的NBA遊戲。籃球迷絕對不能錯過！",
+      "date": "2024-11-28"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Marie Lefebvre",
+      "rating": 4,
+      "comment": "Un bon jeu de basket, très fidèle à la réalité. La courbe d'apprentissage est un peu raide au début, mais les entraînements sont efficaces. J'apprécie la variété des modes de jeu. Seul petit bémol, le temps de chargement est parfois un peu long. Sinon, très divertissant.",
+      "date": "2025-02-05"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 1,
+      "comment": "Игра постоянно вылетает! Невозможно нормально играть. Разработчики, пожалуйста, исправьте баги. Кроме того, слишком много рекламы, которая появляется в самые неподходящие моменты. Это просто испортило все впечатление.",
+      "date": "2023-07-01"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/912.jpg",
+      "name": "Laura Schmidt",
+      "rating": 5,
+      "comment": "Absolut fantastisch! Das Gameplay ist so flüssig und die taktischen Optionen sind unglaublich vielfältig. Es fühlt sich an, als würde man wirklich ein Basketballteam managen und spielen. Die Spielerbewegungen sind präzise und die Ballphysik ist top. Ein Muss für jeden Basketball-Enthusiasten!",
+      "date": "2024-06-18"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/55.jpg",
+      "name": "Michael Brown",
+      "rating": 4,
+      "comment": "The graphics are stunning and the player models are highly detailed. It's almost like watching a real game unfold on your screen. The controls are responsive, though they take a bit of getting used to for complex moves. Overall, a visually impressive and solid basketball experience.",
+      "date": "2023-11-03"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/140.jpg",
+      "name": "王曉明",
+      "rating": 3,
+      "comment": "遊戲畫面很棒，但內容更新太慢了。我希望能有更多球隊和球員可以選擇，或者多一些新的賽事模式。玩了一段時間後會覺得有點重複。希望能看到更多新內容加入。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/732.jpg",
+      "name": "Antoine Gauthier",
+      "rating": 5,
+      "comment": "Je suis complètement accro! La sensation de contrôler une équipe et de réaliser des passes et des tirs parfaits est juste incroyable. Le mode carrière est très prenant, et l'IA est assez intelligente pour offrir un vrai défi. C'est le meilleur jeu de basket sur mobile sans aucun doute.",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/980.jpg",
+      "name": "Елена Кузнецова",
+      "rating": 4,
+      "comment": "Очень реалистичная симуляция баскетбола. Управление требует привыкания, но оно того стоит. Хорошо продуманный режим карьеры и возможность улучшать своих игроков. Единственный минус — частые уведомления о внутриигровых покупках.",
+      "date": "2023-05-29"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/410.jpg",
+      "name": "Max Fischer",
+      "rating": 1,
+      "comment": "Eine absolute Katastrophe! Das Spiel ist voll von Pay-to-Win-Mechanismen und man wird ständig zum Geldausgeben gedrängt. Ohne echtes Geld ist der Fortschritt quälend langsam und unfair. Es ist nur darauf ausgelegt, den Spielern das Geld aus der Tasche zu ziehen. Finger weg!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/601.jpg",
+      "name": "Kevin Peterson",
+      "rating": 5,
+      "comment": "Basketball_REAL is the most authentic basketball experience on mobile. The graphics are stunning, the player movements are incredibly smooth, and the strategic depth is unmatched. Every game feels like a real NBA match. The season mode is deep and engaging. A must-have for serious fans!",
+      "date": "2025-04-03"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林美玲",
+      "rating": 4,
+      "comment": "遊戲玩法很有挑戰性，但不會讓人覺得沮喪。每次成功防守或得分都很有成就感。訓練模式很實用，幫助我更快地熟悉了操作。希望能有更多的球衣和球場選擇。",
+      "date": "2023-08-11"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/250.jpg",
+      "name": "Gabriel Moreau",
+      "rating": 3,
+      "comment": "Assez bon dans l'ensemble, mais il manque un peu de diversité dans les modes de jeu. Le mode match est bien, mais j'aimerais voir des défis quotidiens ou des tournois plus variés. Le concept est solide, mais le contenu pourrait être plus riche pour maintenir l'intérêt sur le long terme.",
+      "date": "2024-08-01"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Ольга Иванова",
+      "rating": 5,
+      "comment": "Захватывающая игра! Графика просто потрясающая, а геймплей настолько реалистичен, что ощущаешь себя на настоящем корте. Управление очень плавное, и каждый бросок приносит удовольствие. Прогрессия команды очень мотивирует. Рекомендую всем любителям баскетбола!",
+      "date": "2025-03-20"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/30.jpg",
+      "name": "Julian Becker",
+      "rating": 4,
+      "comment": "Sehr realistische Simulation, die viel Taktik erfordert. Die Steuerung ist präzise, und die KI der Gegner ist anspruchsvoll. Es ist kein einfaches Arcade-Spiel, sondern eine echte Basketball-Erfahrung. Ich verbringe gerne meine Zeit damit, meine Strategien zu verfeinern.",
+      "date": "2023-03-25"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sarah Miller",
+      "rating": 2,
+      "comment": "The game promises realism but often falls short. Player AI can be inconsistent, and the defensive system feels clunky at times. It's trying to be a full simulation but has too many rough edges. Not as polished as I hoped it would be.",
+      "date": "2024-05-08"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "李文傑",
+      "rating": 5,
+      "comment": "超級棒的籃球遊戲！畫質細緻，動作流暢，戰術選擇豐富。玩起來真的很有挑戰性，每次贏球都很有成就感。這是我手機裡最好的體育遊戲，沒有之一。強烈推薦給所有籃球愛好者！",
+      "date": "2025-01-15"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Clara Dubois",
+      "rating": 4,
+      "comment": "Un jeu de basket très solide avec des graphismes impressionnants. Le mode carrière est bien fait, et les défis sont assez variés pour ne pas s'ennuyer. La gestion des joueurs ajoute une couche intéressante. Parfait pour les fans de simulation sportive.",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/160.jpg",
+      "name": "Сергей Петров",
+      "rating": 3,
+      "comment": "Неплохая графика и управление, но чего-то не хватает. Может быть, больше соревнований или интерактивных элементов. Играть можно, но не цепляет надолго. Надеюсь на будущие обновления.",
+      "date": "2024-07-29"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Das beste mobile Basketballspiel auf dem Markt! Die Detailtiefe ist unglaublich, von den Spieleranimationen bis zur Strategie. Jeder Pass, jeder Wurf fühlt sich authentisch an. Es ist herausfordernd, aber so lohnend. Eine absolute Empfehlung für Basketball-Enthusiasten!",
+      "date": "2025-04-10"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Carter",
+      "rating": 4,
+      "comment": "The simulation aspect is really well done. It's not just about scoring; it's about setting up plays, defensive rotations, and managing your team's energy. It offers a deeper experience than most mobile basketball games. Great for those who appreciate strategy.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/500.jpg",
+      "name": "黃國強",
+      "rating": 1,
+      "comment": "玩起來很卡，閃退問題很嚴重。而且經常出現按鍵沒反應的情況，嚴重影響遊戲體驗。希望開發商能好好修復這些問題。不然真的是浪費時間。",
+      "date": "2024-09-17"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Louis Bernard",
+      "rating": 5,
+      "comment": "La physique du ballon est juste parfaite! Chaque dribble, chaque tir est d'une précision incroyable. Le mode saison est très immersif, et je me sens vraiment comme un manager et un joueur. Une expérience de basket mobile inégalée. Bravo aux développeurs!",
+      "date": "2025-01-28"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Мария Козлова",
+      "rating": 4,
+      "comment": "Хорошая графика, но управление иногда подводит. Особенно при смене игроков в защите. В остальном, очень достойный симулятор, который позволяет погрузиться в мир баскетбола. Надеюсь на улучшение управления в будущем.",
+      "date": "2023-06-19"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Schneider",
+      "rating": 3,
+      "comment": "Die Grafik ist beeindruckend, aber das Gameplay ist manchmal etwas träge. Es fühlt sich nicht immer so dynamisch an, wie ich es von einem Basketballspiel erwarte. Es gibt Potenzial, aber es muss noch an der Geschwindigkeit und Flüssigkeit gearbeitet werden.",
+      "date": "2024-04-05"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Chris Adams",
+      "rating": 5,
+      "comment": "Basketball_REAL has truly captured the essence of the sport. The player AI is smart, the strategic elements are deep, and the moment-to-moment gameplay is thrilling. From fast breaks to defensive stands, every aspect feels authentic. I'm constantly impressed by its realism.",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "張家豪",
+      "rating": 4,
+      "comment": "這是一款非常注重細節的籃球遊戲。球員的動作、場景的呈現都做得非常逼真。雖然學習曲線有點陡峭，但掌握後玩起來非常有深度。非常適合喜歡真實籃球體驗的玩家。",
+      "date": "2023-09-07"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Sophie Martin",
+      "rating": 2,
+      "comment": "I wanted to like this game, but the constant grinding for player upgrades is a huge turn-off. It feels like a chore rather than fun. Progress is too slow without spending money, which undermines the entire experience. Needs a fairer progression system.",
+      "date": "2024-10-12"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Иван Волков",
+      "rating": 5,
+      "comment": "Лучший симулятор баскетбола на мобильных устройствах! Графика на уровне консольных игр, а геймплей просто завораживает. Все движения игроков, физика мяча — невероятно реалистично. Это шедевр для всех, кто любит баскетбол!",
+      "date": "2025-05-19"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Marie Fischer",
+      "rating": 4,
+      "comment": "Très bon jeu de basket, assez exigeant mais juste. L'IA des adversaires est intelligente, ce qui rend chaque match intéressant. C'est une excellente façon de tester ses compétences tactiques. Un peu plus de tutoriels avancés seraient les bienvenus, mais sinon, c'est très complet.",
+      "date": "2023-07-20"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Maximilian Weber",
+      "rating": 3,
+      "comment": "Die Grafik ist top, aber die Online-Verbindung ist oft instabil, was bei Wettkampfspielen sehr frustrierend ist. Auch die Ladezeiten sind manchmal zu lang. Es hat viel Potenzial, aber diese technischen Probleme trüben das Spielerlebnis erheblich. Hier muss nachgebessert werden.",
+      "date": "2024-02-29"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Emma Roberts",
+      "rating": 5,
+      "comment": "The level of detail and realism in Basketball_REAL is astounding. From the sweat on the players to the crowd's reaction, it truly makes you feel like you're in the game. The strategic depth is perfect for serious basketball fans who want more than just arcade action. It's a fantastic simulation.",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳怡君",
+      "rating": 4,
+      "comment": "遊戲非常逼真，玩起來很有沉浸感。傳球、投籃、防守都需要很好的判斷力。這讓遊戲玩起來更有挑戰性，也更有趣。適合喜歡真實模擬籃球的玩家，但對新手來說可能需要一些時間適應。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Léo Fournier",
+      "rating": 3,
+      "comment": "Bon jeu, mais l'IA des coéquipiers pourrait être améliorée. Ils prennent parfois des décisions étranges qui gâchent des actions. Les graphismes sont beaux, mais le gameplay manque parfois de fluidité. Il y a de la marge d'amélioration, mais c'est un bon début.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Katja Schulz",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von diesem Spiel! Es ist so realistisch und die Steuerung ist unglaublich präzise. Man kann echte Basketball-Strategien anwenden und die Matches sind immer spannend. Die Grafik ist atemberaubend und der Sound lässt einen wirklich eintauchen. Ein Meisterwerk!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Ivan Popov",
+      "rating": 4,
+      "comment": "Физика мяча и движения игроков просто великолепны. Это очень близко к реальному баскетболу, что большая редкость для мобильных игр. Есть куда расти в плане контента, но основа очень крепкая. Рекомендую всем, кто ищет реалистичный симулятор.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/512.jpg",
+      "name": "Emily Watson",
+      "rating": 5,
+      "comment": "The season mode is incredibly immersive! Building my team, trading players, and competing for the championship feels just like real basketball management. The gameplay during matches is also top-notch, with realistic movements and strategic depth. I spend hours on this game.",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/28.jpg",
+      "name": "Pierre Dupont",
+      "rating": 3,
+      "comment": "Les graphismes sont bons, mais le système de progression est trop lent si on ne dépense pas d'argent. Ça devient un peu frustrant de ne pas pouvoir améliorer ses joueurs aussi vite qu'on le voudrait. Sinon, le gameplay est correct, mais l'aspect 'pay-to-win' est un inconvénient majeur.",
+      "date": "2023-01-25"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/85.jpg",
+      "name": "Anna Meier",
+      "rating": 4,
+      "comment": "Ein sehr guter Basketball-Simulator. Die Steuerung ist anfangs etwas komplex, aber mit etwas Übung funktioniert es sehr gut. Die Matches sind spannend und erfordern taktisches Denken. Ich hätte mir nur noch etwas mehr Abwechslung bei den Kommentaren gewünscht. Dennoch sehr empfehlenswert.",
+      "date": "2024-12-11"
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+/* 全局变量与基础样式 */
+:root {
+    --primary-color: #FF6B35; /* 主橙色 */
+    --secondary-color: #FFA630; /* 浅橙色 */
+    --dark-color: #E15634; /* 深橙色 */
+    --light-color: #FFE8DC; /* 浅背景 */
+    --text-color: #333;
+    --text-light: #777;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 统一头部样式 */
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: var(--box-shadow);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+    margin-right: 12px;
+}
+
+.site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+}
+
+/* 统一导航样式 */
+nav {
+    display: flex;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    position: relative;
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+nav a:hover {
+    color: var(--light-color);
+}
+
+nav a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: white;
+    transition: var(--transition);
+}
+
+.footer a:hover::after {
+    width: 100%;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    position: relative;
+    transition: var(--transition);
+}
+
+.footer a:hover {
+    color: var(--light-color);
+}
+
+.footer a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: white;
+    transition: var(--transition);
+}
+
+.footer a:hover::after {
+    width: 100%;
+}
+
+/* 统一主内容区 */
+main {
+    flex: 1;
+    padding: 2rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* 游戏容器统一样式 */
+.game-container {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #eee;
+    border-radius: var(--border-radius);
+    background-color: white;
+    box-shadow: var(--box-shadow);
+    overflow: hidden;
+    margin: 1.5rem 0;
+    /* 确保背景图片和伪元素蒙版能正确堆叠 */
+    position: relative; 
+    background-image: url('/images/banner.png');
+    /* 鼠标移入时变成小手 */
+    cursor: pointer; 
+}
+
+/* 创建蒙版效果 */
+.game-container::before {
+    content: ""; /* 伪元素必须有 content 属性 */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* 设置半透明黑色蒙版。你可以调整 alpha 值 (0.5) 改变透明度 */
+    background-color: rgba(0, 0, 0, 0.5); 
+    /* 使用 transition 让蒙版过渡效果更平滑 */
+    transition: opacity 0.3s ease-in-out; 
+    /* 确保蒙版覆盖在背景图片上 */
+    z-index: 1; 
+}
+
+/* 鼠标悬停时取消蒙版（通过设置透明度为 0）*/
+.game-container:hover::before {
+    opacity: 0;
+}
+.game-detail {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #eee;
+    border-radius: var(--border-radius);
+    background-color: white;
+    box-shadow: var(--box-shadow);
+    overflow: hidden;
+    margin: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.game-detail .game-title {
+    margin-top: 15%;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+    text-align: center;
+}
+.game-detail .game-description {
+    font-size: 1rem;
+    color: var(--text-light);
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+.game-detail .play-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    color: white;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+/* 游戏网格统一布局 */
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.game-card {
+    background-color: white;
+    border: 1px solid #eee;
+    border-radius: var(--border-radius);
+    padding: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transition);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.2);
+    border-color: var(--secondary-color);
+}
+
+.game-card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border: 1px solid #f0f0f0;
+}
+
+.game-card h3 {
+    color: var(--text-color);
+    font-size: 1rem;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 统一页脚样式 */
+footer {
+    background-color: var(--dark-color);
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: auto;
+}
+
+/* 统一响应式设计 */
+@media (max-width: 992px) {
+    .game-container {
+        height: 500px;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 0.8rem 1rem;
+        height: 100px;
+    }
+
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+        height: 85px;
+    }
+
+    .logo-container {
+        margin-bottom: 0.8rem;
+        margin-right: 0;
+        /*display: none;*/
+    }
+
+    nav {
+        width: 100%;
+        justify-content: space-around;
+        border-top:1px solid #FFFFFF;
+    }
+
+    nav a {
+        margin: 0;
+        padding: 0.9rem;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    .game-container {
+        height: 400px;
+        margin: 1rem 0;
+    }
+
+    .games-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .site-title {
+        font-size: 1.3rem;
+    }
+
+    .game-container {
+        height: 300px;
+    }
+
+    .games-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .game-card {
+        padding: 0.8rem;
+    }
+
+    .game-card img {
+        height: 80px;
+    }
+}
+
+/* H5全屏模式增强 */
+.h5-mode {
+    padding-top: 60px;
+}
+
+.h5-mode .game-container {
+    height: calc(100vh - 60px);
+    margin: 0;
+    border-radius: 0;
+    border: none;
+}
+
+.h5-mode .other-games {
+    padding: 1rem;
+    background: white;
+}
+
+/* 统一工具类 */
+.desktop-only {
+    display: block;
+}
+
+.mobile-only {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .desktop-only {
+        display: none !important;
+    }
+
+    .mobile-only {
+        display: block !important;
+    }
+}
+
+/* 统一错误状态 */
+.error-message {
+    background: #FFF3F0;
+    border-left: 4px solid var(--primary-color);
+    padding: 1rem;
+    margin: 1rem 0;
+    color: var(--dark-color);
+    text-align: center;
+    border-radius: var(--border-radius);
+}
+
+.no-games {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-light);
+    font-style: italic;
+}
+
+/* 移动端专属修正（添加到现有CSS中） */
+@media (max-width: 768px) {
+    body {
+        background-color: white; /* 统一背景为白色 */
+        padding-top: 60px; /* 为header留出空间 */
+    }
+
+    /* 修复iframe全屏显示 */
+    .game-container iframe {
+        width: 100% !important;
+        height: 100% !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    /* 调整header避免遮挡 */
+    header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 100px;
+        padding: 0.5rem 1rem;
+        background-color: var(--primary-color);
+    }
+
+    /* 主内容区调整 */
+    main {
+        padding: 0;
+        margin-top: 55px;
+        background: transparent;
+        box-shadow: none;
+    }
+
+    /* 游戏容器全屏适配 */
+    .game-container {
+        height: calc(100vh - 60px) !important;
+        margin: 0;
+        border-radius: 0;
+        border: none;
+        position: relative; /* 为iframe提供定位上下文 */
+    }
+
+    /* 其他游戏列表调整 */
+    .other-games {
+        background: white;
+        padding: 1rem;
+        /*margin-top: calc(100vh - 60px); !* 接在全屏游戏下方 *!*/
+    }
+}
+
+/* 针对小屏手机的微调 */
+@media (max-width: 480px) {
+    header {
+        height: 100px;
+    }
+
+    body {
+        padding-top: 50px;
+    }
+
+    .game-container {
+        height: calc(100vh - 50px) !important;
+    }
+
+    .logo-img {
+        height: 30px;
+    }
+
+    .site-title {
+        font-size: 1.2rem;
+    }
+}
+
+/* 游戏说明页面增强样式 */
+.faq-item {
+    margin-bottom: 1.5rem;
+}
+
+.faq-item h3 {
+    color: var(--dark-color);
+    margin-bottom: 0.5rem;
+}
+
+.faq-item p {
+    padding-left: 1.2rem;
+    color: var(--text-light);
+}
+
+a[href^="mailto:"] {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+a[href^="mailto:"]:hover {
+    color: var(--dark-color);
+}
+
+/* 移动端调整 */
+@media (max-width: 480px) {
+    .email-template {
+        font-size: 14px;
+        padding: 0.8rem;
+    }
+
+    .instruction-section h2 {
+        font-size: 1.3rem;
+    }
+}
+/* 在原有样式基础上添加以下内容 */
+
+/* 游戏卡片新增样式 */
+.game-author {
+    color: var(--text-light);
+    font-size: 0.8rem;
+    margin: 0.3rem 0;
+}
+
+.game-rating {
+    margin: 0.3rem 0;
+    color: var(--secondary-color);
+}
+
+.game-rating .fa-star {
+    margin-right: 2px;
+}
+
+.game-rating .filled {
+    color: var(--secondary-color);
+}
+
+.game-rating .empty {
+    color: #ddd;
+}
+
+.game-popularity {
+    color: var(--text-light);
+    font-size: 0.8rem;
+    margin: 0.3rem 0 0;
+}
+
+/* 详情页游戏信息样式 */
+.game-info {
+    margin: 1rem 0;
+    padding: 1rem;
+    background: white;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+.game-info h2 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.game-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0.5rem 0;
+}
+
+.game-meta-item {
+    display: flex;
+    align-items: center;
+}
+
+.game-meta-item i {
+    margin-right: 5px;
+    color: var(--secondary-color);
+}
+
+.game-description {
+    margin-top: 1rem;
+    color: var(--text-light);
+    line-height: 1.5;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .game-card {
+        padding: 0.8rem;
+    }
+
+    .game-author, .game-popularity {
+        font-size: 0.7rem;
+    }
+
+    .game-rating .fa-star {
+        font-size: 0.8rem;
+    }
+
+    .game-info {
+        padding: 0.8rem;
+    }
+
+    .game-meta {
+        gap: 0.5rem;
+    }
+
+    .game-meta-item {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* 游戏攻略部分样式 */
+.game-strategy {
+    margin: 30px 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.game-strategy h2 {
+    color: #333;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.strategy-content {
+    line-height: 1.6;
+    color: #555;
+}
+
+.strategy-content p {
+    margin-bottom: 15px;
+}
+
+.strategy-content ul, .strategy-content ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.strategy-content li {
+    margin-bottom: 8px;
+}
+#header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,317 @@
+{
+  "title": "BlobOpera",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Sarah Johnson",
+      "rating": 5,
+      "comment": "BlobOpera is sheer genius! It's incredibly fun and surprisingly addictive to create unique operatic harmonies. The controls are intuitive, and the blobs' expressions are hilarious. I've spent hours experimenting with different sounds. A truly innovative and joyful experience!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Алексей Смирнов",
+      "rating": 4,
+      "comment": "Очень забавная и креативная идея. Можно потратить много времени, создавая интересные мелодии. Иногда хочется больше настроек или возможностей для более сложных композиций. Но в целом, отличный способ расслабиться и повеселиться. Рекомендую для музыкальных экспериментов.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Clara Dubois",
+      "rating": 5,
+      "comment": "Absolument génial! BlobOpera est une expérience unique et hilarante. C'est tellement facile de créer de la musique, et les expressions des 'blobs' sont impayables. J'adore la façon dont on peut expérimenter et découvrir de nouvelles harmonies. Un vrai coup de cœur artistique et ludique!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist originell, aber das Spiel wird schnell eintönig. Es gibt nicht genug Variationen in den Klängen oder Interaktionsmöglichkeiten. Nach kurzer Zeit hat man alles gesehen und es gibt keinen Anreiz mehr, weiterzuspielen. Braucht mehr Tiefe.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "BlobOpera太有趣了！操作簡單，但能創造出非常多變的歌劇合聲。每個小圓點的表情都超級可愛，讓玩樂過程充滿歡笑。是個讓人放鬆又充滿創意的小工具，非常推薦給所有喜歡音樂和輕鬆小遊戲的朋友。",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A surprisingly charming and creative musical toy. It's intuitive to use, and seeing what harmonies the blobs come up with is always a delight. It's not a 'game' in the traditional sense, but an excellent interactive experience for music lovers. Fun for all ages.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Елена Козлова",
+      "rating": 1,
+      "comment": "Это не игра, а просто демонстрация. Очень быстро надоедает, так как нет никаких целей или вызовов. Просто двигаешь точки и слушаешь. Нет никакого прогресса или стимула продолжать. Разочарована, ждала большего.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! BlobOpera ist so einzigartig und macht unglaublich viel Spaß. Es ist so einfach, wunderschöne Harmonien zu erzeugen, und die visuellen Reaktionen der Blobs sind einfach zum Lachen. Ein perfektes Tool zum Experimentieren und Entspannen. Suchtfaktor hoch!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The visual design is adorable, and the concept is very clever. It's a fun way to explore musical scales and harmonies without any pressure. While not a deep game, it's a delightful interactive toy that sparks creativity. Good for a few minutes of delightful distraction.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "創意很棒，但內容稍嫌單一。玩了一陣子後，能探索的變化就差不多了。如果能有更多音色、不同風格的聲線，或是加入一些小遊戲模式，會更有趣。目前就是個放鬆的小工具。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement fasciné par BlobOpera! C'est une application si simple mais tellement innovante pour créer de la musique. Les voix sont étonnantes et les expressions faciales des blobs ajoutent tellement de personnalité. C'est relaxant, éducatif et incroyablement amusant!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень приятное и оригинальное приложение. Можно часами экспериментировать с разными голосами и создавать забавные оперные партии. Немного не хватает возможности сохранять свои 'произведения' или делиться ими. Но в целом, очень позитивно.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Das ist doch kein richtiges Spiel! Nur ein Gimmick, das nach fünf Minuten langweilig wird. Es gibt keine Herausforderung, keine Ziele, keinen Fortschritt. Reine Zeitverschwendung. Sehr enttäuschend, da das Konzept viel Potenzial hätte.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "BlobOpera is simply brilliant! It's such a unique way to interact with music. The simplicity of the controls combined with the richness of the operatic voices makes for endless creative fun. It's surprisingly calming and delightful. A truly standout experience.",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "很有趣的音樂互動工具，操作直觀，聲音效果很棒。看著小圓點們唱歌，表情變化很有趣。如果能增加更多音階或和聲模式，會更耐玩。適合喜歡簡單創意小工具的人。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "C'est une expérience mignonne, mais très limitée. Après quelques minutes, on a fait le tour des possibilités. Ce n'est pas un jeu dans le sens traditionnel, plutôt une curiosité interactive. Manque de profondeur pour une utilisation prolongée.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "BlobOpera — это чистый восторг! Невероятно креативное и веселое приложение. Очень легко создавать красивые оперные мелодии, а видеть, как при этом меняются выражения лиц 'блобов', просто бесценно. Отлично поднимает настроение и вдохновляет на творчество!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Super originelle Idee! Man kann spielerisch mit Harmonien experimentieren. Die Blobs sind wirklich charmant. Es ist eher ein interaktives Kunstprojekt als ein Spiel, aber sehr unterhaltsam für kurze Sessions. Entspannend und inspirierend.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "It's a cute little novelty for five minutes, but there's no actual gameplay or goals. It's more of a tech demo than an engaging experience. It quickly becomes boring as there's nothing new to discover after the initial interaction. Disappointing lack of content.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "BlobOpera真的太療癒了！簡單的拖曳就能創造出美妙的歌劇和聲，小圓點們的表情超有戲。讓我在忙碌之餘能輕鬆地享受音樂的樂趣。每次玩都覺得很開心，是個充滿正能量的應用。",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Une expérience musicale interactive très agréable. Les graphismes sont minimalistes mais efficaces, et les voix des 'blobs' sont surprenantes. C'est un excellent outil pour explorer des harmonies de manière ludique. Très relaxant et addictif pour les amateurs de musique.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Идея хорошая, но быстро надоедает. Хотелось бы больше интерактивных элементов, режимов или возможность записывать и делиться композициями. Пока это просто короткое развлечение. Надеюсь на будущие обновления функционала.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "BlobOpera ist einfach unglaublich! Es ist so intuitiv und man kann so viele verschiedene und wunderschöne Harmonien erzeugen. Die Blobs sind so ausdrucksstark. Es ist faszinierend, entspannend und macht einfach nur glücklich. Ein absolutes Highlight!",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A unique and delightful musical playground. It's incredibly simple to use, allowing anyone to create interesting vocal harmonies. While not a deep game, it's a fantastic tool for casual musical experimentation and enjoyment. Highly charming.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "這根本不算遊戲，就是個一次性的小玩意兒。很快就沒新意了，而且沒有任何目標或挑戰性。玩個幾分鐘就完全無聊了。不推薦，除非你只想浪費時間。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! BlobOpera est une application géniale pour explorer la musique de manière ludique et intuitive. Les voix sont superbes et les animations des blobs sont adorables. C'est un moyen parfait de se détendre et de laisser libre cours à sa créativité musicale.",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятное приложение для расслабления и творчества. Позволяет легко создавать интересные музыкальные композиции. Милый дизайн и забавные анимации. Было бы здорово, если бы добавили больше инструментов или эффектов.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Die Idee ist originell und für einen kurzen Moment ganz nett. Aber es fehlt an Variation und Spieltiefe. Es ist eher eine technische Demo als ein vollwertiges Spiel oder eine umfassende Musik-App. Für den schnellen Spaß okay, aber nicht mehr.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "BlobOpera is an absolute delight! It's so simple yet incredibly engaging to create beautiful harmonies. The expressive blobs make it even more charming. It's a fantastic tool for casual musical exploration and stress relief. Truly unique and highly recommended!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這是一款充滿驚喜的音樂工具。沒有複雜的規則，卻能隨意創造出動聽的合聲。小圓點們的表情真的很有趣，讓人心情愉悅。是個很棒的放鬆小品，適合隨時拿出來玩。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "C'est sympa les 5 premières minutes, puis on a fait le tour. Pas de réel gameplay, pas de défi, pas d'objectifs. Juste une curiosité. Ça devient vite ennuyeux et on n'y revient pas. Manque cruellement de contenu pour être autre chose qu'une démo.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! BlobOpera - это не просто приложение, это интерактивное искусство. Насколько легко создавать прекрасные оперные композиции, и видеть эмоции 'блобов' — это бесценно. Отлично для вдохновения и расслабления. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Eine sehr charmante und einzigartige musikalische Erfahrung. Man kann wunderbar mit Klängen experimentieren. Die Blobs sind so niedlich! Es ist eher ein kreatives Tool als ein Spiel, aber dafür ist es exzellent. Sehr entspannend und inspirierend.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "L'idée est géniale, mais l'exécution est un peu limitée. On souhaiterait plus de profondeur et de fonctionnalités pour vraiment créer des compositions. Pour un simple divertissement, c'est bien, mais il y a un potentiel inexploité pour en faire un outil plus puissant.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to just play around and discover new harmonies with the blobs! BlobOpera is pure joy. It’s addictive, relaxing, and surprisingly deep for a simple concept. The character designs are adorable, and it always puts a smile on my face. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這個應用程式提供了一種非常有趣的方式來探索音樂。沒有任何壓力，可以隨心所欲地創造。小圓點的互動和表情非常可愛，讓整個過程都充滿樂趣。很適合喜歡輕鬆玩音樂的朋友。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Интересная концепция, но очень мало функций. Это скорее интерактивная демонстрация, чем полноценное приложение. Хотелось бы больше возможностей для настройки голосов, инструментов или создания более сложных композиций. Быстро надоедает.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von BlobOpera! Es ist so ein geniales und kreatives Konzept. Man kann so leicht wunderschöne Harmonien erschaffen, und die Interaktion mit den Blobs ist einfach herrlich. Eine wirklich einzigartige und entspannende Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Une application très ludique pour s'initier aux harmonies. La simplicité est sa force, permettant à n'importe qui de créer de jolies mélodies. C'est plus un jouet musical qu'un jeu, mais il remplit parfaitement son rôle de divertissement et de découverte sonore.",
+      "date": "2023-05-10"
+    }
+  ]
+}

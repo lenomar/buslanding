@@ -1,0 +1,397 @@
+{
+  "title": "Bridges",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Alex Johnson",
+      "rating": 5,
+      "comment": "Bridges is an absolute masterpiece! The puzzles are incredibly clever and challenging, really making you think about physics and structure. I love the satisfying feeling of a perfectly built bridge holding under pressure. It's a fantastic brain-trainer and endlessly engaging. Highly recommend it!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Елена Смирнова",
+      "rating": 4,
+      "comment": "Очень умная и увлекательная головоломка. Концепция строительства мостов уникальна и хорошо реализована. Иногда кажется, что уровни слишком сложные, но это только добавляет интереса. Отличный способ скоротать время и потренировать мозг. Приятная графика.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Chloé Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est un pur délice! Bridges est d'une simplicité désarmante mais d'une profondeur stratégique incroyable. Chaque niveau est un nouveau défi stimulant, et la satisfaction de voir son pont tenir est immense. Parfait pour aiguiser l'esprit et se détendre à la fois!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist genial, aber die Steuerung ist manchmal hakelig und unpräzise, was bei präzisem Brückenbau frustrierend ist. Zudem gibt es zu viel Werbung, die den Spielfluss ständig unterbricht. Das trübt das Spielerlebnis erheblich. Schade um das Potenzial.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "Bridges真是太棒了！玩法簡潔直觀，但非常考驗物理知識和工程策略。每次成功建造一個穩固的橋樑都超有成就感。遊戲流暢，介面簡潔。是個讓人一玩就停不下來的益智遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A very solid and engaging puzzle game. It's easy to pick up, but the later levels offer a good challenge that really makes you think about structural integrity. The clean design is pleasing. Sometimes I wish there was a 'reset' button that was easier to access, but overall, it's a great mental exercise.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Андрей Козлов",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает, особенно на сложных уровнях. Это ужасно. Невозможно нормально пройти и нескольких головоломок. Разработчики, пожалуйста, исправьте эти технические проблемы! Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! Bridges ist so fesselnd und erfordert wirklich cleveres Denken über Statik. Man muss jeden Balken und jedes Seil gut überlegen. Es ist ein perfekter Gehirn-Trainer und macht dabei unglaublich viel Spaß. Suchtfaktor hoch, klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The minimalistic design is fantastic; it really focuses on the puzzle aspect. It's easy to get lost in the game trying to build the perfect bridge. Some levels are quite tricky, pushing your engineering skills. A very enjoyable and well-designed game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲概念很好，但關卡設計有時候感覺變化不大，容易玩膩。希望能增加更多不同類型的材料、地形或挑戰模式，讓遊戲保持新鮮感。目前就是個不錯的休閒小品，但缺乏長期吸引力。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Bridges! C'est le jeu parfait pour stimuler mon cerveau tout en me détendant. La simplicité du concept cache une profondeur stratégique incroyable. Chaque niveau est un défi unique et stimulant. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая головоломка. Правила простые, но чтобы построить прочный мост, нужно хорошо подумать. Отличный способ развить логическое мышление и провести время с пользой. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine absolute Zumutung! Die Menge an Werbung ist unerträglich und macht das Spielen unmöglich. Ständig wird man aus dem Spiel gerissen. Das Design ist simpel, aber das wird durch die aggressive Monetarisierung zunichte gemacht. Nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Bridges is deceptively simple and incredibly addictive! It perfectly blends relaxation with clever physics and structural puzzles. The feeling of finally constructing a stable bridge and watching cars cross is super satisfying. A true gem among mobile puzzle games, highly recommended for its clever design!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這遊戲非常考驗物理和工程概念。每個關卡都需要不同的策略才能解開，成功建造後很有成就感。雖然有時會卡關，但這也是挑戰的一部分。很適合喜歡動腦的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un bon jeu de puzzle pour passer le temps, mais il manque un peu de variété ou de nouveaux concepts après quelques niveaux. Le design est épuré, ce qui est bien, mais il pourrait être enrichi avec plus de modes ou des défis uniques. C'est sympa sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Bridges - это просто находка! Очень затягивающая и умная головоломка. Каждый ход имеет значение, и нужно постоянно думать на несколько шагов вперед. Графика минималистичная, но очень приятная. Настоятельно рекомендую всем любителям логических игр!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Einfach und doch tiefgründig. Man unterschätzt, wie viel Strategie und Verständnis für Physik in diesem Spiel steckt. Es ist perfekt, um kurz das Gehirn zu trainieren. Manchmal ist es frustrierend, wenn man eine Weile nicht weiterkommt, aber das macht den Reiz aus. Ein guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "This game becomes repetitive very quickly. The core mechanic is fine, but there's no real progression or new features like different materials or scenarios to keep it fresh. It feels like a very basic physics puzzle that lacks depth. I lost interest after a short while.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "玩Bridges讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的腦力訓練。每個關卡都很有挑戰性，成功解題後超有成就感。簡潔的設計也讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle basé sur la physique pour se détendre et stimuler son esprit. Les graphismes sont clairs et le gameplay est fluide. Les niveaux sont bien pensés et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif et satisfaisant à résoudre.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше режимов или целей, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины для длительного прохождения. Надеюсь на будущие обновления.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "Bridges ist einfach großartig! Es ist so intuitiv und man kann so viele verschiedene Strategien ausprobieren, um eine stabile Brücke zu bauen. Die Herausforderung, immer kompliziertere Puzzles zu meistern, ist süchtig machend. Ein fantastischer Denksport und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A smart and engaging physics puzzle game. It's easy to learn but difficult to master, which is the perfect combination. The sense of accomplishment when you solve a tricky level and your bridge holds is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "這個遊戲的廣告太多了，嚴重打斷遊戲流程。而且感覺不花錢就很难玩下去，非常失望。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! Bridges est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque puzzle est une nouvelle énigme à résoudre. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная головоломка с физикой. Правила простые, но уровни требуют продуманных конструкций. Хорошо подходит для расслабления и тренировки мозга. Единственное, хотелось бы больше разнообразия в видах материалов или целей.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Die Level sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "Bridges is an absolute gem! It's so simple yet incredibly strategic and addictive. The satisfaction of finally building a stable bridge under budget is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any puzzle game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於思考。它不僅考驗物理直覺，也需要一些策略性。玩起來很有新鮮感，每次成功解開都很有成就感。是一款值得推薦的物理益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Il n'y a pas assez de variété dans les objectifs ou les types de constructions. Ça manque de profondeur pour une rejouabilité à long terme. On fait le tour des possibilités rapidement, et l'ennui s'installe.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Bridges — это идеальная головоломка для развития логики и пространственного мышления. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Lösen konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout sur les niveaux plus complexes. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to perfectly build a bridge and watch the cars cross it safely! Bridges is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The minimalist design is sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗物理直覺和規劃能力的益智遊戲。雖然規則簡單，但要解開每個關卡需要深思熟慮。適合在碎片時間玩，也能訓練腦力。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от очень точного размещения элементов. Иногда это расстраивает. Если бы было больше способов решения или более мягкие допуски, было бы намного интереснее и справедливее.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Bridges! Es ist so ein geniales und herausforderndes Puzzle-Spiel. Man kann so leicht einsteigen, aber die Präzision und Strategie, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Un excellent jeu de réflexion pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque puzzle est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on Bridges! It's so satisfying to solve these puzzles. The physics feel spot on, and figuring out the most efficient design is a rewarding challenge. Highly recommended for anyone who loves thinking games.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid game. The difficulty curve is well-managed, and it introduces new elements effectively. It's calming but also quite stimulating. My only minor gripe is the limited budget on some levels, which can be a bit too restrictive.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "Bridges is pure joy! It combines creativity and logic perfectly. I love the freedom to design, and then seeing if my creation works. It's surprisingly relaxing, even when challenging. A must-play!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда мосты кажутся слишком хрупкими, даже если строишь по всем правилам. Хотелось бы более предсказуемой физики. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore Bridges! C'est un puzzle qui fait vraiment travailler les méninges. La sensation de construire un pont qui tient est super. Très bien conçu et addictif.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "Too many levels feel almost identical. It loses its appeal quickly when there's no real innovation. The core idea is fine, but it needs more varied mechanics or objectives to keep it from getting stale.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "物理ベースのパズルゲームとしてとてもよくできています。直感的で、様々な解法を試すのが楽しいです。たまに理不尽に感じることもありますが、全体的には素晴らしい体験です。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. Bridges est un puzzle game qui vous absorbe complètement. La satisfaction de voir les véhicules traverser un pont que vous avez conçu est incomparable. C'est un jeu intelligent et captivant.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Умная игра, которая развивает логику и пространственное мышление. Некоторые уровни довольно сложны, но тем интереснее их решать. Рекомендую любителям головоломок.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant physics puzzle. Bridges is incredibly satisfying. Each level feels like a genuine engineering challenge, and the 'Aha!' moment when you solve it is fantastic. Highly addictive and highly polished.",
+      "date": "2025-04-20"
+    }
+  ]
+}

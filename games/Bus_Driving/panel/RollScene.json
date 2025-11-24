@@ -1,0 +1,959 @@
+{
+  "type": "Scene",
+  "props": {
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 3
+    },
+    {
+      "type": "Box",
+      "props": {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      "compId": 4,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "top": 60,
+            "skin": "gameui/newUI/roll/title.png",
+            "name": "img_title",
+            "centerX": 21
+          },
+          "compId": 6
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 178,
+            "skin": "gameui/newUI/roll/diban.png",
+            "name": "img_bg",
+            "centerX": 74
+          },
+          "compId": 7
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 370,
+            "top": 132,
+            "skin": "gameui/newUI/roll/zhuanpan_di.png",
+            "rotation": 0,
+            "name": "img_roll",
+            "centerX": -328,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 8,
+          "child": [
+            {
+              "type": "Box",
+              "props": {
+                "y": 184,
+                "x": 47,
+                "rotation": -71,
+                "name": "box_item1"
+              },
+              "compId": 9,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "Coin",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 10,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+1000",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 11
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 61,
+                "rotation": -25,
+                "name": "box_item2",
+                "centerX": -79
+              },
+              "compId": 12,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "AP",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 13,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+9",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 14
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 33.5,
+                "x": 261,
+                "width": 122,
+                "rotation": 21,
+                "name": "box_item3",
+                "height": 75
+              },
+              "compId": 18,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 122,
+                    "skin": "gameui/newUI/car/car_201.png",
+                    "name": "img_car",
+                    "height": 75
+                  },
+                  "compId": 19
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "text": "Coin",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "centerX": -8,
+                    "bold": true
+                  },
+                  "compId": 20,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+1000",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 21
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 58,
+                    "x": 27,
+                    "width": 69,
+                    "skin": "gameui/newUI/pack/jinbi_dui_1.png",
+                    "scaleY": 0.8,
+                    "scaleX": 0.8,
+                    "name": "img_gold",
+                    "height": 60
+                  },
+                  "compId": 22
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 138,
+                "x": 414,
+                "rotation": 64,
+                "name": "box_item4"
+              },
+              "compId": 23,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "Coin",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 24,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+3000",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 25
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 293,
+                "rotation": 105,
+                "name": "box_item5",
+                "centerX": 214
+              },
+              "compId": 26,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "AP",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 27,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+5",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 28
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 415,
+                "x": 334,
+                "rotation": 153,
+                "name": "box_item6"
+              },
+              "compId": 29,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "text": "Coin",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 30,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+9000",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 31
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 443,
+                "x": 214,
+                "width": 122,
+                "rotation": 201,
+                "name": "box_item7",
+                "height": 75
+              },
+              "compId": 32,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "width": 122,
+                    "skin": "gameui/newUI/car/car_204.png",
+                    "name": "img_car",
+                    "height": 75
+                  },
+                  "compId": 33
+                },
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "text": "Coin",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "centerX": -8,
+                    "bold": true
+                  },
+                  "compId": 34,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+1000",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 35
+                    }
+                  ]
+                },
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 58,
+                    "x": 27,
+                    "width": 69,
+                    "skin": "gameui/newUI/pack/jinbi_dui_1.png",
+                    "scaleY": 0.8,
+                    "scaleX": 0.8,
+                    "name": "img_gold",
+                    "height": 60
+                  },
+                  "compId": 36
+                }
+              ]
+            },
+            {
+              "type": "Box",
+              "props": {
+                "y": 335,
+                "rotation": -115,
+                "name": "box_item8",
+                "centerX": -156
+              },
+              "compId": 37,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 27.783203125,
+                    "text": "AP",
+                    "strokeColor": "#000000",
+                    "stroke": 1,
+                    "name": "lab_desc",
+                    "height": 20,
+                    "fontSize": 20,
+                    "color": "#ffffff",
+                    "bold": true
+                  },
+                  "compId": 38,
+                  "child": [
+                    {
+                      "type": "Label",
+                      "props": {
+                        "text": "+3",
+                        "strokeColor": "#000000",
+                        "stroke": 1,
+                        "name": "lab_num",
+                        "fontSize": 20,
+                        "color": "#ffffff",
+                        "centerX": 0,
+                        "bottom": -22,
+                        "bold": true
+                      },
+                      "compId": 39
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 370,
+            "skin": "gameui/newUI/roll/zhuanpan_ding.png",
+            "name": "img_pointer",
+            "centerX": -328,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 40
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 254,
+            "skin": "gameui/newUI/roll/kuang_1.png",
+            "name": "img_kuang1",
+            "centerX": 24,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 43,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 68,
+                "x": 90,
+                "skin": "gameui/newUI/pack/jinbi_dui_2.png",
+                "name": "img_reward_icon1",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 44
+            },
+            {
+              "type": "Image",
+              "props": {
+                "width": 121,
+                "skin": "gameui/newUI/roll/btn_xiao.png",
+                "name": "img_get",
+                "height": 56,
+                "centerX": 0,
+                "bottom": 19,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 45,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 122,
+                    "valign": "middle",
+                    "text": "Claim",
+                    "name": "lab",
+                    "height": 55,
+                    "fontSize": 26,
+                    "color": "#ffffff",
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 0,
+            "top": 254,
+            "skin": "gameui/newUI/roll/kuang_2.png",
+            "name": "img_kuang2",
+            "centerX": 223,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 47,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 68,
+                "x": 90,
+                "width": 145,
+                "skin": "gameui/newUI/pack/jinbi_dui_2.png",
+                "name": "img_reward_icon2",
+                "height": 89,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 48
+            },
+            {
+              "type": "Image",
+              "props": {
+                "width": 121,
+                "skin": "gameui/newUI/roll/btn_xiao.png",
+                "name": "img_get",
+                "height": 56,
+                "centerX": -1,
+                "bottom": 19,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 49,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 122,
+                    "valign": "middle",
+                    "text": "Claim",
+                    "name": "lab",
+                    "height": 55,
+                    "fontSize": 26,
+                    "color": "#ffffff",
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 0,
+            "top": 254,
+            "skin": "gameui/newUI/roll/kuang_3.png",
+            "name": "img_kuang3",
+            "centerX": 420,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 51,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 68,
+                "x": 89,
+                "width": 145,
+                "name": "img_reward_icon3",
+                "height": 89,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 52
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 179,
+                "x": 89,
+                "skin": "gameui/newUI/roll/btn_xiao.png",
+                "name": "img_get",
+                "centerX": 0,
+                "bottom": 19,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 53,
+              "child": [
+                {
+                  "type": "Label",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 122,
+                    "valign": "middle",
+                    "text": "Claim",
+                    "name": "lab",
+                    "height": 55,
+                    "fontSize": 26,
+                    "color": "#ffffff",
+                    "bold": true,
+                    "align": "center"
+                  },
+                  "compId": 54
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "x": 1000,
+            "top": 504,
+            "skin": "gameui/newUI/roll/btn_da.png",
+            "name": "btnCloseTT",
+            "visible": false,
+            "centerX": 400,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 100,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "text": "Close",
+                "name": "lab",
+                "centerX": 0,
+                "fontSize": 32,
+                "color": "#ffffff",
+                "centerY": 0,
+                "bold": true
+              },
+              "compId": 102
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "x": 890,
+            "top": 504,
+            "skin": "gameui/newUI/roll/btn_da.png",
+            "name": "img_video",
+            "centerX": 223,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 55,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "skin": "gameui/newUI/roll/shipin.png",
+                "name": "shipin",
+                "left": 23,
+                "centerY": 0
+              },
+              "compId": 56
+            },
+            {
+              "type": "Label",
+              "props": {
+                "text": "Free",
+                "name": "lab",
+                "right": 61,
+                "fontSize": 32,
+                "color": "#ffffff",
+                "centerY": -3,
+                "bold": true
+              },
+              "compId": 57
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 68
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 537,
+            "x": 890,
+            "top": 504,
+            "skin": "gameui/newUI/roll/btn_da.png",
+            "name": "img_free",
+            "centerX": 223,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 75,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "width": 222,
+                "valign": "middle",
+                "text": "Free",
+                "name": "lab",
+                "right": -3,
+                "height": 63,
+                "fontSize": 32,
+                "color": "#ffffff",
+                "centerY": -3,
+                "bold": true,
+                "align": "center"
+              },
+              "compId": 77
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 78
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "top": 216,
+            "skin": "gameui/newUI/roll/jindu_1.png",
+            "name": "img_pro_bg",
+            "centerX": 213
+          },
+          "compId": 58,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "top": 0,
+                "skin": "gameui/newUI/roll/jindu_2.png",
+                "name": "img_pro",
+                "left": 1
+              },
+              "compId": 63,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 0,
+                    "skin": "gameui/newUI/roll/btn_xiao_2.png",
+                    "sizeGrid": "10,13,16,10",
+                    "renderType": "mask",
+                    "name": "img_pro_mask",
+                    "height": 20,
+                    "anchorY": 0,
+                    "anchorX": 0
+                  },
+                  "compId": 64
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Label",
+          "props": {
+            "top": 187,
+            "text": "2 rewards",
+            "name": "lab_reward_desc1",
+            "fontSize": 22,
+            "color": "#ffffff",
+            "centerX": 68
+          },
+          "compId": 59
+        },
+        {
+          "type": "Label",
+          "props": {
+            "y": 0,
+            "top": 187,
+            "text": "5 rewards",
+            "name": "lab_reward_desc2",
+            "fontSize": 22,
+            "color": "#ffffff",
+            "centerX": 225
+          },
+          "compId": 60
+        },
+        {
+          "type": "Label",
+          "props": {
+            "top": 187,
+            "text": "10 rewards",
+            "name": "lab_reward_desc3",
+            "fontSize": 22,
+            "color": "#ffee00",
+            "centerX": 442
+          },
+          "compId": 61
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 183,
+            "top": 160,
+            "skin": "gameui/newUI/roll/guanbi.png",
+            "name": "img_close",
+            "centerX": 528,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 62,
+          "child": [
+            {
+              "type": "Script",
+              "props": {
+                "y": 0,
+                "x": 0,
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 69
+            }
+          ]
+        },
+        {
+          "type": "Label",
+          "props": {
+            "valign": "middle",
+            "top": 525,
+            "text": "Last times: ",
+            "name": "lab_left_num",
+            "var": "lab_left_num",
+            "fontSize": 24,
+            "color": "#ffffff",
+            "centerX": -28,
+            "bold": true
+          },
+          "compId": 73,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "valign": "middle",
+                "top": 0,
+                "text": "2",
+                "name": "lab_left_num",
+                "left": 150,
+                "fontSize": 24,
+                "color": "#ffffff",
+                "bold": true
+              },
+              "compId": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/ui/RollScene.ts",
+        "lab_left_num": "@node:74",
+        "img_video": "@node:55",
+        "img_reward_icon3": "@node:52",
+        "img_reward_icon2": "@node:48",
+        "img_reward_icon1": "@node:44",
+        "img_pro_mask": "@node:64",
+        "img_pro": "@node:63",
+        "img_get3": "@node:53",
+        "img_get2": "@node:49",
+        "img_get1": "@node:45",
+        "img_free": "@node:75",
+        "img_close": "@node:62",
+        "box_item8": "@node:37",
+        "box_item7": "@node:32",
+        "box_item6": "@node:29",
+        "box_item5": "@node:26",
+        "box_item4": "@node:23",
+        "box_item3": "@node:18",
+        "box_item2": "@node:12",
+        "box_item1": "@node:9",
+        "btnCloseTT": "@node:100",
+        "lab_left_num_text": "@node:73",
+        "lab_reward_desc1": "@node:59",
+        "lab_reward_desc2": "@node:60",
+        "lab_reward_desc3": "@node:61"
+      },
+      "compId": 67
+    }
+  ],
+  "loadList": [
+    "gameui/newUI/roll/title.png",
+    "gameui/newUI/roll/diban.png",
+    "gameui/newUI/roll/zhuanpan_di.png",
+    "gameui/newUI/car/car_201.png",
+    "gameui/newUI/pack/jinbi_dui_1.png",
+    "gameui/newUI/car/car_204.png",
+    "gameui/newUI/roll/zhuanpan_ding.png",
+    "gameui/newUI/roll/kuang_1.png",
+    "gameui/newUI/pack/jinbi_dui_2.png",
+    "gameui/newUI/roll/btn_xiao.png",
+    "gameui/newUI/roll/kuang_2.png",
+    "gameui/newUI/roll/kuang_3.png",
+    "gameui/newUI/roll/btn_da.png",
+    "gameui/newUI/roll/shipin.png",
+    "gameui/newUI/roll/jindu_1.png",
+    "gameui/newUI/roll/jindu_2.png",
+    "gameui/newUI/roll/btn_xiao_2.png",
+    "gameui/newUI/roll/guanbi.png"
+  ],
+  "loadList3D": []
+}

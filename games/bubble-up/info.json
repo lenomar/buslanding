@@ -1,0 +1,421 @@
+{
+  "title": "Bubble-Up",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Sarah Johnson",
+      "rating": 5,
+      "comment": "Bubble-Up is my new obsession! It's so incredibly relaxing yet challenging. The vibrant colors and satisfying popping sounds make every level a joy. It's easy to pick up, but the puzzles get wonderfully intricate, keeping me hooked for hours. A perfect game for unwinding!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Алексей Смирнов",
+      "rating": 4,
+      "comment": "Очень милая и затягивающая игра. Графика приятная, шарики лопаются красиво. Иногда кажется, что уровни слишком быстро становятся сложными, но это держит в тонусе. Отличный способ скоротать время и расслабиться. Рекомендую.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Chloé Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est un pur délice! Bubble-Up est simple à comprendre mais diablement addictif. La satisfaction de voir les bulles éclater en cascade est immense. Les couleurs sont vives et l'ambiance est relaxante. Parfait pour se détendre et s'amuser!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist ganz nett, aber das Spiel ist leider völlig überladen mit Werbung. Es wird ständig unterbrochen, was den Spielfluss massiv stört und extrem frustrierend ist. Man kann sich kaum auf das Spiel konzentrieren. Schade um das Potenzial.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "Bubble-Up真的太好玩了！操作簡單直觀，但非常考驗策略和眼力。每次成功消除一大片泡泡都超有成就感，讓人停不下來。遊戲介面簡潔流暢，色彩繽紛。是個讓人放鬆又充滿樂趣的益智遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A very solid and engaging bubble shooter. It's easy to pick up and play for a few minutes, but the strategic depth keeps you coming back for more. The clean design and satisfying sounds make for a smooth experience. A great time-killer.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Елена Козлова",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает, особенно на более сложных уровнях. Это ужасно. Невозможно нормально пройти и нескольких головоломок. Разработчики, пожалуйста, исправьте эти технические проблемы! Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! Bubble-Up ist so fesselnd und erfordert wirklich cleveres Denken. Man muss jeden Schuss gut überlegen, um die perfekte Kaskade auszulösen. Es ist ein perfekter Gehirn-Trainer und macht dabei unglaublich viel Spaß. Suchtfaktor hoch, klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The minimalistic design is fantastic; it really focuses on the puzzle aspect. It's easy to get lost in the game trying to clear the board. Some levels are quite tricky, which adds to the challenge. A very enjoyable and well-designed game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲概念很好，但玩久了會覺得重複性有點高。希望能增加更多不同類型的泡泡、道具或特殊模式，讓遊戲保持新鮮感。目前就是個不錯的休閒小品，但缺乏長期吸引力。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Bubble-Up! C'est le jeu parfait pour stimuler mon cerveau tout en me détendant. La simplicité du concept cache une profondeur stratégique incroyable. Chaque niveau est un défi unique et stimulant. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая головоломка. Правила простые, но чтобы набрать много очков, нужно продумывать ходы. Иногда хотелось бы кнопки отмены хода для экспериментов. Отличный способ развить логическое мышление. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine absolute Zumutung wegen der unerträglichen Menge an Werbung. Man wird ständig aus dem Spiel gerissen, was den ganzen Spaß nimmt. Es ist frustrierend und macht einfach keinen Sinn, so viel Werbung einzublenden. Absolut nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Bubble-Up is deceptively simple and incredibly addictive! It perfectly blends relaxation with clever puzzle-solving. The feeling of clearing the board with a well-placed shot is super satisfying. A true gem among mobile puzzle games, highly recommended for its clever design!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這遊戲非常考驗眼力和策略。每次發射泡泡都需要精準判斷角度和落點。關卡設計有巧思，難度逐漸提升，讓人很有挑戰感。很適合喜歡泡泡龍和益智的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un bon jeu de puzzle pour passer le temps, mais il manque un peu de variété dans les modes de jeu ou de défis uniques. Le concept est solide, mais il pourrait être enrichi avec plus de fonctionnalités pour maintenir l'intérêt à long terme. C'est sympa sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Bubble-Up - это просто находка! Очень затягивающая и умная головоломка. Каждый выстрел имеет значение, и нужно постоянно думать на несколько шагов вперед. Графика минималистичная, но очень приятная. Настоятельно рекомендую всем любителям логических игр!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Einfach und doch tiefgründig. Man unterschätzt, wie viel Strategie in diesem Spiel steckt. Es ist perfekt, um kurz das Gehirn zu trainieren. Manchmal ist es frustrierend, wenn keine passenden Farben kommen, aber das macht den Reiz aus. Ein guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "This game becomes repetitive very quickly. The core mechanic is fine, but there's no real progression or new features to keep it fresh. It feels like a very basic bubble shooter that lacks depth. I lost interest after a short while.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "玩Bubble-Up讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的腦力訓練。每個關卡都很有挑戰性，成功解題後超有成就感。簡潔的設計也讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et stimuler son esprit. Les graphismes sont clairs et le gameplay est fluide. Les niveaux sont bien pensés et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif et satisfaisant à résoudre.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше режимов или целей, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины для длительного прохождения. Надеюсь на будущие обновления.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "Bubble-Up ist einfach großartig! Es ist so intuitiv und man kann so viele verschiedene Strategien ausprobieren. Die Herausforderung, immer kompliziertere Puzzles zu meistern, ist süchtig machend. Ein fantastischer Denksport und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A smart and engaging bubble puzzle game. It's easy to learn but difficult to master, which is the perfect combination. The sense of accomplishment when you solve a tricky level is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "這個遊戲的廣告太多了，嚴重打斷遊戲流程。而且感覺不花錢就很难玩下去，非常失望。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! Bubble-Up est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque puzzle est une nouvelle énigme à résoudre. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная головоломка. Правила простые, но уровни требуют продуманных ходов. Хорошо подходит для расслабления и тренировки мозга. Единственное, хотелось бы больше разнообразия в видах пузырьков или целей.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Die Level sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "Bubble-Up is an absolute gem! It's so simple yet incredibly strategic and addictive. The satisfaction of clearing the board with a precise shot is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any puzzle game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於思考。它不僅考驗眼力，也需要一些策略性。玩起來很有新鮮感，每次成功解開都很有成就感。是一款值得推薦的益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Il n'y a pas assez de variété dans les objectifs ou les types de bulles. Ça manque de profondeur pour une rejouabilité à long terme. On fait le tour des possibilités rapidement, et l'ennui s'installe.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Bubble-Up — это идеальная головоломка для развития логики и меткости. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Lösen konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout sur les niveaux plus complexes. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a whole section of bubbles with a well-aimed shot! Bubble-Up is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The vibrant visuals are sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗眼力、策略和預判能力的益智遊戲。雖然規則簡單，但要達到高分需要深思熟慮。適合在碎片時間玩，也能訓練腦力。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома цветов. Иногда просто невозможно сделать хороший ход, и это расстраивает. Если бы было больше контроля над ситуацией, было бы намного интереснее и справедливее.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Bubble-Up! Es ist so ein geniales und herausforderndes Puzzle-Spiel. Man kann so leicht einsteigen, aber die Strategie, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Un excellent jeu de réflexion pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque partie est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on Bubble-Up! It's so satisfying to clear these boards. The aiming mechanics feel spot on, and figuring out the optimal chain reaction is a rewarding challenge. Highly recommended for anyone who loves thinking games and quick sessions.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid game. The difficulty curve is well-managed, and it introduces new elements effectively. It's calming but also quite stimulating. My only minor gripe is the occasional ad interruption, but it's not too frequent. Overall, great for brain exercise.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "Bubble-Up is pure joy! It combines simple mechanics with strategic depth perfectly. I love the vibrant colors and satisfying sounds. It's surprisingly relaxing, even when challenging. A must-play for casual puzzle fans!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда кажется, что генерация цветов слишком рандомна, что делает уровни порой нечестными. Хотелось бы больше предсказуемости. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore Bubble-Up! C'est un puzzle qui fait vraiment travailler l'esprit et la précision. La sensation de faire éclater une grande chaîne de bulles est super. Très bien conçu et addictif. Idéal pour une petite pause.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "Too many levels feel almost identical, just with minor variations. It loses its appeal quickly when there's no real innovation. The core idea is fine, but it needs more varied mechanics or objectives to keep it from getting stale.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "シンプルなルールで非常に中毒性のあるパズルゲームです。色と連鎖を考えるのが楽しい。時々、あと一歩でクリアできない時の悔しさも良いスパイスです。全体的に満足しています。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. Bubble-Up est un puzzle game qui vous absorbe complètement. La satisfaction de vider un tableau est incomparable. C'est un jeu intelligent et captivant pour tous les âges.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Умная игра, которая развивает логику и точность. Некоторые уровни довольно сложны, но тем интереснее их решать. Рекомендую любителям головоломок и казуальных игр.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant and so satisfying. Bubble-Up is incredibly engaging. Each level feels like a genuine puzzle, and the 'Aha!' moment when you solve it perfectly is fantastic. Highly addictive and highly polished.",
+      "date": "2025-04-20"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/26.jpg",
+      "name": "Jessica Lee",
+      "rating": 4,
+      "comment": "Fun and colorful. It's a great little game to pass the time. The levels can get tricky, which I appreciate. Sometimes the ads are a bit much, but not enough to ruin the overall experience. Good for short breaks.",
+      "date": "2024-03-11"
+    },
+    {
+      "id": 51,
+      "avatar": "/files/37.jpg",
+      "name": "Carlos Gomez",
+      "rating": 3,
+      "comment": "Decent puzzle game, but after a while, it feels very repetitive. Needs more varied power-ups or special challenges to keep it interesting in the long run. Good for a quick play, but not for extended sessions.",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 52,
+      "avatar": "/files/48.jpg",
+      "name": "Linda Chen",
+      "rating": 5,
+      "comment": "So satisfying! Every pop is a delight. Bubble-Up is beautifully designed and endlessly entertaining. It's easy to get lost in the flow of clearing bubbles and planning your next move. Absolutely love it!",
+      "date": "2025-01-08"
+    }
+  ]
+}

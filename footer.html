@@ -1,0 +1,160 @@
+<footer>
+    <div class="footer-content">
+        <div class="footer-left">
+            <p>© 2020 - 2025 BusLanding.com</p>
+            <p class="footer-links"><a href="privacy_policy.html" target="_blank">Privacy Policy</a> | <a href="instructions.html" class="nav-button">Game Instructions</a></p>
+        </div>
+
+        <div class="share-section">
+            <p>Share the joy with your friends：</p>
+            <ul class="social-share-icons">
+                <li>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=" target="_blank" title="Share on Facebook">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/intent/tweet?url=" target="_blank" title="Share on X (Twitter)">
+                        <i class="fab fa-x-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://pinterest.com/pin/create/button/?url=" target="_blank" title="Share on Pinterest">
+                        <i class="fab fa-pinterest"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=" target="_blank" title="Share on LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto:?subject=Check out this game!&body=" title="Share via Email">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // 获取当前页面的 URL
+        const currentPageUrl = encodeURIComponent(window.location.href);
+
+        // 更新分享链接的 URL
+        document.querySelectorAll('.social-share-icons a').forEach(link => {
+            let originalHref = link.getAttribute('href');
+            if (originalHref.includes('?url=')) {
+                link.setAttribute('href', originalHref + currentPageUrl);
+            } else if (originalHref.includes('&body=')) { // For mailto links
+                link.setAttribute('href', originalHref + currentPageUrl);
+            }
+        });
+    </script>
+
+    <style>
+        footer {
+            background-color: var(--primary-color); /* Make footer background dark for white text/icons */
+            color: #fff; /* Default text color for footer */
+            padding: 20px 0;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between; /* Distribute left and right content */
+            align-items: center; /* Vertically align items */
+            max-width: 1200px; /* Optional: limit width like your main content */
+            margin: 0 auto; /* Center the content */
+            padding: 0 20px; /* Add some horizontal padding */
+            flex-wrap: wrap; /* Allow wrapping on smaller screens */
+        }
+
+        .footer-left {
+            text-align: left;
+            flex-grow: 1; /* Allow left part to grow */
+            margin-bottom: 10px; /* Space for wrap on small screens */
+        }
+
+        .footer-left p {
+            margin: 5px 0; /* Adjust spacing for paragraphs */
+        }
+
+        .footer-left .footer-links a {
+            color: #fff; /* White links */
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-left .footer-links a:hover {
+            color: #007bff; /* Hover color for links */
+        }
+
+        .share-section {
+            text-align: right; /* Align share section to the right */
+            margin-top: 0; /* Reset margin */
+            padding-top: 0; /* Reset padding */
+            border-top: none; /* Remove border-top */
+            display: flex; /* Use flex for inner alignment */
+            align-items: center; /* Vertically align text and icons */
+            gap: 15px; /* Space between text and icons */
+            flex-wrap: wrap; /* Allow wrapping for icons on smaller screens */
+            justify-content: flex-end; /* Align content to the right when wrapped */
+        }
+
+        .share-section p {
+            font-size: 1.1em;
+            margin-bottom: 0; /* Remove bottom margin for text */
+            color: #fff; /* White text */
+        }
+
+        .social-share-icons {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: flex-end; /* Align icons to the right */
+            gap: 20px; /* Space between icons */
+        }
+
+        .social-share-icons li {
+            display: inline-block;
+        }
+
+        .social-share-icons a {
+            color: #fff; /* White icon color */
+            font-size: 2em; /* Icon size */
+            transition: color 0.3s ease;
+        }
+
+        .social-share-icons a:hover {
+            color: #007bff; /* Hover color for icons */
+        }
+
+        /* Specific colors for branding (optional, but keep hover white if you want pure white) */
+        .social-share-icons .fa-facebook:hover { color: #fff; } /* Keep white on hover */
+        .social-share-icons .fa-x-twitter:hover { color: #fff; } /* Keep white on hover */
+        .social-share-icons .fa-pinterest:hover { color: #fff; }
+        .social-share-icons .fa-linkedin:hover { color: #fff; }
+        .social-share-icons .fa-envelope:hover { color: #fff; }
+
+        /* Media query for smaller screens: stack content */
+        @media (max-width: 768px) {
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .footer-left,
+            .share-section {
+                text-align: center;
+                width: 100%; /* Take full width */
+                margin-bottom: 15px; /* Add space between stacked sections */
+                justify-content: center; /* Center items for share section */
+            }
+
+            .share-section p {
+                margin-bottom: 10px; /* Add some space between text and icons when stacked */
+            }
+        }
+    </style>
+</footer>

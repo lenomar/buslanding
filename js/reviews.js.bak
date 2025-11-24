@@ -1,0 +1,201 @@
+// js/reviews.js
+
+// 初始化评价系统
+function initReviews(reviews) {
+    const reviewsContainer = document.getElementById('reviews-container');
+    const averageRatingStars = document.getElementById('average-rating-stars');
+    const averageRatingValue = document.getElementById('average-rating-value');
+    const totalReviews = document.getElementById('total-reviews');
+    const prevPageBtn = document.getElementById('prev-page');
+    const nextPageBtn = document.getElementById('next-page');
+    const pageInfo = document.getElementById('page-info');
+
+    let currentPage = 1;
+    const reviewsPerPage = 10;
+    const totalPages = Math.ceil(reviews.length / reviewsPerPage);
+
+    // 计算平均评分
+    const averageRating = reviews.reduce((sum, review) => sum + review.rating, 0) / reviews.length;
+    averageRatingValue.textContent = averageRating.toFixed(1);
+    totalReviews.textContent = `(${reviews.length} reviews)`;
+
+    // 显示平均评分星星
+    renderAverageStars(averageRating);
+
+    // 渲染评价
+    function renderReviews() {
+        reviewsContainer.innerHTML = '';
+        const start = (currentPage - 1) * reviewsPerPage;
+        const end = start + reviewsPerPage;
+        const pageReviews = reviews.slice(start, end);
+
+        if (pageReviews.length === 0) {
+            reviewsContainer.innerHTML = '<p class="no-reviews">No reviews to display</p>';
+            return;
+        }
+
+        pageReviews.forEach(review => {
+            const reviewCard = createReviewCard(review);
+            reviewsContainer.appendChild(reviewCard);
+        });
+
+        // 更新分页信息
+        updatePaginationInfo();
+    }
+
+    // 创建评价卡片
+    function createReviewCard(review) {
+        const reviewCard = document.createElement('div');
+        reviewCard.className = 'review-card';
+        reviewCard.innerHTML = `
+            <img src="${review.avatar}" alt="${review.name}" class="review-avatar" onerror="this.src='/images/default-avatar.jpg'">
+            <div class="review-content">
+                <div class="review-header">
+                    <span class="review-name">${review.name}</span>
+                </div>
+                <div class="review-rating">
+                    ${'<i class="fas fa-star filled"></i>'.repeat(review.rating)}
+                    ${'<i class="fas fa-star gray"></i>'.repeat(5 - review.rating)}
+                </div>
+                <p class="review-comment">${review.comment}</p>
+            </div>
+        `;
+        return reviewCard;
+    }
+
+    // 渲染平均评分星星
+    function renderAverageStars(averageRating) {
+        averageRatingStars.innerHTML = '';
+        const fullStars = Math.floor(averageRating);
+        const hasHalfStar = averageRating % 1 >= 0.5;
+
+        for (let i = 1; i <= 5; i++) {
+            const star = document.createElement('i');
+            if (i <= fullStars) {
+                star.className = 'fas fa-star filled';
+            } else if (i === fullStars + 1 && hasHalfStar) {
+                star.className = 'fas fa-star-half-alt filled';
+            } else {
+                star.className = 'fas fa-star gray';
+            }
+            averageRatingStars.appendChild(star);
+        }
+    }
+
+    // 更新分页信息
+    function updatePaginationInfo() {
+        pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+        prevPageBtn.disabled = currentPage === 1;
+        nextPageBtn.disabled = currentPage === totalPages;
+    }
+
+    // 分页按钮事件
+    prevPageBtn.addEventListener('click', () => {
+        if (currentPage > 1) {
+            currentPage--;
+            renderReviews();
+        }
+    });
+
+    nextPageBtn.addEventListener('click', () => {
+        if (currentPage < totalPages) {
+            currentPage++;
+            renderReviews();
+        }
+    });
+
+    // 初始渲染
+    renderReviews();
+}
+
+// 详情页初始化
+function initDetailPage() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const gameId = urlParams.get('id');
+
+    if (!gameId) {
+        window.location.href = 'list.html';
+        return;
+    }
+
+    const game = gamesData.gameList.find(g => g.folder === gameId);
+    if (!game) {
+        window.location.href = 'list.html';
+        return;
+    }
+
+    // 设置游戏信息
+    document.getElementById('game-title').textContent = game.title;
+    document.getElementById('game-author').textContent = game.author || 'Unknown';
+    document.getElementById('game-rating').textContent = game.rating || '0';
+    document.getElementById('game-popularity').textContent = game.popularity || '0';
+    document.getElementById('game-description').textContent = game.description || 'No description available.';
+
+    // 加载游戏攻略
+    document.getElementById('strategy-guide').innerHTML = game.strategy_guide || 'No strategy guide available.';
+
+    // 加载当前游戏
+    const gameContainer = document.getElementById('game-container');
+    const gameTitle = document.getElementById('game-title');
+    const gameDescription = document.getElementById('game-description');
+
+    gameTitle.textContent = game.title;
+    gameDescription.textContent = game.description || 'Explore and enjoy the game!';
+    // 点击播放按钮加载游戏
+    const playGameContainer = document.getElementById('play-game-button');
+
+    if (gameContainer) {
+        playGameContainer.addEventListener('click', function () {
+            gameContainer.innerHTML = '';
+            const iframe = document.createElement('iframe');
+            iframe.src = game.index;
+            iframe.frameBorder = '0';
+            iframe.style.width = '100%';
+            iframe.style.height = '100%';
+            iframe.title = game.title;
+            gameContainer.appendChild(iframe);
+        });
+    }
+
+    // 加载游戏评价数据
+    console.log("加载游戏评价数据:" + game.info);
+    fetch(game.info) // 修改了这里，直接使用game.info字段
+        .then(response => response.json())
+        .then(reviewData => {
+            if (reviewData.reviews && reviewData.reviews.length > 0) {
+                initReviews(reviewData.reviews);
+            } else {
+                document.querySelector('.game-reviews').innerHTML = '<p class="no-reviews">No reviews yet</p>';
+            }
+        })
+        .catch(error => {
+            console.error('Failed to load reviews:', error);
+            document.querySelector('.game-reviews').innerHTML = '<p class="no-reviews">Failed to load reviews</p>';
+        });
+
+    // 加载其他推荐游戏
+    const relatedContainer = document.getElementById('related-games-container');
+    if (relatedContainer && gamesData.gameList) {
+        relatedContainer.innerHTML = '';
+
+        const relatedGames = gamesData.gameList.filter(
+            g => g.folder !== gameId
+        ).slice(0, 5);
+
+        if (relatedGames.length > 0) {
+            relatedGames.forEach(relatedGame => {
+                const card = createGameCard(relatedGame);
+                relatedContainer.appendChild(card);
+            });
+        } else {
+            relatedContainer.innerHTML = '<p class="no-games">No related games</p>';
+        }
+    }
+}
+
+// 确保gamesData已加载
+if (typeof gamesData !== 'undefined' && gamesData.gameList) {
+    initDetailPage();
+} else {
+    window.addEventListener('gamesDataLoaded', initDetailPage);
+}

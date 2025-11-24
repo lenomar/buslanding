@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>shop/ok.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,495},{80,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,40}</string>
+			</dict>
+			<key>shop/bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{590,327}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{590,327}</string>
+			</dict>
+			<key>shop/bg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{593,1},{590,135}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{590,135}</string>
+			</dict>
+			<key>shop/bg3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,1},{245,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{245,45}</string>
+			</dict>
+			<key>shop/bg4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,248},{245,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{245,45}</string>
+			</dict>
+			<key>shop/price1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{854,147},{101,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,36}</string>
+			</dict>
+			<key>shop/price2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{833,185},{97,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,36}</string>
+			</dict>
+			<key>shop/price3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,185},{101,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,36}</string>
+			</dict>
+			<key>shop/price4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,147},{122,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,36}</string>
+			</dict>
+			<key>shop/priceicon1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,74},{222,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{222,71}</string>
+			</dict>
+			<key>shop/priceicon2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,1},{242,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,71}</string>
+			</dict>
+			<key>shop/priceicon3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{730,248},{242,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{242,71}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>fbpayshopplist.png</string>
+			<key>realTextureFileName</key>
+			<string>fbpayshopplist.png</string>
+			<key>size</key>
+			<string>{1020,592}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1020</integer>
+			<key>height</key>
+			<integer>592</integer>
+		</dict>
+	</dict>
+</plist>

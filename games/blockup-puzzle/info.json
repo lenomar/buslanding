@@ -1,0 +1,317 @@
+{
+  "title": "Blockup-Puzzle",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Emily Johnson",
+      "rating": 5,
+      "comment": "Blockup-Puzzle is my new favorite! It's so simple to understand but incredibly challenging and strategic. I love how it makes me think ahead to clear lines and get high scores. The clean design is a big plus. Perfect for unwinding after a long day or for quick brain teasers!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Алексей Смирнов",
+      "rating": 4,
+      "comment": "Очень увлекательная и затягивающая головоломка. Правила простые, но комбинации блоков заставляют серьезно подумать. Иногда кажется, что удача играет слишком большую роль, но это не сильно портит впечатление. Отличный тайм-киллер.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Chloé Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est une merveille! Blockup-Puzzle est d'une simplicité désarmante mais d'une profondeur stratégique incroyable. Chaque partie est un défi unique qui stimule mon cerveau. La satisfaction de vider le tableau est immense. Un must-have pour les fans de puzzles!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Maximilian Weber",
+      "rating": 2,
+      "comment": "Die Idee ist ganz nett, aber das Spiel ist leider völlig überladen mit Werbung. Es wird ständig unterbrochen, was den Spielfluss massiv stört und extrem frustrierend ist. Man kann sich kaum auf das Puzzle konzentrieren. Schade um das Potenzial.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳美玲",
+      "rating": 5,
+      "comment": "Blockup-Puzzle真的太好玩了！玩法直觀，但非常考驗邏輯和策略。每次成功消除一大片方塊都超有成就感，讓人停不下來。遊戲介面簡潔流暢，是個可以玩很久的益智遊戲，強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Liam Carter",
+      "rating": 4,
+      "comment": "A very solid and engaging block puzzle. It's easy to pick up and play for a few minutes, but the strategic depth keeps you coming back for more. The clean design and responsive controls make for a smooth experience. A great mental exercise.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Елена Козлова",
+      "rating": 1,
+      "comment": "Игра постоянно зависает и вылетает. Невозможно нормально играть, особенно когда доходишь до высоких счетов. Это очень раздражает. Разработчики, пожалуйста, исправьте эти технические проблемы. Пока это не сделано, это просто пустая трата времени.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Anna Schmidt",
+      "rating": 5,
+      "comment": "Absolut genial! Blockup-Puzzle ist so fesselnd und erfordert wirklich strategisches Denken. Man muss jeden Zug gut überlegen, um die perfekte Anordnung zu finden. Es ist ein perfekter Gehirn-Trainer und macht dabei unglaublich viel Spaß. Suchtfaktor hoch, klare Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Lucas Rodriguez",
+      "rating": 4,
+      "comment": "The minimalistic design is fantastic; it really focuses on the puzzle aspect. It's easy to get lost in the game trying to beat your high score. Sometimes the random block generation can be a bit frustrating, but that adds to the challenge. A very enjoyable puzzle game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "王國華",
+      "rating": 3,
+      "comment": "遊戲概念不錯，但玩久了會覺得重複性有點高。希望能有更多元的模式，或者加入一些特殊方塊來增加變化。雖然可以打發時間，但缺乏一些長期吸引力。期待未來的更新。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Antoine Martin",
+      "rating": 5,
+      "comment": "Je suis complètement accro à Blockup-Puzzle! C'est le jeu parfait pour stimuler mon cerveau tout en me détendant. La simplicité du concept cache une profondeur stratégique incroyable. Chaque partie est un défi unique et stimulant. Un excellent passe-temps!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Ольга Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая головоломка. Правила простые, но чтобы набрать много очков, нужно продумывать ходы. Иногда хотелось бы кнопки отмены хода для экспериментов. Отличный способ развить логическое мышление. Рекомендую.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Sophie Schulz",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine absolute Zumutung wegen der unerträglichen Menge an Werbung. Man wird ständig aus dem Spiel gerissen, was den ganzen Spaß nimmt. Es ist frustrierend und macht einfach keinen Sinn, so viel Werbung einzublenden. Nicht zu empfehlen!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Blockup-Puzzle is deceptively simple and incredibly addictive! It perfectly blends relaxation with strategic thinking. The feeling of clearing multiple lines and achieving a high score is super satisfying. A true gem among mobile puzzle games, highly recommended!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "林志傑",
+      "rating": 4,
+      "comment": "這遊戲非常考驗空間感和預判能力。每次擺放方塊都需要思考如何最大化消除，而且要預留後面的空間。雖然有時會遇到死局，但這也是挑戰的一部分。很適合喜歡動腦的玩家。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Leroy",
+      "rating": 3,
+      "comment": "Un jeu de puzzle correct pour passer le temps, mais il manque un peu de variété dans les modes de jeu ou de défis uniques. Le concept est solide, mais il pourrait être enrichi pour maintenir l'intérêt à long terme. C'est bien, sans être exceptionnel.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Blockup-Puzzle - это просто находка! Очень затягивающая и умная головоломка. Каждый ход имеет значение, и нужно постоянно думать на несколько шагов вперед. Графика минималистичная, но очень приятная. Настоятельно рекомендую всем любителям логических игр!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Jonas Fischer",
+      "rating": 4,
+      "comment": "Einfach und doch tiefgründig. Man unterschätzt, wie viel Strategie in diesem Spiel steckt. Es ist perfekt, um kurz das Gehirn zu trainieren. Manchmal ist es frustrierend, wenn keine passenden Blöcke kommen, aber das gehört dazu. Ein guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Sophia Brown",
+      "rating": 2,
+      "comment": "This game quickly becomes repetitive and boring. The core mechanic is fine, but there's no real progression, new features, or different game modes to keep it fresh. It feels like a very basic puzzle game that lacks depth. I lost interest quickly.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅君",
+      "rating": 5,
+      "comment": "玩Blockup-Puzzle讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的腦力訓練。每次成功達成高分都很有成就感，簡潔的設計也讓人能更專注於遊戲本身。非常推薦給喜歡挑戰的玩家。",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Camille Dupont",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et stimuler son esprit. Les graphismes sont clairs et le gameplay est fluide. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif et satisfaisant à résoudre.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Максим Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но однообразная. Хотелось бы больше режимов или целей, чтобы дольше удерживать интерес. Для коротких сессий подходит, но не хватает глубины для длительного прохождения. Надеюсь на будущие обновления.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Laura Wagner",
+      "rating": 5,
+      "comment": "Blockup-Puzzle ist einfach großartig! Es ist so intuitiv und man kann so viele verschiedene Strategien ausprobieren. Die Herausforderung, immer höhere Punktzahlen zu erreichen, ist süchtig machend. Ein fantastischer Denksport und eine tolle Möglichkeit, sich zu entspannen.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "David Clark",
+      "rating": 4,
+      "comment": "A smart and engaging block puzzle. It's easy to learn but hard to master, which is the perfect combination. The sense of accomplishment when you clear multiple lines is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳家豪",
+      "rating": 1,
+      "comment": "這個遊戲的廣告太多了，嚴重打斷遊戲流程。而且感覺不花錢就很难玩下去，非常失望。玩不到幾分鐘就會被廣告轟炸，完全沒辦法享受遊戲。不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Léo Gauthier",
+      "rating": 5,
+      "comment": "Fantastique! Blockup-Puzzle est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque partie est une nouvelle énigme à résoudre. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная головоломка для развития логики. Правила простые, но уровни требуют продуманных ходов. Хорошо подходит для расслабления и тренировки мозга. Единственное, хотелось бы больше разнообразия в видах блоков или бонусах.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett, aber es fehlt der besondere Reiz. Die Level sind sich zu ähnlich, und es gibt kaum neue Elemente, die überraschen. Für zwischendurch ist es okay, aber es hält nicht lange bei der Stange. Könnte mehr Abwechslung gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Jessica Taylor",
+      "rating": 5,
+      "comment": "Blockup-Puzzle is an absolute gem! It's so simple yet incredibly strategic and addictive. The satisfaction of clearing multiple lines with a single move is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any puzzle game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於思考。它不僅考驗空間排列能力，也需要一些策略性。雖然是傳統的方塊消除，但玩起來很有新鮮感，每次突破高分都很有成就感。值得推薦。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant. Il n'y a pas assez de variété dans les objectifs ou les types de blocs. Ça manque de profondeur pour une rejouabilité à long terme. On fait le tour des possibilités rapidement, et l'ennui s'installe.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! Blockup-Puzzle — это идеальная головоломка для развития логики и стратегического мышления. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Richter",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Lösen konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Sophie Martin",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a whole board with a perfectly placed block! Blockup-Puzzle is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The minimalist design is sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗邏輯和規劃能力的益智遊戲。雖然規則簡單，但要達到高分需要深思熟慮。適合在碎片時間玩，也能訓練腦力。畫面簡潔，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Николаев",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома блоков. Иногда просто невозможно сделать хороший ход, и это расстраивает. Если бы было больше контроля над ситуацией, было бы намного интереснее и справедливее.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Anna Wagner",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von Blockup-Puzzle! Es ist so ein geniales und herausforderndes Puzzle-Spiel. Man kann so leicht einsteigen, aber die Strategie, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Alexandre Fournier",
+      "rating": 4,
+      "comment": "Un excellent jeu de réflexion pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque partie est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    }
+  ]
+}

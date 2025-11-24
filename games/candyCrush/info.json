@@ -1,0 +1,461 @@
+{
+  "title": "CandyCrush",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Ethan Johnson",
+      "rating": 5,
+      "comment": "CandyCrush is simply timeless! I've been playing for years, and it still manages to surprise me with new levels and challenges. The strategy involved in making those big combos is incredibly satisfying, and it's my go-to for relaxing. A true classic for a reason!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Анастасия Козлова",
+      "rating": 4,
+      "comment": "Очень затягивающая и хорошо сделанная игра. Уровни разнообразные, хотя иногда бывают очень сложные, но это и держит интерес. Графика яркая и приятная, звуки тоже. Отлично подходит, чтобы скоротать время, но иногда слишком много просит денег.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Léa Martin",
+      "rating": 5,
+      "comment": "Ce jeu est une pure merveille! CandyCrush est toujours aussi addictif. J'adore les nouveaux défis et les événements. Les explosions de bonbons sont incroyablement satisfaisantes et c'est un excellent moyen de se détendre. Un classique indémodable!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Felix Schmidt",
+      "rating": 2,
+      "comment": "Die Suchtspirale ist real, aber die aggressive Monetarisierung und die unverschämt vielen Anzeigen machen das Spielerlebnis kaputt. Man wird ständig zum Kauf gedrängt oder mit Werbung bombardiert. Das frustriert mehr, als es Spaß macht. Schade ums Grundkonzept.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "張家豪",
+      "rating": 5,
+      "comment": "CandyCrush真的是經典中的經典！不斷有新的關卡和活動，讓遊戲永遠保持新鮮感。消除的特效和音效都很棒，玩起來非常解壓。強烈推薦給所有喜歡益智遊戲的朋友！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Olivia Davis",
+      "rating": 4,
+      "comment": "Still a solid game after all these years. The new levels keep it fresh, and the challenge is just right – tough enough to be engaging, but not impossible. The visuals are charming, and it's a perfect casual game for unwinding.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Иванов",
+      "rating": 1,
+      "comment": "Игра стала слишком жадной. Постоянно заканчиваются ходы, и тебя вынуждают покупать бустеры или жизни. Реклама тоже стала невыносимой. Раньше было лучше, сейчас играть невозможно без вложений. Очень разочарован.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Sophie Wagner",
+      "rating": 5,
+      "comment": "Absolut genial! CandyCrush ist und bleibt mein Lieblingsspiel. Es ist süchtig machend, entspannend und fordert gleichzeitig das Gehirn. Die Vielfalt der Level und die süßen Grafiken sind einfach perfekt. Klare, ewige Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Noah Brown",
+      "rating": 4,
+      "comment": "The consistent updates keep this game feeling fresh. It’s still highly addictive, and the challenge levels are well-balanced. It can get a bit frustrating on some levels when you're out of moves, but overall, it's a great puzzle game.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "經典遊戲，但現在感覺越來越難玩，不花錢很難過關。關卡設計也開始有點重複，希望能多點創新。雖然還是會玩，但沒有以前那麼投入了。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Hugo Leclerc",
+      "rating": 5,
+      "comment": "Je suis complètement accro à CandyCrush, même après toutes ces années! C'est le jeu parfait pour se détendre et se lancer des défis. Les niveaux sont toujours plus inventifs et les combos incroyablement satisfaisants. Un classique indétrônable!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Елена Соколова",
+      "rating": 4,
+      "comment": "Очень хорошая и затягивающая игра. Иногда уровни кажутся несправедливо сложными, но это часть вызова. Приятная графика и звуки. Хороший способ отвлечься и расслабиться.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Fabian Meier",
+      "rating": 1,
+      "comment": "Dieses Spiel ist eine Frechheit. Es zwingt einen förmlich dazu, Geld auszugeben, um weiterzukommen. Die Schwierigkeit ist künstlich hoch, um Käufe zu provozieren. Zudem gibt es zu viel Werbung. Absolut nicht empfehlenswert und eine reine Geldmaschine!",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Isabella Clark",
+      "rating": 5,
+      "comment": "CandyCrush is a masterpiece! It finds the perfect balance between casual fun and strategic depth. The constant updates with new levels and challenges keep me hooked. The satisfying sound effects and colorful graphics never get old. A true classic!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "陳偉倫",
+      "rating": 4,
+      "comment": "這遊戲的關卡設計很棒，每次都能帶來新的思考。雖然有些關卡需要花費一些時間和嘗試才能過，但成功的那一刻很有成就感。畫面繽紛，音樂輕鬆，是個很棒的休閒遊戲。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Victor Bernard",
+      "rating": 3,
+      "comment": "Un bon jeu pour passer le temps, mais il faut être patient car certains niveaux sont très difficiles sans dépenser. Le côté pay-to-win devient un peu frustrant à la longue. C'est dommage, car le concept de base est vraiment bon.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Мария Смирнова",
+      "rating": 5,
+      "comment": "CandyCrush - это моя постоянная любимица! Она всегда приносит радость и расслабление. Уровни никогда не надоедают, а чувство, когда делаешь супер-комбо, просто непередаваемо. Настоятельно рекомендую всем, кто ищет качественную головоломку!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Julia Müller",
+      "rating": 4,
+      "comment": "Einfach und doch fesselnd. Die Level sind super für zwischendurch und man versucht immer, das nächste Ziel zu erreichen. Es ist perfekt, um kurz abzuschalten und das Gehirn zu trainieren. Manchmal hart, aber immer motivierend. Guter Zeitvertreib.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Ryan White",
+      "rating": 2,
+      "comment": "The game has become too focused on pushing in-app purchases. Levels are designed to make you run out of moves, forcing you to buy boosters. It's less about skill now and more about how much you're willing to spend. Very frustrating.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "林依婷",
+      "rating": 5,
+      "comment": "玩CandyCrush讓我完全沉浸其中！它不僅是個殺時間的遊戲，更是個極佳的解壓工具。每個關卡都充滿驚喜，成功闖關後超有成就感。精緻的畫面也讓人能更專注於遊戲本身。非常推薦！",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Arthur Dubois",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle pour se détendre et se challenger. Les graphismes sont clairs et le gameplay est fluide. Les niveaux sont bien pensés et offrent un bon défi. C'est parfait pour quelques minutes de pause ou des sessions plus longues. Très addictif.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Сергей Кузнецов",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома, что расстраивает на сложных уровнях. Хотелось бы больше предсказуемости. Для коротких сессий подходит, но не хватает глубины для длительного прохождения.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Hannah Koch",
+      "rating": 5,
+      "comment": "CandyCrush ist einfach großartig! Die Level sind genial und immer wieder aufs Neue herausfordernd. Es ist so intuitiv und man kann einfach immer weiterspielen. Ein fantastischer Zeitvertreib und eine tolle Möglichkeit, sich zu entspannen und das Gehirn zu fordern.",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Taylor",
+      "rating": 4,
+      "comment": "A smart and engaging match-3 game. It's easy to learn but challenging to master, which is the perfect combination. The sense of accomplishment when you clear a tricky level is very satisfying. Great for exercising your mind in short bursts.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "王小明",
+      "rating": 1,
+      "comment": "這個遊戲的內購設計太過分了，不花錢根本玩不下去。難度調得很高，擺明就是逼你花錢買道具。廣告也很多。非常失望，不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Manon Lefebvre",
+      "rating": 5,
+      "comment": "Fantastique! CandyCrush est incroyablement bien conçu, simple mais avec une profondeur stratégique surprenante. Chaque puzzle est une nouvelle énigme à résoudre. C'est un jeu que l'on ne peut pas lâcher. Bravo aux créateurs pour ce puzzle addictif et relaxant!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Екатерина Соколова",
+      "rating": 4,
+      "comment": "Очень приятная игра. Правила простые, но уровни требуют продуманных ходов. Хорошо подходит для расслабления и тренировки мозга. Единственное, иногда хотелось бы больше бесплатных бустеров.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Lukas Koch",
+      "rating": 3,
+      "comment": "Das Spiel ist ganz nett für zwischendurch, aber die aggressiven In-App-Käufe und die Werbung trüben den Spaß. Die Level werden künstlich schwer, um zum Kauf zu animieren. Für Gelegenheitsspieler okay, aber nicht für Dauerzocker.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Mia Thompson",
+      "rating": 5,
+      "comment": "CandyCrush is an absolute gem! It's so simple yet incredibly strategic and addictive. The satisfaction of clearing the board with a perfectly planned cascade is just fantastic. It's a perfect blend of casual fun and mental challenge. Highly recommended for any puzzle game lover!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "高雅雯",
+      "rating": 4,
+      "comment": "這遊戲簡潔的設計讓人可以專注於思考。它不僅考驗眼力，也需要一些策略性。玩起來很有新鮮感，每次成功解開都很有成就感。是一款值得推薦的益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Julien Petit",
+      "rating": 2,
+      "comment": "Devient vite répétitif et lassant sans dépenser d'argent. Les niveaux sont clairement conçus pour vous faire acheter des vies ou des boosters. C'est dommage car le gameplay de base est bon, mais l'aspect commercial gâche tout.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Иван Васильев",
+      "rating": 5,
+      "comment": "Это просто великолепно! CandyCrush — это идеальная головоломка для развития логики и терпения. Простой, но глубокий геймплей, который очень сильно затягивает. Время пролетает незаметно. Настоящий хит!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Tobias Braun",
+      "rating": 4,
+      "comment": "Ein sehr unterhaltsames Puzzle-Spiel, das sowohl entspannend als auch herausfordernd ist. Die einfache Grafik lenkt nicht ab, und man kann sich voll auf das Lösen konzentrieren. Ein guter Zeitvertreib, der das Gehirn auf Trab hält.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Emma Rousseau",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais il y a parfois des bugs ou des ralentissements qui gâchent l'expérience, surtout sur les niveaux plus complexes. L'optimisation pourrait être améliorée pour une fluidité constante. Le concept est bon, mais les performances techniques sont un peu inconsistantes.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Kevin Lee",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a whole board with one big combo! CandyCrush is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The vibrant visuals are sleek and effective. Highly recommended!",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "陳子涵",
+      "rating": 4,
+      "comment": "這是一個非常考驗策略和預判能力的益智遊戲。雖然規則簡單，但要解開每個關卡需要深思熟慮。適合在碎片時間玩，也能訓練腦力。畫面繽紛，玩起來沒有壓力。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "Андрей Белов",
+      "rating": 3,
+      "comment": "Игра неплохая, но порой слишком сильно зависит от рандома появления конфет, что расстраивает. Хотелось бы больше предсказуемости. Для быстрого развлечения сойдет, но не для долгой игры без вложений.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Laura Fischer",
+      "rating": 5,
+      "comment": "Ich bin absolut begeistert von CandyCrush! Es ist so ein geniales und herausforderndes Puzzle-Spiel. Man kann so leicht einsteigen, aber die Strategie, die man entwickeln muss, ist wirklich tiefgründig. Eine wirklich einzigartige und fesselnde Erfahrung. Ich liebe es!",
+      "date": "2025-02-20"
+    },
+    {
+      "id": 39,
+      "avatar": "/files/7.jpg",
+      "name": "Maxime Durand",
+      "rating": 4,
+      "comment": "Un excellent jeu de réflexion pour stimuler l'esprit. La simplicité des règles cache une complexité stratégique intéressante. Chaque puzzle est une nouvelle occasion de s'améliorer. C'est le genre de jeu que l'on garde sur son téléphone pour de petites sessions intellectuelles.",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 40,
+      "avatar": "/files/19.jpg",
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Totally hooked on CandyCrush! It's so satisfying to clear these boards and complete the levels. The matching mechanics feel spot on, and figuring out the optimal cascade is a rewarding challenge. Highly recommended for anyone who loves thinking games and quick sessions.",
+      "date": "2024-10-05"
+    },
+    {
+      "id": 41,
+      "avatar": "/files/72.jpg",
+      "name": "Oliver Schmidt",
+      "rating": 4,
+      "comment": "Really solid game. The difficulty curve is well-managed, and it introduces new elements effectively. It's calming but also quite stimulating. My only minor gripe is the occasional feeling of being stuck without power-ups, but it's part of the challenge. Overall, great for brain exercise.",
+      "date": "2023-08-22"
+    },
+    {
+      "id": 42,
+      "avatar": "/files/401.jpg",
+      "name": "Sophia Lee",
+      "rating": 5,
+      "comment": "CandyCrush is pure joy! It combines simple mechanics with strategic depth perfectly. I love the vibrant colors and satisfying sounds. It's incredibly relaxing, even when challenging. A must-play for casual puzzle fans!",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 43,
+      "avatar": "/files/55.jpg",
+      "name": "Dmitry Volkov",
+      "rating": 3,
+      "comment": "Неплохая игра, но иногда кажется, что генерация конфет слишком рандомна, что делает уровни порой несправедливыми. Хотелось бы больше предсказуемости. Для быстрого развлечения сойдет.",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 44,
+      "avatar": "/files/80.jpg",
+      "name": "Isabelle Tremblay",
+      "rating": 5,
+      "comment": "J'adore CandyCrush! C'est un puzzle qui fait vraiment travailler l'esprit et la patience. La sensation de faire exploser une grande chaîne de bonbons est super. Très bien conçu et addictif. Idéal pour une petite pause ou une longue session de jeu.",
+      "date": "2024-07-18"
+    },
+    {
+      "id": 45,
+      "avatar": "/files/90.jpg",
+      "name": "Michael Brown",
+      "rating": 2,
+      "comment": "Too many levels feel almost identical, just with minor variations. It loses its appeal quickly when there's no real innovation. The core idea is fine, but it needs more varied mechanics or objectives to keep it from getting stale, especially given the aggressive monetization.",
+      "date": "2023-10-29"
+    },
+    {
+      "id": 46,
+      "avatar": "/files/11.jpg",
+      "name": "Yuki Tanaka",
+      "rating": 4,
+      "comment": "シンプルなルールで非常に中毒性のあるパズルゲームです。色と連鎖を考えるのが楽しい。全体的に満足しています。ただ、もう少し無料で遊べる回数を増やしてほしいです。",
+      "date": "2025-03-25"
+    },
+    {
+      "id": 47,
+      "avatar": "/files/66.jpg",
+      "name": "Paul Leclerc",
+      "rating": 5,
+      "comment": "Simple et efficace. CandyCrush est un puzzle game qui vous absorbe complètement. La satisfaction de vider un tableau pour continuer à jouer est incomparable. C'est un jeu intelligent et captivant pour tous les âges.",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 48,
+      "avatar": "/files/121.jpg",
+      "name": "Olga Petrova",
+      "rating": 4,
+      "comment": "Отличная игра для расслабления и тренировки реакции. Уровни хорошо продуманы и не слишком сложные в начале, но потом требуют стратегии. Рекомендую любителям казуальных игр, которые хотят просто отдохнуть, но иногда надоедает реклама.",
+      "date": "2023-12-05"
+    },
+    {
+      "id": 49,
+      "avatar": "/files/13.jpg",
+      "name": "Ethan Wright",
+      "rating": 5,
+      "comment": "Absolutely brilliant and so satisfying. CandyCrush is incredibly engaging. Each level feels fresh, and the 'Aha!' moment when you clear it perfectly is fantastic. Highly addictive and highly polished, a true gaming phenomenon.",
+      "date": "2025-04-20"
+    },
+    {
+      "id": 50,
+      "avatar": "/files/26.jpg",
+      "name": "Jessica Lee",
+      "rating": 4,
+      "comment": "Fun and colorful match-3. It's a great little game to pass the time and challenge your puzzle-solving skills. Sometimes the ads are a bit much, but not enough to ruin the overall experience. Good for long sessions.",
+      "date": "2024-03-11"
+    },
+    {
+      "id": 51,
+      "avatar": "/files/37.jpg",
+      "name": "Carlos Gomez",
+      "rating": 3,
+      "comment": "Decent puzzle game, but after a while, it feels very repetitive and pay-to-win. Needs more varied power-ups or special challenges that don't rely on purchases to keep it interesting in the long run. Good for a quick play, but not for extended sessions without spending.",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 52,
+      "avatar": "/files/48.jpg",
+      "name": "Linda Chen",
+      "rating": 5,
+      "comment": "So immersive! Every pop is a delight. CandyCrush is beautifully designed and endlessly entertaining. It's easy to get lost in the flow of clearing candies and aiming for that new high score. Absolutely love it, still my favorite!",
+      "date": "2025-01-08"
+    },
+    {
+      "id": 53,
+      "avatar": "/files/51.jpg",
+      "name": "Kevin Wilson",
+      "rating": 4,
+      "comment": "Great time killer! The puzzles are interesting, and the aesthetic is pleasing. It's simple, yet keeps you engaged with the challenge of clearing the board. Good job! Just wish lives refilled faster.",
+      "date": "2024-05-19"
+    },
+    {
+      "id": 54,
+      "avatar": "/files/62.jpg",
+      "name": "Chloe Young",
+      "rating": 5,
+      "comment": "Pure, unadulterated fun! It's the perfect blend of casual puzzle and the satisfying feeling of making massive combos. Highly recommend CandyCrush to everyone, it never gets old!",
+      "date": "2025-02-14"
+    },
+    {
+      "id": 55,
+      "avatar": "/files/73.jpg",
+      "name": "Robert Miller",
+      "rating": 3,
+      "comment": "It's alright for a quick game, but it does get a bit monotonous and the progression feels deliberately slowed down to encourage spending. The levels can be frustratingly hard without boosters. It's decent, but not as good as it used to be.",
+      "date": "2024-08-03"
+    },
+    {
+      "id": 56,
+      "avatar": "/files/84.jpg",
+      "name": "Sophia Rodriguez",
+      "rating": 5,
+      "comment": "I'm obsessed with CandyCrush! It's so calming and addictive at the same time. The endless levels keep me entertained, and I love trying to figure out the best moves. The vibrant visuals work perfectly for this style of game. Absolutely brilliant!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 57,
+      "avatar": "/files/95.jpg",
+      "name": "James White",
+      "rating": 4,
+      "comment": "A solid match-3 game. It's perfect for killing a few minutes or zoning out for longer. The variety of levels and challenges is good. It can feel a bit repetitive if you play too long, but it serves its purpose well as a fun casual game.",
+      "date": "2023-10-10"
+    }
+  ]
+}

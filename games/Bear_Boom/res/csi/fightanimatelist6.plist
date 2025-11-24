@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect/bomb_pudding/bomb1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{608,675},{162,220}}</string>
+				<key>offset</key>
+				<string>{13,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{345,675},{261,308}}</string>
+				<key>offset</key>
+				<string>{2,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,343},{330,341}}</string>
+				<key>offset</key>
+				<string>{0,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,684},{330,342}}</string>
+				<key>offset</key>
+				<string>{0,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{339,340}}</string>
+				<key>offset</key>
+				<string>{4,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,343},{337,339}}</string>
+				<key>offset</key>
+				<string>{2,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{342,1},{329,326}}</string>
+				<key>offset</key>
+				<string>{-3,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bomb8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{670,1},{306,306}}</string>
+				<key>offset</key>
+				<string>{-5,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{608,897},{99,106}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{683,309},{174,176}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{683,485},{177,169}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{772,664},{177,169}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{854,485},{170,156}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{861,309},{170,156}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>effect/bomb_pudding/bombbomb2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{772,835},{130,137}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>fightanimatelist6.png</string>
+			<key>realTextureFileName</key>
+			<string>fightanimatelist6.png</string>
+			<key>size</key>
+			<string>{1018,1015}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1018</integer>
+			<key>height</key>
+			<integer>1015</integer>
+		</dict>
+	</dict>
+</plist>

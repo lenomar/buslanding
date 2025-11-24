@@ -1,0 +1,479 @@
+{
+  "type": "Scene",
+  "props": {
+    "y": 0,
+    "x": 0,
+    "width": 1334,
+    "height": 750
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8
+      },
+      "compId": 55
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 229,
+        "x": 667,
+        "width": 400,
+        "height": 353,
+        "centerX": 0,
+        "anchorY": 0.5,
+        "anchorX": 0.5
+      },
+      "compId": 26,
+      "child": [
+        {
+          "type": "Box",
+          "props": {
+            "y": 122,
+            "x": 201,
+            "width": 200,
+            "height": 200,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 63,
+          "child": [
+            {
+              "type": "Image",
+              "props": {
+                "y": 100,
+                "x": 100,
+                "skin": "gameui/resultUI/light.png",
+                "centerY": 0,
+                "centerX": 0,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+              },
+              "compId": 60
+            },
+            {
+              "type": "Sprite",
+              "props": {
+                "y": 57,
+                "x": 39,
+                "texture": "gameui/resultUI/yiduijinbi.png"
+              },
+              "compId": 58
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 171,
+                "x": 99,
+                "width": 253,
+                "valign": "middle",
+                "text": "x9999",
+                "pivotY": 20,
+                "pivotX": 127,
+                "height": 40,
+                "fontSize": 40,
+                "color": "#ffffff",
+                "align": "center"
+              },
+              "compId": 59
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 35,
+            "x": 201,
+            "skin": "gameui/resultUI/title.png",
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 48
+        },
+        {
+          "type": "Image",
+          "props": {
+            "name": "btnMoreGame",
+            "var": "btnMoreGame",
+            "visible": false,
+            "scaleY": 1.1,
+            "scaleX": 1.1,
+            "y": 300,
+            "centerX": 250,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          }
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 410,
+            "x": 200,
+            "skin": "gameui/public/button.png",
+            "visible": false,
+            "scaleY": 0.8,
+            "scaleX": 0.8,
+            "centerX": 0,
+            "anchorY": 0.5,
+            "anchorX": 0.5,
+            "var": "btnCloseTT"
+          },
+          "compId": 100,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 33.5,
+                "x": 127,
+                "text": "Claim",
+                "name": "lab",
+                "fontSize": 48,
+                "color": "#ffffff",
+                "bold": true
+              },
+              "compId": 46
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 61
+            }
+          ]
+        },
+        {
+          "type": "Image",
+          "props": {
+            "y": 300,
+            "x": 200,
+            "skin": "gameui/public/button.png",
+            "scaleY": 0.8,
+            "scaleX": 0.8,
+            "centerX": 0,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+          },
+          "compId": 39,
+          "child": [
+            {
+              "type": "Label",
+              "props": {
+                "y": 33.5,
+                "x": 127,
+                "name": "lab",
+                "text": "Claim x2",
+                "fontSize": 48,
+                "color": "#ffffff",
+                "bold": true
+              },
+              "compId": 46
+            },
+            {
+              "type": "Image",
+              "props": {
+                "y": 29,
+                "x": 25,
+                "skin": "gameui/public/shipin.png"
+              },
+              "compId": 49
+            },
+            {
+              "type": "Script",
+              "props": {
+                "runtime": "Game/components/buttonComp.ts"
+              },
+              "compId": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Image",
+      "props": {
+        "var": "btnShareVideo",
+        "name": "btnShareVideo",
+        "anchorY": 0.5,
+        "anchorX": 0.5,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "right": 0,
+        "centerY": 0
+      },
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "name": "coins",
+            "skin": "gameui/public/jinbi.png",
+            "width": 80,
+            "height": 80,
+            "bottom": -100
+          },
+          "child": [
+            {
+              "type": "Text",
+              "props": {
+                "name": "value",
+                "x": 100,
+                "text": 1000,
+                "height": 80,
+                "color": "#FFFFFF",
+                "valign":  "middle",
+                "bold": true,
+                "fontSize": 58
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/components/bannerbtmComp.ts"
+      },
+      "compId": 64
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "Game/chejigame/ui/resultUI_cheji.ts",
+        "guang_node": "@node:60",
+        "gold_Lab": "@node:59",
+        "general_btn": "@node:50",
+        "double_btn": "@node:39",
+        "box_node": "@node:26",
+        "btnCloseTT": "@node:100"
+      },
+      "compId": 65
+    }
+  ],
+  "animations": [
+    {
+      "nodes": [
+        {
+          "target": 63,
+          "keyframes": {
+            "visible": [
+              {
+                "value": false,
+                "tweenMethod": "linearNone",
+                "tween": false,
+                "target": 63,
+                "key": "visible",
+                "index": 0
+              },
+              {
+                "value": false,
+                "tweenMethod": "linearNone",
+                "tween": false,
+                "target": 63,
+                "key": "visible",
+                "index": 10
+              },
+              {
+                "value": true,
+                "tweenMethod": "linearNone",
+                "tween": false,
+                "target": 63,
+                "key": "visible",
+                "index": 20
+              }
+            ]
+          }
+        },
+        {
+          "target": 39,
+          "keyframes": {
+            "visible": [
+              {
+                "value": false,
+                "tweenMethod": "linearNone",
+                "tween": false,
+                "target": 39,
+                "key": "visible",
+                "index": 0
+              },
+              {
+                "value": true,
+                "tweenMethod": "linearNone",
+                "tween": false,
+                "target": 39,
+                "key": "visible",
+                "index": 20
+              }
+            ]
+          }
+        },
+        {
+          "target": 48,
+          "keyframes": {
+            "y": [
+              {
+                "value": 222,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "y",
+                "index": 0
+              },
+              {
+                "value": 222,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "y",
+                "index": 10
+              },
+              {
+                "value": 13,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "y",
+                "index": 20
+              }
+            ],
+            "x": [
+              {
+                "value": 201,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "x",
+                "index": 0
+              },
+              {
+                "value": 201,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "x",
+                "index": 10
+              },
+              {
+                "value": 200,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "x",
+                "index": 20
+              }
+            ],
+            "scaleY": [
+              {
+                "value": 0,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "scaleY",
+                "index": 0
+              },
+              {
+                "value": 1,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "scaleY",
+                "index": 10
+              }
+            ],
+            "scaleX": [
+              {
+                "value": 0,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "scaleX",
+                "index": 0
+              },
+              {
+                "value": 1,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "scaleX",
+                "index": 10
+              }
+            ],
+            "anchorY": [
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorY",
+                "index": 0
+              },
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorY",
+                "index": 10
+              },
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorY",
+                "index": 20
+              }
+            ],
+            "anchorX": [
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorX",
+                "index": 0
+              },
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorX",
+                "index": 10
+              },
+              {
+                "value": 0.5,
+                "tweenMethod": "linearNone",
+                "tween": true,
+                "target": 48,
+                "key": "anchorX",
+                "index": 20
+              }
+            ]
+          }
+        }
+      ],
+      "name": "ani1",
+      "id": 1,
+      "frameRate": 24,
+      "action": 1
+    }
+  ],
+  "loadList": [
+    "gameui/resultUI/light.png",
+    "gameui/resultUI/yiduijinbi.png",
+    "gameui/resultUI/title.png",
+    "gameui/public/button.png",
+    "gameui/public/shipin.png"
+  ],
+  "loadList3D": []
+}

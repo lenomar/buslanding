@@ -1,0 +1,195 @@
+{
+  "compId": 2,
+  "child": [
+    {
+      "compId": 3,
+      "type": "Box",
+      "props": {
+        "right": 0,
+        "bottom": 0,
+        "top": 0,
+        "bgColor": "#000000",
+        "alpha": 0.8,
+        "left": 0
+      }
+    },
+    {
+      "compId": 5,
+      "child": [
+        {
+          "compId": 6,
+          "child": [
+            {
+              "compId": 7,
+              "type": "Image",
+              "props": {
+                "y": -78,
+                "x": -103,
+                "height": 346,
+                "name": "img_icon",
+                "width": 542
+              }
+            },
+            {
+              "compId": 8,
+              "type": "Image",
+              "props": {
+                "top": -65,
+                "right": 8,
+                "name": "img_limit_desc",
+                "skin": "gameui/newUI/xianshi.png"
+              }
+            },
+            {
+              "compId": 9,
+              "type": "Image",
+              "props": {
+                "centerY": 33,
+                "name": "img_time",
+                "centerX": 0,
+                "skin": "gameui/newUI/daojishi.png"
+              }
+            },
+            {
+              "compId": 11,
+              "child": [
+                {
+                  "compId": 12,
+                  "type": "Label",
+                  "props": {
+                    "name": "lab_time",
+                    "color": "#ffffff",
+                    "text": "00:23:59",
+                    "align": "center",
+                    "height": 57,
+                    "width": 219,
+                    "fontSize": 40,
+                    "centerX": 15,
+                    "valign": "middle",
+                    "y": -2
+                  }
+                }
+              ],
+              "type": "Image",
+              "props": {
+                "bottom": 94,
+                "right": 30,
+                "name": "img_time_bg",
+                "skin": "gameui/newUI/daojishi_di.png"
+              }
+            },
+            {
+              "compId": 13,
+              "child": [
+                {
+                  "compId": 14,
+                  "type": "Image",
+                  "props": {
+                    "centerY": 0,
+                    "left": 20,
+                    "skin": "gameui/newUI/shipin.png"
+                  }
+                },
+                {
+                  "compId": 15,
+                  "type": "Label",
+                  "props": {
+                    "right": 15,
+                    "bold": true,
+                    "color": "#ffffff",
+                    "text": "立即试用",
+                    "fontSize": 32,
+                    "centerY": 0
+                  }
+                },
+                {
+                  "compId": 16,
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  }
+                }
+              ],
+              "type": "Image",
+              "props": {
+                "name": "img_video",
+                "bottom": 25,
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "centerX": 0,
+                "skin": "gameui/newUI/btn_shiyong.png",
+                "y": 304,
+                "x": 391
+              }
+            },
+            {
+              "compId": 18,
+              "child": [
+                {
+                  "compId": 19,
+                  "type": "Script",
+                  "props": {
+                    "runtime": "Game/components/buttonComp.ts"
+                  }
+                }
+              ],
+              "type": "Label",
+              "props": {
+                "name": "lab_exit",
+                "bottom": -40,
+                "color": "#ffffff",
+                "text": "放弃试用",
+                "anchorX": 0.5,
+                "anchorY": 0.5,
+                "fontSize": 30,
+                "centerX": 0,
+                "y": 387,
+                "x": 391
+              }
+            }
+          ],
+          "type": "Image",
+          "props": {
+            "centerY": -11,
+            "name": "img_bg",
+            "centerX": 0,
+            "skin": "gameui/newUI/diban.png"
+          }
+        }
+      ],
+      "type": "Box",
+      "props": {
+        "alpha": 1,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "compId": 17,
+      "type": "Script",
+      "props": {
+        "lab_exit": "@node:18",
+        "img_video": "@node:13",
+        "img_icon": "@node:7",
+        "lab_time": "@node:12",
+        "runtime": "Game/ui/LimitScene.ts"
+      }
+    }
+  ],
+  "type": "Scene",
+  "props": {
+    "width": 1334,
+    "height": 750
+  },
+  "loadList": [
+    "gameui/newUI/diban.png",
+    "gameui/newUI/xianshi.png",
+    "gameui/newUI/daojishi.png",
+    "gameui/newUI/daojishi_di.png",
+    "gameui/newUI/btn_shiyong.png",
+    "gameui/newUI/shipin.png"
+  ],
+  "loadList3D": []
+}

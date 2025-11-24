@@ -1,0 +1,285 @@
+{
+  "title": "Bear_Boom",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Alexandre Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est incroyablement addictif et amusant! Les graphismes sont adorables et les explosions sont super satisfaisantes. Chaque niveau présente un nouveau défi, et j'adore la façon dont les puzzles deviennent de plus en plus complexes. Un vrai coup de cœur pour se détendre et s'amuser!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Sarah Petrova",
+      "rating": 4,
+      "comment": "Игра очень милая и затягивающая. Механика 'взрыв' приносит много удовольствия. Иногда кажется, что некоторые уровни слишком сильно зависят от удачи, а не от стратегии, но в целом очень хорошо. Отличный способ скоротать время.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Jason Miller",
+      "rating": 5,
+      "comment": "Bear_Boom is an absolute blast! The combination of cute bears and explosive puzzles is genius. It's easy to pick up, but the later levels really make you think. The sound effects are great, and the progression feels just right. Highly recommend for a fun brain teaser!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Anna Schmidt",
+      "rating": 2,
+      "comment": "Die Grafik ist niedlich, aber die Menge an Werbung ist unerträglich. Es wird ständig unterbrochen, was den Spielspaß komplett zerstört. Man hat kaum eine Chance, sich auf das Puzzle zu konzentrieren. Sehr frustrierend und enttäuschend. Hoffentlich wird das behoben.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "王小明",
+      "rating": 5,
+      "comment": "熊熊爆炸太好玩了！畫面可愛，爆炸效果爽快。每個關卡都有新挑戰，而且難度循序漸進。玩起來非常解壓，每次成功消除一大片都很有成就感。真心推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Clara Martin",
+      "rating": 4,
+      "comment": "Un jeu de puzzle charmant et bien pensé. Les mécaniques sont simples à comprendre mais les niveaux deviennent complexes rapidement. C'est parfait pour des sessions rapides ou pour passer le temps. J'apprécie le design coloré et l'ambiance joyeuse.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Иванов",
+      "rating": 1,
+      "comment": "Ужасная игра. Постоянно зависает и вылетает. Невозможно пройти и нескольких уровней без проблем. Кроме того, дизайн уровней быстро становится однообразным. Не тратьте свое время на это.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Lukas Becker",
+      "rating": 5,
+      "comment": "Geniales Puzzle-Spiel! Die Explosionen sind super befriedigend und die Level sind clever gestaltet. Man muss wirklich strategisch denken, um die besten Kettenreaktionen auszulösen. Es ist süchtig machend und eine tolle Gehirnübung. Absolute Empfehlung!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Sophia Garcia",
+      "rating": 4,
+      "comment": "The art style is adorable and the animations are very smooth. It's a delightful game to look at and play. The puzzles are engaging enough, though I sometimes wish for a hint system on the really tough ones. Good overall experience.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "遊戲概念不錯，但有些關卡設計不夠新穎。玩久了會覺得重複性高。希望未來能增加更多元的道具或特殊模式，讓遊戲保持新鮮感。可以打發時間，但不算特別突出。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Gabriel Moreau",
+      "rating": 5,
+      "comment": "Impossible de m'arrêter de jouer! Les puzzles sont tellement intelligents et la satisfaction de voir toutes les réactions en chaîne est immense. C'est le jeu parfait pour se détendre tout en stimulant son cerveau. Un vrai chef-d'œuvre du genre casual.",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Оксана Соколова",
+      "rating": 4,
+      "comment": "Хорошая игра для отдыха и расслабления. Головоломки интересные, но не слишком сложные. Интерфейс интуитивно понятен, а звуковое сопровождение приятное. Иногда хотелось бы больше бонусов для прохождения сложных уровней.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Felix Weber",
+      "rating": 1,
+      "comment": "Absolut frustrierend! Das Spiel ist vollgestopft mit Pop-up-Werbung und zwingt einen förmlich zu In-App-Käufen. Man kann kaum fünf Minuten spielen, ohne unterbrochen zu werden. Das macht überhaupt keinen Spaß. Deinstalliert nach kurzer Zeit.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Olivia Jones",
+      "rating": 5,
+      "comment": "This game is incredibly charming and highly addictive. The puzzles are clever, and the 'boom' mechanics are incredibly satisfying. It's perfect for unwinding and provides just the right amount of challenge. Love the cute bear characters!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "高志明",
+      "rating": 4,
+      "comment": "玩這個遊戲可以幫助我放鬆。關卡設計不錯，有時需要思考才能過關。爆炸效果很棒，視覺上很享受。希望以後能有更多有趣的障礙或元素加入，增加挑戰性。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Manon Lefevre",
+      "rating": 3,
+      "comment": "Un jeu de puzzle correct, mais il manque d'originalité. Les niveaux se ressemblent un peu trop au bout d'un moment. C'est un bon passe-temps, mais je n'y retournerais pas régulièrement à moins de nouvelles mises à jour avec plus de diversité.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Смирнова",
+      "rating": 5,
+      "comment": "Очень позитивная и забавная игра! Медведи просто очаровательны, а взрывы приносят нереальное удовольствие. Уровни отлично сбалансированы, сложность растет постепенно. Затягивает надолго, рекомендую для поднятия настроения.",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Maximilian Richter",
+      "rating": 4,
+      "comment": "Niedliches Design, überraschend knifflige Rätsel. Man muss wirklich vorausdenken, um die Ziele zu erreichen. Die Steuerung ist intuitiv, und das Spiel läuft flüssig. Ein schöner Zeitvertreib, der auch das Gehirn fordert.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Emma Roberts",
+      "rating": 2,
+      "comment": "I got bored with this game pretty quickly. The core mechanic is fine, but there's not enough variation in the puzzles or objectives to keep it fresh. It feels like it peaked early and then just repeated itself. Needs more innovative level design.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅婷",
+      "rating": 5,
+      "comment": "這遊戲真的太可愛了！畫風溫暖，爆炸音效也很療癒。關卡難度適中，不會讓人覺得太難放棄，但又充滿挑戰性。每次成功連鎖爆炸，都覺得超級滿足！推薦給所有喜歡休閒益智遊戲的朋友。",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Sophie Garcia",
+      "rating": 4,
+      "comment": "A great little puzzle game, perfect for winding down. The mechanics are easy to grasp, and the levels get progressively harder in a good way. The art is charming, and it's generally a very pleasant experience. Would recommend for casual puzzle fans.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Vladimir Orlov",
+      "rating": 3,
+      "comment": "Нормальная головоломка, но не хватает глубины. После нескольких десятков уровней становится предсказуемой. Хотелось бы видеть больше уникальных элементов или сюрпризов в игре. Можно поиграть, но не надолго.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Julian Wagner",
+      "rating": 5,
+      "comment": "Die Explosionen sind einfach so befriedigend! Dieses Spiel ist unglaublich gut designed, um den Spieler zu belohnen und zu motivieren. Es macht süchtig und ist eine fantastische Möglichkeit, den Kopf frei zu bekommen und gleichzeitig Spaß zu haben. Top-Spiel!",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Liam Kennedy",
+      "rating": 4,
+      "comment": "Great puzzle game for short bursts. The levels are cleverly designed, and there's a good sense of progression. It's a nice blend of strategy and casual fun. Controls are simple and responsive, which is key for this type of game.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳建宏",
+      "rating": 1,
+      "comment": "這個遊戲的內購系統非常糟糕。強迫性消費的提示一直跳出來，不花錢幾乎無法順利玩下去。這完全毀了遊戲體驗。感覺被當成搖錢樹，非常不推薦。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Zoé Lambert",
+      "rating": 5,
+      "comment": "Une merveille! Les puzzles sont ingénieux et le concept des réactions en chaîne est brillamment exécuté. C'est à la fois stimulant pour l'esprit et très relaxant. Les graphismes sont super mignons et ajoutent au charme. J'en suis fan!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Анна Федорова",
+      "rating": 4,
+      "comment": "Очень приятная игра. Затягивает своими интересными головоломками. Хорошо подходит, чтобы отвлечься от повседневных дел. Иногда бывает сложно, но это только добавляет интереса. Рекомендую всем любителям логических игр.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Franziska Lehmann",
+      "rating": 3,
+      "comment": "Das Spiel ist nett, aber es fehlt der gewisse Funke. Die Level sind sich zu ähnlich, und es gibt kaum Überraschungen. Ein paar neue Mechaniken oder Spielmodi würden die Langzeitmotivation deutlich erhöhen. Für zwischendurch ist es okay.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Emily White",
+      "rating": 5,
+      "comment": "Bear_Boom is the perfect blend of cute and challenging. The satisfaction of clearing a complex board with one big 'boom' is incredibly rewarding. It's visually appealing, mentally engaging, and a fantastic way to unwind. Highly addictive!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "林依婷",
+      "rating": 4,
+      "comment": "遊戲設計簡單直觀，但關卡難度有挑戰性。每次消除大量方塊的感覺都非常棒。雖然有些關卡需要多試幾次，但成功後很有成就感。是一款值得推薦的休閒益智遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Antoine Dubois",
+      "rating": 2,
+      "comment": "Ça devient vite répétitif et ennuyeux. Il n'y a pas assez de variété dans les objectifs ou les éléments de jeu. Après quelques dizaines de niveaux, on a l'impression d'avoir tout vu. Manque cruellement de contenu pour maintenir l'intérêt sur la durée.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Сергей Васильев",
+      "rating": 5,
+      "comment": "Гениальная головоломка! Отличная графика, приятные звуки и очень увлекательный геймплей. Продуманные уровни не дают скучать, а возможность создавать цепные реакции делает игру уникальной. Это просто идеальный тайм-киллер!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Lena Koch",
+      "rating": 4,
+      "comment": "Eine sehr unterhaltsame Kombination aus Match-3 und Puzzle. Die Bären sind niedlich, und die Power-Ups sind hilfreich. Manchmal sind die Level etwas knifflig, aber das ist ja der Reiz. Gute Grafik und flüssiges Gameplay. Macht Spaß!",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Catherine Roy",
+      "rating": 3,
+      "comment": "Le concept est sympa, mais le jeu souffre de quelques lenteurs et de bugs mineurs. L'interface pourrait être un peu plus réactive. Il y a du potentiel, mais quelques améliorations techniques seraient les bienvenues pour une meilleure expérience de jeu.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "David Wilson",
+      "rating": 5,
+      "comment": "So incredibly satisfying to clear a whole screen with one perfectly timed explosion! This game is pure joy. It’s addictive, relaxing, and mentally stimulating all at once. The cute bears make it even better. My go-to game when I need to destress.",
+      "date": "2025-01-25"
+    }
+  ]
+}

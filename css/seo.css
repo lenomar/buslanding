@@ -1,0 +1,57 @@
+/* seo.css */
+
+/* Structured data hidden element for screen readers */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+/* Breadcrumb navigation for SEO */
+.breadcrumb {
+    padding: 0.5rem 1rem;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.breadcrumb a {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb span {
+    color: var(--text-light);
+}
+
+/* SEO headings that are visually hidden but readable by screen readers */
+.seo-heading {
+    composes: sr-only;
+}
+
+/* SEO text paragraphs */
+.seo-text {
+    max-width: 800px;
+    margin: 1rem auto;
+    padding: 0 1rem;
+    color: var(--text-light);
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Game schema data container */
+.game-schema-data {
+    display: none;
+}

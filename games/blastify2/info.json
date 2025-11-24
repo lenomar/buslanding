@@ -1,0 +1,309 @@
+{
+  "title": "Blastify2",
+  "reviews": [
+    {
+      "id": 1,
+      "avatar": "/files/45.jpg",
+      "name": "Liam Smith",
+      "rating": 5,
+      "comment": "Blastify2 is an absolute blast! The explosions are incredibly satisfying, and the new levels are even more challenging and creative than the first game. I love the new power-ups, they add so much to the strategy. Hours of fun, highly addictive puzzle game!",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 2,
+      "avatar": "/files/892.jpg",
+      "name": "Ольга Иванова",
+      "rating": 4,
+      "comment": "Игра стала лучше, чем первая часть. Новые механики интересные, и графика улучшилась. Иногда уровни кажутся слишком сложными без использования бустеров, что немного расстраивает. Но в целом очень увлекательно, отличный способ скоротать время.",
+      "date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "avatar": "/files/123.jpg",
+      "name": "Charlotte Dubois",
+      "rating": 5,
+      "comment": "Ce jeu est une pure merveille! Les niveaux sont brillamment conçus, et chaque explosion est un festival visuel. J'adore la façon dont les défis évoluent, nous poussant à penser de manière créative. C'est le genre de jeu où l'on perd la notion du temps. Bravo aux développeurs!",
+      "date": "2025-05-01"
+    },
+    {
+      "id": 4,
+      "avatar": "/files/76.jpg",
+      "name": "Lucas Fischer",
+      "rating": 2,
+      "comment": "Die Explosionen sind nett, aber das Spiel ist voller Werbung und zwingt einen ständig zu In-App-Käufen. Man kann kaum ein Level beenden, ohne unterbrochen zu werden. Das macht absolut keinen Spaß und ruiniert das Spielerlebnis komplett. Sehr enttäuschend.",
+      "date": "2023-04-03"
+    },
+    {
+      "id": 5,
+      "avatar": "/files/201.jpg",
+      "name": "陳偉倫",
+      "rating": 5,
+      "comment": "Blastify2真的超級好玩！爆炸效果更華麗，關卡設計也更精巧了。新的道具和挑戰讓遊戲更有深度。玩起來非常解壓，每次成功引爆連鎖反應都超有成就感。強烈推薦！",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 6,
+      "avatar": "/files/345.jpg",
+      "name": "Mia Thompson",
+      "rating": 4,
+      "comment": "A very solid puzzle game with satisfying mechanics. The new elements add a good layer of complexity without making it too overwhelming. It's perfect for quick sessions, and the progression feels rewarding. Good upgrade from the first one.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "avatar": "/files/678.jpg",
+      "name": "Дмитрий Смирнов",
+      "rating": 1,
+      "comment": "Игра постоянно вылетает, особенно на более поздних уровнях. Это просто невозможно. Разработчики должны срочно исправить эти технические проблемы. Пока это не будет сделано, играть в это невозможно. Ужасно.",
+      "date": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "avatar": "/files/91.jpg",
+      "name": "Laura Müller",
+      "rating": 5,
+      "comment": "Genial! Blastify2 übertrifft den Vorgänger bei Weitem. Die Rätsel sind so kreativ und die Kettenreaktionen sind unglaublich befriedigend. Man muss wirklich strategisch denken, um die höchsten Punktzahlen zu erzielen. Süchtig machend und super unterhaltsam!",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 9,
+      "avatar": "/files/555.jpg",
+      "name": "Noah Davis",
+      "rating": 4,
+      "comment": "The visual effects are stunning, and the animations for the blasts are incredibly smooth. It's a treat for the eyes. The puzzles are engaging, though some feel like they require specific power-ups to clear easily. Overall, a very polished experience.",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 10,
+      "avatar": "/files/14.jpg",
+      "name": "李靜",
+      "rating": 3,
+      "comment": "相比一代有進步，但部分關卡難度設計不平衡，有時純靠運氣。新的道具是個亮點，但整體缺乏更多元的遊戲模式。玩久了會覺得有點疲乏，希望可以有更多變化。",
+      "date": "2024-01-20"
+    },
+    {
+      "id": 11,
+      "avatar": "/files/73.jpg",
+      "name": "Sophie Leroy",
+      "rating": 5,
+      "comment": "Blastify2 est juste parfait pour se vider la tête tout en stimulant l'esprit. Les puzzles sont ingénieux, et la satisfaction de réussir un combo énorme est inégalable. C'est mon nouveau jeu préféré pour mes pauses. Un must-have pour les fans de puzzles!",
+      "date": "2025-03-01"
+    },
+    {
+      "id": 12,
+      "avatar": "/files/98.jpg",
+      "name": "Мария Кузнецова",
+      "rating": 4,
+      "comment": "Очень динамичная и увлекательная головоломка. Новые элементы добавляют свежести. Немного не хватает новых игровых режимов, чтобы разнообразить прохождение. В целом, достойное продолжение, рекомендую для тех, кто любит подумать и взорвать.",
+      "date": "2023-06-20"
+    },
+    {
+      "id": 13,
+      "avatar": "/files/41.jpg",
+      "name": "Jonas Schmidt",
+      "rating": 1,
+      "comment": "Das Spiel ist eine einzige Werbeexplosion! Alle paar Sekunden wird man mit Werbung bombardiert. Es ist unmöglich, sich auf das Gameplay zu konzentrieren. Das macht das Spiel unspielbar und extrem frustrierend. Pure Geldmacherei ohne Rücksicht auf den Spielspaß.",
+      "date": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "avatar": "/files/602.jpg",
+      "name": "Chloe Wilson",
+      "rating": 5,
+      "comment": "Blastify2 is incredibly addictive! The challenges are clever, and the feeling of triggering massive chain reactions is so satisfying. The new graphics and sound effects are a huge improvement. I've spent hours on this game already. Don't miss out on this gem!",
+      "date": "2025-04-15"
+    },
+    {
+      "id": 15,
+      "avatar": "/files/187.jpg",
+      "name": "王浩",
+      "rating": 4,
+      "comment": "比一代更好玩了，特別是新的道具和障礙物，增加了不少策略性。爆炸的視覺效果和音效也很棒，玩起來很爽快。有些關卡真的很有挑戰性，但每次解開都很有成就感。",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 16,
+      "avatar": "/files/25.jpg",
+      "name": "Gabriel Bernard",
+      "rating": 3,
+      "comment": "C'est un jeu de puzzle correct, mais il manque d'une vraie nouveauté par rapport au premier. Les niveaux sont bien, mais l'impression de déjà-vu est un peu présente. Ça reste un bon passe-temps, mais je m'attendais à plus d'innovation pour une suite.",
+      "date": "2024-08-20"
+    },
+    {
+      "id": 17,
+      "avatar": "/files/876.jpg",
+      "name": "Наталья Петрова",
+      "rating": 5,
+      "comment": "Blastify2 - это просто шедевр! Взрывы стали еще масштабнее, а головоломки - еще интереснее. Новые бонусы отлично вписываются в геймплей. Очень затягивает, время пролетает незаметно. Настоятельно рекомендую всем любителям головоломок!",
+      "date": "2025-03-05"
+    },
+    {
+      "id": 18,
+      "avatar": "/files/3.jpg",
+      "name": "Lena Fischer",
+      "rating": 4,
+      "comment": "Nette Weiterentwicklung des Originals. Die Level sind clever designt und die neuen Elemente bringen frischen Wind. Manchmal fühlt es sich etwas zu sehr nach Glück an, aber die meiste Zeit ist es strategisch. Guter Zeitvertreib für Puzzle-Fans.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 19,
+      "avatar": "/files/599.jpg",
+      "name": "Ryan Johnson",
+      "rating": 2,
+      "comment": "This sequel feels more like an expansion pack than a true sequel. While it's generally fine, it doesn't offer enough new mechanics or substantial content to justify a whole new title. It gets repetitive fast, and I lost interest quickly. Needs more innovation.",
+      "date": "2024-05-20"
+    },
+    {
+      "id": 20,
+      "avatar": "/files/811.jpg",
+      "name": "張雅婷",
+      "rating": 5,
+      "comment": "Blastify2真的讓我停不下來！爆炸特效更炫了，關卡設計也更考驗腦力。每次成功引爆大規模連鎖反應，都讓我充滿成就感。是個非常解壓又刺激的遊戲，推薦給喜歡消除遊戲的玩家。",
+      "date": "2025-01-01"
+    },
+    {
+      "id": 21,
+      "avatar": "/files/900.jpg",
+      "name": "Antoine Dubois",
+      "rating": 4,
+      "comment": "Un excellent jeu de puzzle. Les graphismes sont nets et les animations sont fluides. Les niveaux sont assez variés et offrent un bon défi. C'est parfait pour quelques minutes de détente ou des sessions plus longues. Très satisfaisant de résoudre un niveau complexe.",
+      "date": "2023-10-25"
+    },
+    {
+      "id": 22,
+      "avatar": "/files/16.jpg",
+      "name": "Иван Козлов",
+      "rating": 3,
+      "comment": "Игра стала лучше, но некоторые уровни слишком зависимы от доната или удачи. Было бы здорово иметь больше бесплатных способов получить бустеры. В целом, неплохо, но есть куда стремиться в плане баланса и монетизации.",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 23,
+      "avatar": "/files/777.jpg",
+      "name": "Clara Meier",
+      "rating": 5,
+      "comment": "Die Explosionen sind einfach unglaublich befriedigend! Blastify2 ist ein Meisterwerk der Puzzle-Spiele. Die Level sind genial und die neuen Herausforderungen sind perfekt integriert. Man wird süchtig danach, immer größere Kettenreaktionen auszulösen. Ein absolutes Muss!",
+      "date": "2025-04-01"
+    },
+    {
+      "id": 24,
+      "avatar": "/files/234.jpg",
+      "name": "Daniel Carter",
+      "rating": 4,
+      "comment": "Great puzzle game for a quick mental workout. The mechanics are simple to understand but offer surprising depth in later levels. The addition of new elements keeps the gameplay fresh. It's a solid sequel that improves on the original in key areas.",
+      "date": "2023-12-18"
+    },
+    {
+      "id": 25,
+      "avatar": "/files/5.jpg",
+      "name": "陳建宏",
+      "rating": 1,
+      "comment": "遊戲體驗被內購和廣告完全破壞了。幾乎每玩幾分鐘就跳出廣告，而且感覺不花錢根本玩不下去。這根本不是在玩遊戲，而是在被推銷。非常令人失望，不推薦給任何人。",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 26,
+      "avatar": "/files/888.jpg",
+      "name": "Zoé Moreau",
+      "rating": 5,
+      "comment": "Fantastique! Blastify2 est incroyablement bien conçu, avec des niveaux qui sont à la fois un défi et un plaisir à résoudre. Les animations des explosions sont fluides et très satisfaisantes. C'est le genre de jeu que l'on ne peut pas lâcher. Bravo!",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 27,
+      "avatar": "/files/100.jpg",
+      "name": "Сергей Петров",
+      "rating": 4,
+      "comment": "Отличное продолжение. Новые уровни интересные, и головоломки заставляют подумать. Могли бы добавить больше уникальных режимов игры, чтобы разнообразить процесс. Но в целом, очень достойная головоломка для мобильных устройств.",
+      "date": "2023-06-01"
+    },
+    {
+      "id": 28,
+      "avatar": "/files/654.jpg",
+      "name": "Julia Koch",
+      "rating": 3,
+      "comment": "Es ist ein nettes Puzzle-Spiel, aber es fehlt der Wow-Effekt. Die neuen Features sind okay, aber nicht bahnbrechend. Es ist gut für zwischendurch, aber kein Spiel, das mich lange fesselt. Könnte etwas mehr Innovation gebrauchen.",
+      "date": "2024-04-22"
+    },
+    {
+      "id": 29,
+      "avatar": "/files/321.jpg",
+      "name": "Emma White",
+      "rating": 5,
+      "comment": "Blastify2 truly lives up to its name! The explosions are so satisfying, and the puzzles are incredibly engaging. It's a perfect blend of casual fun and strategic thinking. Every level feels like a fresh challenge. Highly addictive and highly recommended!",
+      "date": "2025-03-10"
+    },
+    {
+      "id": 30,
+      "avatar": "/files/999.jpg",
+      "name": "林依婷",
+      "rating": 4,
+      "comment": "作為續作，Blastify2在視覺和音效上都有顯著提升。關卡設計也更具挑戰性，需要更多思考。有時候會遇到一些需要精準操作的關卡，這增加了遊戲的耐玩度。整體來說是很不錯的消除遊戲。",
+      "date": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "avatar": "/files/111.jpg",
+      "name": "Louis Dupont",
+      "rating": 2,
+      "comment": "Devient vite répétitif et les nouveaux éléments n'apportent pas assez de changement. L'ennui s'installe rapidement. Il manque de profondeur et de variété pour une suite. Je m'attendais à une évolution plus significative du gameplay.",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 32,
+      "avatar": "/files/444.jpg",
+      "name": "Александр Васильев",
+      "rating": 5,
+      "comment": "Это шедевр! Blastify2 — лучшая головоломка, в которую я играл в этом году. Новые уровни просто гениальны, а анимация взрывов великолепна. Очень сильно затягивает, невозможно оторваться. Обязательно к скачиванию для всех любителей пазлов!",
+      "date": "2025-05-10"
+    },
+    {
+      "id": 33,
+      "avatar": "/files/707.jpg",
+      "name": "Max Werner",
+      "rating": 4,
+      "comment": "Gutes Puzzle-Spiel, das Spaß macht und gleichzeitig fordert. Die Lernkurve ist gut, und die neuen Mechaniken sind clever. Manchmal wirken die Bonus-Items etwas übermächtig, aber das ist Meckern auf hohem Niveau. Klare Empfehlung.",
+      "date": "2023-07-07"
+    },
+    {
+      "id": 34,
+      "avatar": "/files/222.jpg",
+      "name": "Chloé Bernard",
+      "rating": 3,
+      "comment": "Le jeu est amusant, mais j'ai rencontré quelques bugs et des ralentissements, surtout sur les niveaux plus complexes. L'expérience n'est pas toujours fluide. Il y a du potentiel, mais des optimisations techniques seraient nécessaires pour une meilleure jouabilité.",
+      "date": "2024-02-19"
+    },
+    {
+      "id": 35,
+      "avatar": "/files/808.jpg",
+      "name": "Daniel Kim",
+      "rating": 5,
+      "comment": "So incredibly satisfying to chain together huge combos and watch everything explode! Blastify2 is pure joy and incredibly addictive. It’s the perfect game to unwind and challenge your brain at the same time. The visual and sound design are top-notch.",
+      "date": "2025-01-25"
+    },
+    {
+      "id": 36,
+      "avatar": "/files/50.jpg",
+      "name": "黃國強",
+      "rating": 4,
+      "comment": "很適合打發時間的益智遊戲，而且爆炸效果很療癒。新的關卡設計讓遊戲保持了新鮮感，不會太快玩膩。對喜歡消除類遊戲的玩家來說，這是一款不錯的選擇。",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 37,
+      "avatar": "/files/621.jpg",
+      "name": "София Михайлова",
+      "rating": 3,
+      "comment": "Визуально игра приятна, но иногда сложность уровней кажется несправедливой без использования внутриигровых покупок. Это портит впечатление. Если бы разработчики поработали над балансом, было бы намного лучше.",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 38,
+      "avatar": "/files/333.jpg",
+      "name": "Sarah Wagner",
+      "rating": 5,
+      "comment": "Ich bin total begeistert von Blastify2! Die Rätsel sind so intelligent und die Kettenreaktionen sind ein absoluter Genuss. Es ist erfrischend herausfordernd und die Grafik ist wunderbar. Ein wirklich hervorragendes Puzzle-Spiel, das ich nur empfehlen kann!",
+      "date": "2025-02-20"
+    }
+  ]
+}
