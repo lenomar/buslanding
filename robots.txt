@@ -8,4 +8,4 @@ Allow: /detail.html
 Allow: /images/
 Allow: /css/
 Allow: /js/
-Sitemap: https://poki.love/sitemap.xml
+Sitemap: https://buslanding.com/sitemap.xml

@@ -25,7 +25,7 @@
       "strategy_guide": "Mastering Ball Sort Master requires patience and foresight. The goal is simple: group all balls of the same color into a single tube. Sounds easy, right? It gets tricky quickly! **Always try to create empty tubes as soon as possible.** An empty tube is your most valuable asset, giving you crucial space to maneuver balls.\n\n**Prioritize clearing out 'stuck' balls at the bottom of tubes.** Often, a single ball of the wrong color can block an entire stack, preventing you from completing a tube. Look for opportunities to move these blockers out of the way, even if it means temporarily placing them in another non-ideal tube.\n\n**Think several moves ahead.** Before moving a ball, consider where it will go and what effect that move will have on subsequent sorting. Avoid blindly moving balls. If you get stuck, don't be afraid to use the undo button (if available) or restart the level. Sometimes, a fresh perspective helps. Remember, **there's usually a logical path to victory**, even in the most complex layouts. Take your time, plan your moves, and enjoy the satisfaction of a perfectly sorted puzzle!"
     },
     {
-      "title": "Basket Slide",
+      "title": "BasketSlide",
       "icon": "games/basket-slide/icon.png",
       "info": "games/basket-slide/info.json",
       "folder": "Basket Slide",
