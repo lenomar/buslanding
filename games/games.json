@@ -1,15 +1,15 @@
 {
   "homeGame": {
-    "title": "BlobOpera",
-    "icon": "games/BlobOpera/icon.png",
-    "info": "games/BlobOpera/info.json",
-    "folder": "BlobOpera",
-    "index": "games/BlobOpera/index.html",
-    "author": "Sound Savants",
+    "title": "BallSortPuzzle",
+    "icon": "games/BallSortPuzzle/icon.png",
+    "info": "games/BallSortPuzzle/info.json",
+    "folder": "BallSortPuzzle",
+    "index": "games/BallSortPuzzle/index.html",
+    "author": "Creative Bytes",
     "rating": 5,
-    "popularity": 9500,
-    "description": "Unleash your inner maestro with Blob Opera! Create incredible operatic harmonies by manipulating four adorable, singing blobs. Experiment with different voices and pitches to compose your own unique and hilarious masterpieces. Pure musical fun!",
-    "strategy_guide": "Welcome to Blob Opera, where musical exploration meets delightful whimsy! This isn't a game with strict rules, but rather a creative playground. **The core idea is experimentation.** Don't be afraid to drag the blobs around wildly at first to hear how their voices change. Each blob controls a different voice part, typically corresponding to Bass, Tenor, Mezzo-Soprano, and Soprano.\n\n**To create pleasant harmonies, try to keep the blobs relatively close together vertically** – this usually keeps them in similar musical keys. However, pushing them far apart can lead to interesting, dissonant effects if that's what you're after! **Horizontal movement controls the vowel sounds**, leading to different vocalizations like 'Ah', 'Oh', 'Ee'. Play with this to give your operatic pieces more character and emotional range.\n\nFor a more structured approach, **try recording a short segment, then adjusting the blobs' positions slightly and recording another layer.** This allows you to build complex vocal arrangements piece by piece. Listen carefully to how the voices blend. Sometimes, less is more; a simple, clear melody from one or two blobs can be more effective than a chaotic mix. Most importantly, **have fun and let your creativity guide you** – there are no wrong notes when the blobs are singing!"
+    "popularity": 8956,
+    "description": "Engage your brain with Ball Sort Puzzle! Arrange the multi-colored balls in the tubes until each tube contains only one color. A brilliant mix of strategy and relaxation, offering countless levels to challenge and entertain you.",
+    "strategy_guide": "Ball Sort Puzzle is a fantastic brain exercise that combines relaxation with strategic thinking. The core mechanics are simple: move balls between tubes to sort them by color, with the ultimate goal of having each tube contain only one color. **The golden rule is to always try and create empty tubes.** Empty tubes act as temporary holding spaces and are essential for maneuvering balls, especially in tight situations.\n\n**Look for 'top-most' balls that block others.** Often, a ball on top of a stack of mixed colors is preventing you from sorting the colors below it. Identify these blockers and figure out where you can temporarily move them to open up paths. **Avoid moves that trap a necessary ball deep within a tube** where you can't easily access it without undoing many steps.\n\n**Plan your moves in sequences.** Instead of just moving one ball, consider the next two or three moves. Can this move help you clear a tube, or move a specific color to its destined tube? If a level seems impossible, **don't hesitate to use the undo feature** or restart. Sometimes, a fresh start or reconsidering an early move can unlock the solution. Enjoy the process of finding the most elegant sorting sequence!"
   },
   "gameList": [
     {
